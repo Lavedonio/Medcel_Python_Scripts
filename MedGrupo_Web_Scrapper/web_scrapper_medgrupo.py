@@ -18,24 +18,31 @@ time.sleep(2)
 
 infos_por_instituicao = driver.find_elements_by_xpath("//div[@class='content-lista-aprovados__container']")
 
-i = 0
 
 for infos_por_hospital in infos_por_instituicao:
     hospital = infos_por_hospital.find_element_by_xpath(".//div[@class='content-lista-aprovados__hospital']")
     all_cursos = infos_por_hospital.find_elements_by_xpath(".//h4[@class='content-lista-aprovados__titulo']")
     all_aprovados = infos_por_hospital.find_elements_by_xpath(".//ul[@class='content-lista-aprovados__nomes' or @class='content-lista-aprovados__nomes stamp']")
+
+    i = 0
+
     for curso in all_cursos:
-        if i < len(all_aprovados):
-            aprovado = all_aprovados[i].find_elements_by_xpath(".//span[@class='destaque']")
-            print("%s; %s; %s" % (hospital.text, curso.text, aprovado[i].text))
-            i += 1
-            num_aprovado = int(aprovado[i].text.split()[0][0:-1])
-            while num_aprovado != 1 and i < len(all_aprovados):
-                print(int(aprovado[i].text[0]))
-                print(len(all_aprovados))
-                print("%s; %s; %s" % (hospital.text, curso.text, aprovado[i].text))
-                i += 1
-                num_aprovado = int(aprovado[i].text.split()[0][0:-1])
+        aprovados_curso = all_aprovados[i].find_elements_by_xpath(".//span[@class='destaque']")
+        i += 1
+        for aprovado in aprovados_curso:
+            print("%s; %s; %s" % (hospital.text, curso.text, aprovado.text))
+    #     num_aprovado = 1
+    #     primeira_execucao = True
+    #     while (primeira_execucao or num_aprovado != 1) and i < len(all_aprovados):
+    #         aprovado = all_aprovados[i].find_element_by_xpath(".//span[@class='destaque']")
+    #         print("%s; %s; %s" % (hospital.text, curso.text, aprovado.text))
+    #         i += 1
+    #         num_aprovado = int(aprovado.text.split()[0][0:-1])   # Texto da forma: "1. Nome Completo"
+    #         primeira_execucao = False
+    # while i < len(all_aprovados):
+    #     aprovado = all_aprovados[i].find_element_by_xpath(".//span[@class='destaque']")
+    #     print(aprovado.text)
+    #     i += 1
 
 # all_hospital = driver.find_elements_by_xpath("//div[@class='content-lista-aprovados__hospital']")
 
