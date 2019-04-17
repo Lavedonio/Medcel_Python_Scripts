@@ -39,7 +39,7 @@ def csv_Handler():
         file = open("aprovados_medgrupo.csv", "w+")
 
     if not test:
-        file.write("Estado;Instituição;Hospital;Colocação;Nome_Aprovado\n")
+        file.write("Estado;Instituição;Hospital;Curso;Colocação;Nome_Aprovado\n")
 
     return file, test
 
@@ -49,6 +49,8 @@ def csv_Handler():
 # <----------------- Webdriver start ----------------->
 def web_scrapper(file, test):
     print("\nIniciando importação...\n")
+
+    error_counter = 0
 
     my_url = "https://site.medgrupo.com.br/#/aprovacoes"
 
@@ -87,28 +89,36 @@ def web_scrapper(file, test):
 
         infos_por_instituicao = driver.find_elements_by_xpath("//div[@class='content-lista-aprovados__container']")
 
-        for infos_por_hospital in infos_por_instituicao:
-            print(len(infos_por_instituicao))
-            hospital = infos_por_hospital.find_element_by_xpath(".//div[@class='content-lista-aprovados__hospital']")
-            all_cursos = infos_por_hospital.find_elements_by_xpath(".//h4[@class='content-lista-aprovados__titulo']")
-            all_aprovados = infos_por_hospital.find_elements_by_xpath(".//ul[@class='content-lista-aprovados__nomes' or @class='content-lista-aprovados__nomes stamp']")
+        try:
+            for infos_por_hospital in infos_por_instituicao:
+                # print(len(infos_por_instituicao))
+                hospital = infos_por_hospital.find_element_by_xpath(".//div[@class='content-lista-aprovados__hospital']")
+                all_cursos = infos_por_hospital.find_elements_by_xpath(".//h4[@class='content-lista-aprovados__titulo']")
+                all_aprovados = infos_por_hospital.find_elements_by_xpath(".//ul[@class='content-lista-aprovados__nomes' or @class='content-lista-aprovados__nomes stamp']")
 
-            i = 0
-            print("--Hospital: %s" % (hospital.text))
+                i = 0
+                print("--Hospital: %s" % (hospital.text))
 
-            for curso in all_cursos:
-                try:
+                for curso in all_cursos:
                     if i < len(all_aprovados):
                         aprovados_curso = all_aprovados[i].find_elements_by_xpath(".//span[@class='destaque']")
                         i += 1
+                        suplentes = False
                         for aprovado in aprovados_curso:
-                            file.write("%s;%s;%s;%s;%s\n" % (estado_text, instituicao_text, hospital.text, curso.text, aprovado.text.replace(". ", ";")))
-                except StaleElementReferenceException:
-                    print("StaleElementReferenceException occured; line not written on file. Continuing...")
+                            if not suplentes:
+                                if "suplente" in aprovado.text.lower():
+                                    suplentes = True
+                                else:
+                                    file.write("%s;%s;%s;%s;%s\n" % (estado_text, instituicao_text, hospital.text, curso.text, aprovado.text.replace(". ", ";", 1)))
+        except StaleElementReferenceException:
+            print("\nStaleElementReferenceException occured; line not written on file. Continuing...\n")
+            error_counter += 1
+            file.write(" ")
 
         # driver.refresh()
         num_instituicao += 1
 
+    print("\nHouveram um total de %d erros na execução do programa. Verifique se os dados retirados do site conferem com o CSV." % (error_counter))
     return driver
 # <---------------- /Webdriver start ----------------->
 
