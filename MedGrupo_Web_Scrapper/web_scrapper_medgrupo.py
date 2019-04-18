@@ -135,5 +135,36 @@ def main():
     closing(driver, file, test)
 
 
+def test_function():
+    '''
+    ' Função criada para testar funcionalidades do código sem atrapalhar o fluxo principal
+    '
+    '''
+
+    my_url = "https://site.medgrupo.com.br/#/aprovacoes"
+
+    # Define window size for certain class selectors appear, thanks to the page's JS
+    options = Options()
+    # options.add_argument("window-size=800,700")
+
+    driver = webdriver.Chrome(options=options, executable_path=r'/Library/FilesToPath/chromedriver')
+    driver.get(my_url)
+
+    driver.set_window_size(800, 800)
+
+    all_estados_text = []
+    all_estados = driver.find_elements_by_xpath("//select[@class='estado-instituicao-mobile__estado tagmanager-select']/option")
+    for estado in all_estados:
+        all_estados_text.append(estado.get_attribute("value"))
+        print(estado.get_attribute("value"))
+
+    driver.set_window_size(1200, 800)
+
+    all_estados_selector_box = driver.find_elements_by_xpath("//div[@class='regiao']")
+
+    all_estados_regioes = all_estados_selector_box.find_elements_by_xpath(".//div/div")
+
+
 if __name__ == '__main__':
     main()
+    # test_function()
