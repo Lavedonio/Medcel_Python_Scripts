@@ -165,6 +165,8 @@ def test_function():
         raise ValueError
 
     error_counter = 0
+    estado_error_counter = 0
+    erros_por_estado_dict = {}
 
     my_url = "https://site.medgrupo.com.br/#/aprovacoes"
 
@@ -181,64 +183,154 @@ def test_function():
     all_estados = driver.find_elements_by_xpath("//select[@class='estado-instituicao-mobile__estado tagmanager-select']/option")
     for estado in all_estados:
         all_estados_text.append(estado.get_attribute("value"))
-    estado_text = all_estados_text[0]
 
-    # Pega todos os nomes das instituições de determinado estado
-    all_instituicoes_text = []
-    all_instituicoes = driver.find_elements_by_xpath("//select[@class='estado-instituicao-mobile__instituicao tagmanager-select']/option")
-    for instituicao in all_instituicoes:
-        all_instituicoes_text.append(instituicao.get_attribute("value"))
+    for estado_text in all_estados_text:
+        notify("Aviso do Web Scrapper!", "Estado concluído! Abra o terminal para continuar.")
+        input("\nPróximo estado é %s. Selecione o estado indicado no browser e digite enter para continuar..." % (estado_text))
+        print(".")
+        print("|---Estado: %s" % (estado_text))
 
-    driver.set_window_size(1200, 800)
+        driver.set_window_size(800, 800)
 
-    all_instituicoes = driver.find_elements_by_xpath("//ul[@class='estado-instituicao__lista disable-select']/li")
+        # Pega todos os nomes das instituições de determinado estado
+        all_instituicoes_text = []
+        all_instituicoes = driver.find_elements_by_xpath("//select[@class='estado-instituicao-mobile__instituicao tagmanager-select']/option")
+        for instituicao in all_instituicoes:
+            all_instituicoes_text.append(instituicao.get_attribute("value"))
 
-    num_instituicao = 0
-    for instituicao in all_instituicoes:
-        instituicao_text = all_instituicoes_text[num_instituicao]
+        driver.set_window_size(1200, 800)
 
-        print("-Instituição: %s" % (instituicao_text))
+        all_instituicoes = driver.find_elements_by_xpath("//ul[@class='estado-instituicao__lista disable-select']/li")
 
-        instituicao.click()
+        num_instituicao = 0
+        for instituicao in all_instituicoes:
+            instituicao_text = all_instituicoes_text[num_instituicao]
 
-        infos_por_instituicao = driver.find_elements_by_xpath("//div[@class='content-lista-aprovados__container']")
+            print("| |---Instituição: %s" % (instituicao_text))
 
-        try:
-            for infos_por_hospital in infos_por_instituicao:
-                # print(len(infos_por_instituicao))
-                hospital = infos_por_hospital.find_element_by_xpath(".//div[@class='content-lista-aprovados__hospital']")
-                all_cursos_aprovados = infos_por_hospital.find_elements_by_xpath(".//div[not(contains(@class, 'content-lista-aprovados__info'))]")
-                # all_cursos_aprovados = infos_por_hospital.find_elements_by_xpath(".//div")
+            instituicao.click()
 
-                for cursos_aprovados in all_cursos_aprovados[1:]:
-                    # print("index =", index)
-                    # print(cursos_aprovados.text)
-                    # if index == 2:
-                    #     driver.quit()
-                    #     raise ValueError
-                    curso = cursos_aprovados.find_element_by_xpath(".//h4[@class='content-lista-aprovados__titulo']")
-                    all_aprovados_curso = cursos_aprovados.find_elements_by_xpath(".//li/span[@class='destaque']")
-                    suplentes = False
-                    for aprovado in all_aprovados_curso:
-                        if not suplentes:
-                            if "suplente" in aprovado.text.lower():
-                                suplentes = True
-                            else:
-                                if aprovado.text[0] == ".":
-                                    file.write("%s;%s;%s;%s;%s\n" % (estado_text, instituicao_text, hospital.text, curso.text, aprovado.text.replace(".", ";;", 1)))
+            infos_por_instituicao = driver.find_elements_by_xpath("//div[@class='content-lista-aprovados__container']")
+
+            try:
+                for infos_por_hospital in infos_por_instituicao:
+                    # print(len(infos_por_instituicao))
+                    hospital = infos_por_hospital.find_element_by_xpath(".//div[@class='content-lista-aprovados__hospital']")
+                    all_cursos_aprovados = infos_por_hospital.find_elements_by_xpath(".//div[not(contains(@class, 'content-lista-aprovados__info'))]")
+                    # all_cursos_aprovados = infos_por_hospital.find_elements_by_xpath(".//div")
+
+                    print("| | |---Hospital: %s" % (hospital.text))
+
+                    for cursos_aprovados in all_cursos_aprovados[1:]:
+                        # print("index =", index)
+                        # print(cursos_aprovados.text)
+                        # if index == 2:
+                        #     driver.quit()
+                        #     raise ValueError
+                        curso = cursos_aprovados.find_element_by_xpath(".//h4[@class='content-lista-aprovados__titulo']")
+                        all_aprovados_curso = cursos_aprovados.find_elements_by_xpath(".//li/span[@class='destaque']")
+                        suplentes = False
+                        for aprovado in all_aprovados_curso:
+                            if not suplentes:
+                                if "suplente" in aprovado.text.lower():
+                                    suplentes = True
+                                elif len(aprovado.text) == 0:
+                                    pass
                                 else:
-                                    file.write("%s;%s;%s;%s;%s\n" % (estado_text, instituicao_text, hospital.text, curso.text, aprovado.text.replace(". ", ";", 1)))
-        except StaleElementReferenceException:
-            print("\nStaleElementReferenceException occured; line not written on file. Continuing...\n")
-            error_counter += 1
+                                    if aprovado.text[0] == ".":
+                                        file.write("%s;%s;%s;%s;%s\n" % (estado_text, instituicao_text, hospital.text, curso.text, aprovado.text.replace(".", ";", 1)))
+                                    elif aprovado.text[0].isdigit():
+                                        file.write("%s;%s;%s;%s;%s\n" % (estado_text, instituicao_text, hospital.text, curso.text, aprovado.text.replace(". ", ";", 1)))
+                                    else:
+                                        file.write("%s;%s;%s;%s;;%s\n" % (estado_text, instituicao_text, hospital.text, curso.text, aprovado.text))
+            except StaleElementReferenceException:
+                print("\nStaleElementReferenceException occured; line not written on file. Continuing...\n")
+                estado_error_counter += 1
+                error_counter += 1
 
-        # driver.refresh()
-        num_instituicao += 1
+            num_instituicao += 1
+        driver.refresh()
+
+        erros_por_estado_dict[estado_text] = estado_error_counter
+        print("\nNa apuração do estado de %s houveram %d erros de execução.\n" % (estado_text, estado_error_counter))
+        estado_error_counter = 0
 
     print("\nHouveram um total de %d erros na execução do programa. Verifique se os dados retirados do site conferem com o CSV." % (error_counter))
+    print("\nErros por estado:")
+    for key, value in erros_por_estado_dict.items():
+        print("  %s: %d" % (key, value))
+
+    file.close()
+    driver.quit()
+
+
+def coletar_aprovados_instituicao():
+    my_url = "https://site.medgrupo.com.br/#/aprovacoes"
+
+    # Define window size for certain class selectors appear, thanks to the page's JS
+    options = Options()
+    # options.add_argument("window-size=800,700")
+
+    driver = webdriver.Chrome(options=options, executable_path=r'/Library/FilesToPath/chromedriver')
+    driver.get(my_url)
+
+    estado_text = input("Digite nome do estado: ")
+    instituicao_text = input("Digite o nome da instituição: ")
+
+    print("")
+
+    if file_exists('./aprovados_medgrupo_%s_%s.csv' % (estado_text, instituicao_text)):
+        i = 1
+        while file_exists('./aprovados_medgrupo_%s_%s_(%s).csv' % (estado_text, instituicao_text, i)):
+            i += 1
+        print("Criando novo arquivo aprovados_medgrupo_%s_%s_(%s).csv...\n" % (estado_text, instituicao_text, i))
+        file = open("aprovados_medgrupo_%s_%s_(%s).csv" % (estado_text, instituicao_text, i), "w+")
+    else:
+        print("Criando novo arquivo aprovados_medgrupo_%s_%s.csv...\n" % (estado_text, instituicao_text))
+        file = open("aprovados_medgrupo_%s_%s.csv" % (estado_text, instituicao_text), "w+")
+
+    file.write("Estado;Instituição;Hospital;Curso;Colocação;Nome_Aprovado\n")
+
+    infos_por_instituicao = driver.find_elements_by_xpath("//div[@class='content-lista-aprovados__container']")
+
+    try:
+        for infos_por_hospital in infos_por_instituicao:
+            # print(len(infos_por_instituicao))
+            hospital = infos_por_hospital.find_element_by_xpath(".//div[@class='content-lista-aprovados__hospital']")
+            all_cursos_aprovados = infos_por_hospital.find_elements_by_xpath(".//div[not(contains(@class, 'content-lista-aprovados__info'))]")
+            # all_cursos_aprovados = infos_por_hospital.find_elements_by_xpath(".//div")
+
+            print("---Hospital: %s" % (hospital.text))
+
+            for cursos_aprovados in all_cursos_aprovados[1:]:
+                # print("index =", index)
+                # print(cursos_aprovados.text)
+                # if index == 2:
+                #     driver.quit()
+                #     raise ValueError
+                curso = cursos_aprovados.find_element_by_xpath(".//h4[@class='content-lista-aprovados__titulo']")
+                all_aprovados_curso = cursos_aprovados.find_elements_by_xpath(".//li/span[@class='destaque']")
+                suplentes = False
+                for aprovado in all_aprovados_curso:
+                    if not suplentes:
+                        if "suplente" in aprovado.text.lower():
+                            suplentes = True
+                        elif len(aprovado.text) == 0:
+                            pass
+                        else:
+                            if aprovado.text[0] == ".":
+                                file.write("%s;%s;%s;%s;%s\n" % (estado_text, instituicao_text, hospital.text, curso.text, aprovado.text.replace(".", ";", 1)))
+                            elif aprovado.text[0].isdigit():
+                                file.write("%s;%s;%s;%s;%s\n" % (estado_text, instituicao_text, hospital.text, curso.text, aprovado.text.replace(". ", ";", 1)))
+                            else:
+                                file.write("%s;%s;%s;%s;;%s\n" % (estado_text, instituicao_text, hospital.text, curso.text, aprovado.text))
+    except StaleElementReferenceException:
+        print("\nStaleElementReferenceException occured; line not written on file. Aborting...\n")
+
     file.close()
     driver.quit()
 
 if __name__ == '__main__':
-    main()
+    # main()
     # test_function()
+    coletar_aprovados_instituicao()
