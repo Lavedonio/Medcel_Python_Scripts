@@ -1,0 +1,729 @@
+Estado;Instituição;Hospital;Curso;Colocação;Nome_Aprovado
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;NEUROCIRURGIA;1;Yuri Estevam Bandeira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;NEUROCIRURGIA;2;Guilherme Henrique Ferreira Da Costa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;NEUROCIRURGIA;3;Francisco Caubi Ferreira Filho
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;NEUROCIRURGIA;4;Vitor Nagai Yamaki
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;NEUROCIRURGIA;5;Anderson Batista Rodrigues
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;NEUROCIRURGIA;6;Gabriela Moreira Mahle Romanek
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;NEUROCIRURGIA;7;Caio Cesar Nuto Leite Franca
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OFTALMOLOGIA;1;Guilherme Valadares Gomes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OFTALMOLOGIA;2;Daniel De Souza Costa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OFTALMOLOGIA;3;Rafael Neves Cardoso
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OFTALMOLOGIA;4;Luan Fellipe Bispo Almeida
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OFTALMOLOGIA;5;Henrique Nuss Teixeira De Oliveira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OFTALMOLOGIA;6;Julia Braga Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OFTALMOLOGIA;7;Phillype Fernandes Lessa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OFTALMOLOGIA;8;Ana Claudia Ribeiro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OFTALMOLOGIA;9;Marilia Cirillo Rollo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OFTALMOLOGIA;10;Diego Lisboa Araujo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OFTALMOLOGIA;11;Rodrigo Dahia Fernandes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OFTALMOLOGIA;12;Marcus Vinicius Takatsu
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OFTALMOLOGIA;13;Igor Fernando Barros Pires
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OFTALMOLOGIA;14;Pedro Henrique Milagres Heleno
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OFTALMOLOGIA;15;Antero Pinto Cardoso Filho
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OFTALMOLOGIA;16;Igor Soares Louzada
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OFTALMOLOGIA;17;Fabio Martins Da Costa Brugnara
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OFTALMOLOGIA;18;Raphael De Almeida Silveira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OTORRINOLARINGOLOGIA;1;Pedro Mino Vianna
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OTORRINOLARINGOLOGIA;2;Priscila Oliveira De Sousa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OTORRINOLARINGOLOGIA;3;Marcos Loyola Borem Guimaraes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OTORRINOLARINGOLOGIA;4;Leonardo Sales Da Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OTORRINOLARINGOLOGIA;5;Daniel Naves Araujo Teixeira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OTORRINOLARINGOLOGIA;6;Fleury Marinho Da Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OTORRINOLARINGOLOGIA;7;Marcos Antonio De Souza
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;OTORRINOLARINGOLOGIA;8;Cesar De Araujo Carneiro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;1;Isabele Parente De Brito
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;2;Luan Lima Marchi
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;3;Hugo Egashira Cavalcante Pinto
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;4;Ana Luisa Pimentel Maia
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;5;Daniela Del Pilar Via Reque Cortes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;6.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;7;Heloana Albino Campos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;8;Francisco Barbosa Lima Neto
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;9;Afonso Dalmazio Souza Mario
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;10;Mauricio Baptista Pereira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;11;Diogo Chaves Borges Campos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;12;Gustavo Piech Ricardo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;13;Marcio Abdalla De Abreu Pimenta
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;14;Gabriel De Castro Vaz Leal
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;15;Renata Valeria Da Silva Lima
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;16;Marcella Rocha Machado De Oliveira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;17;Victor Viotti Schlobach
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;18;Dandara Sampaio Leao De Carvalho
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;19;Henrique Alcantara Engleitner
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;20;Guilherme Bridi
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;21;Murilo Cazellato Pacheco De Mello
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;22;Otavio Parisi De Carvalho
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;23;Cleovansosthenes Leal Freitas
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;24;Gustavo Henrique De Martin Ballini
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;25;Caroline Silveira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;26.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;27;Leticia Vecchi Leis
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;28;Marcio Abath Landim
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;29;Alessandro Fernandes Cavalcante Aguiar
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;30;Josana De Moraes Coelho
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;31;Paula Da Rocha Jaskulski
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;32;Lucas Ferreira Marcondes Lemos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;33;Ana Clara Pereira De Vasconcelos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;34;Bruno De Andrade Neiva Bettoni
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;35;Luiz Antonio Viegas De Miranda Bastos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;36;Layni Storch
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;37;Ana Clara Marcondes Dobre
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;38;Julia Brito De Medeiros
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;39;Matheus Fileti Arruda
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;40;Thais Papotti Moura
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;41;Vitor Coutinho Andrade
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;42;Alex Rodrigues Fonseca
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;43;Amanda Pinto Botega
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;44;Luciana Beatriz Mendes Gomes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;45.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;46.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;47;Nathalia De Souza Del Rey Crusoe
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;48.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;49;Igor Almeida Fonseca
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;50;Amanda Sacha Paulino Tolentino Alustau
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;51;Dalyane Cristina Martins Machado
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;52;Clariana Ferreira Da Costa Martins
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;53;Guilherme Martins Guzman
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;54;Jose Eduardo Ribeiro De Magalhaes Gomes Filho
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;55;Marilia Bulhoes Calheiros
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;56;Jessica Pietro Pupo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;57;Renan Rodrigues Neves Ribeiro Do Nascimento
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;58;Alexis Carvalho Hooper
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;59;Rafaela Rossini Buso
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;60;Stephane Ohane Lima
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;61;Matheus Candido Hemerly
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;62;Marilia Prudente Menezes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;63;Rafael De Oliveira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;64;Alzira Leite Gomes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;65;Gisela Bandeira De Melo Lins De Albuquerque
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;66.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;67;Larissa Maria Rufini
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;68.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;69;Ana Beatriz Silva Lima
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;70;Nathalia Costa Monteiro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;71;Igor Ribeiro Cavalcanti Batista
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;72;Victor Capella Machado
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;73;Rafael Nunes De Oliveira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;74;Andre Wanderley De Gusmao Barbosa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;75.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;76;Artur Alves Cordeiro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;77;Ricardo Guerra Almeida
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;78;Mateus Barbosa De Queiroz
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;79;Murilo Meneses Nunes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;80;Anthony Medina Conceicao
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;81;Luis Augusto Souza De Carvalho
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;82;Jose Lucas Peres Bichara
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;83;Breno Jeha Araujo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;84.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;85;Rayra Gomes Ribeiro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;86;Bruno Moreira Dos Santos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;87;Bia De Castro Villas Boas
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;88;Jorge De Oliveira Junior
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;89;Saulo Farias Lustosa Da Costa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;90;Larissa Soares Santos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;91.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;92;Cassiano Henrique Geovanini Vanzeli
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;93;Marina Junqueira De Almeida
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;94;Matheus Liguori Feliciano Da Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;95;Roberta Pietryko De Paula
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;96;Germana Ribeiro Araujo Carneiro De Lucena
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;97;Thamara Moreira De Almeida
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;98;Amanda Lima Pires
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;99;Izanny Theresa Galvao De Medeiros
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;100;Henrique Solce
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CLÍNICA MÉDICA;101;Maria Fernanda Evangelista Simoes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;1;Christian Barbosa Lamha
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;2;Lucas Santos Guimaraes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;3;Jorge Manuel Rodrigues Oliveira Filho
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;4;Rodrigo Pereira Peixoto
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;5;Gustavo Ramalho Pessoa Negromonte
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;6;Luisa Resende Tenorio De Albuquerque
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;7.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;8;Marcelo Mochate Flor
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;9;Arthur Feierbend Engracia Garcia
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;10;Renan Isa Botura
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;11.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;12;Thyago Hallisson Carneiro Rios
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;13;Fausto Tambellini Oliveira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;14;Gustavo Henrique Morisco Balarim
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;15.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;16;Andre Machado Leite De Barros
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;17;Ricardo Restivo De Castro Teixeira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;18;Andre Barcelos Da Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;19;Leandro Ortega Brandao
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;20;Joao Alfredo Haak
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;21;Emerson Aparecido Shultz
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;22;Stephanie Kilaris Gallani
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;23;Amanda Vilas Calheiros
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;24;Rhenan Freitas Coradi
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;25;Germano Giroldo Tazinaffo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;26;Claryssa Nascimento Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;27;Kevin Carvalho De Melo Faria
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;28;Gabriel Roberto Baena Rodrigues
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;29;Natalie Almeida Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;30;Maury Lucio De Rezende Junior
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;31;Renan Teixeira Lobo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;32;Caroline Mafra De Carvalho Marques
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;33.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;34;Rodrigo Fudule Miziara
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;35;Thaysa Cardoso Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;36;Murilo Sgarbi Secanho
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;37;Luiz Eduardo Meucci Pereira Nogueira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;38;Alessandra Helena Gonsalves De Andrade
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;39;Yan Fernandes Oliveira Rochael
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;40;Jose Pires Dutra Junior
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;41;Felipe Machado Dos Santos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;42.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;43;Mateus Dos Santos Peixoto
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;44;Jorge Lucas De Sousa Torres Lima
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;45;Ivan Borin Selegatto
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;46;Breno Gomes De Sousa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;47;Lucas Seiti Takemura
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;48;Vinicius Pereira Aguiar
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;49;Paulo Henrique Quaresma Bizanha
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;50;Rafael Silva De Araujo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;51;Leticia Rodrigues De Souza
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;52;Thatiana Oliveira Ferreira Correia
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;53;Juliana Rampazzo Buemerad
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;54;Marcelo Nadur Caiafa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;55.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;56;Milena De Fatima Queiroz Oliveira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;57;Humberto Lopes Tabatinga Neto
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;58;Cassio Marques Menezes Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;59;Jose Arthur Dantas Balduino
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;60;Barbara Peres Lapetina Goncalves Saraiva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;61;Joao Remi De Freitas Junior
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;62;Gabriela Gouvea Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;63;Jessica Victor Lacerda Cabral
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;64;Victor Martins Massari
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;65;Ryta De Cassia Ribeiro De Souza
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;66;Ivam Vargas Martins Da Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;67;David Eccard Jose
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;68;Marcelo Szwarc
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;69;Balduino Ferreira De Menezes Neto
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;70;Felipe Amado Cerqueira Gomes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;71.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;72;Cassio Cesar Arrais Leao
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;73;Rodrigo Da Silva Gomes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;74;Ana Clemilda Marques Ximenes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;75;Octavio Antonio Dias Neto
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;76;Tercio Ferreira Oliveira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA GERAL;77;Tatiane Cassano Fonseca
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;1;Alessandra Lima Veras De Menezes Cavalcante
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;2;Tamara De Jesus Pimenta
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;3;Claudia Alejandra
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;4;Diana Karina Quiroga Murillo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;5;Isadora Carvalho Medeiros Francescantonio
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;6;Natalia Dassi
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;7;Nivaldo Fracacio Junior
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;8.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;9;Lara Pimenta Narciso
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;10;Larissa Baldassim Lopes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;11;Vinicius Neves Bezerra
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;12;Aline Rochelle Filgueira Dantas
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;13;Barbara Ramielly De Brito Souza
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;14;Raquel De Mello Britto Andrade Rosa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;15;Marilia Neves Pereira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;16;Amanda Maria Barradas Monteiro De Santana
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;17;Rafaela Salezze Calmon
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;18;Barbara Cristina Ferreira Ramos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;19;Nathalia Ened Silva Brandao
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;20;Juliana Davini Mori
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;21;Amanda Leticia Bezerra Campos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;22;Kelly Colla
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;23;Natalia Rosendo Dos Santos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;24;Thais Figueiredo Castro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;25;Isabel Carvalho Nunes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;26;Sara Yamakami Ribeiro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;27;Rhaissa Venancio Da Silva Oliveira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;28;Nildo Vilacorta De Araujo Junior
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;29;Maria Teresa Reis De Moraes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;30;Natalia Soares Machado Ribeiro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;31.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;32;Mariana Pauferro Cavalcanti
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;33;Priscila Izabel Fonseca De Melo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;34;Gabriela De Almeida Costa Ramos Guedes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;35;Gabriella Santos De Oliveira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;36;Jessica Franca Da Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;37;Daniela Albiero Camargo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;38;Thais Saldanha Sousa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;39;Renata Massarini
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;40;Flavia Maria Batista Da Costa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;41;Priscila Prata Cursi
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;42;Thays Yada Matias
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;43;Renata Acioli De Almeida
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;44;Fernanda Pires Cecchetti Vaz
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;45;Jessica De Oliveira Silveira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;46;Sarah Gomes Diogenes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;47;Mariana Bastos Correa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;48;Evelyne De Andrade Mota
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;49;Aline Farias Cravo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;50;Maryanne Pessoa Do Vale
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;51;Maria Jimena Chafloque Mesia
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;52;Fernanda Dos Santos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;53;Lucas Tostes Espirito Santo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;54;Marianna Heinen Borges Da Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;55;Priscila Vitor Das Virgens
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;56;Fernanda Ciorlia Filizzola
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;57;Rayana Maria De Melo Azedo Vieira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;58;Raissa Aires Ribeiro Bringel
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;59;Nabila Triantala Bellezzia De Salles
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;60;Marcia Pereira De Oliveira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;61;Luiza Siqueira Rabelo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;62.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;63;Amanda Lobato Potiguar
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;64;Juliana Da Rocha
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;65.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PEDIATRIA;66.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;1.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;2;Carolina Regis Leite
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;3;Marina Tulher Florizano
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;4;Giuliana Annicchino
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;5;Rahyssa Andreia Charchar Campos Marques
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;6;Fernanda Marques
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;7;Aline Vianna Da Costa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;8;Marilia Albanezi Bertolazzi
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;9;Carolina Bueno De Gouvea
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;10.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;11;Ivenia Ramos Ribeiro Maximo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;12;Luiza Goncalves Oliveira Do Amaral
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;13.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;14;Dryeli Cassila Kindler
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;15;Bianca Gomes Peixoto
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;16;Ana Carolina Nogueira Ramos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;17;Rachel Freitas Lopes Nunes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;18;Gabriel Gordiano Castorino
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;19;Verena Mattos Mutter
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;20;Bruna Lopes De Magalhaes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;21;Rayssa Braga Damarte
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;22;Mirian Mara De Andrade
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;23;Amanda Vilela Breias
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;24;Isadora Macedo Lins Parentes Fortes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;25;Laura Barros Abate Rotelli
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;26;Vanessa Pereira Gaigher
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;27;Debora Lempkovitz Manor
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;28;Bruna Garrido Casal
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;29;Lizandra Akina Correa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;30;Ana Luiza Falavigna Denys
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;31;Luis Henrique Alves De Souza Moraes Ferreira Leao
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;32;Mario Vitor Caldeira Pagotto
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;33;Camila Ayume Amano Cavalari
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;34;Mario Fellipe Firmino Da Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;35;Marina Lazzarin Marani
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;36;Luiza Grosso Silva Drumond
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;37;Nathalia Swalf De Menezes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;38;Caroline Figueiredo Ferzeli
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;39.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;40;Carolina Morales Bassi
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;41;Marco Antonio Rojas Janco
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;42;Roberta Ferreira Nobre De Abrantes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;43;Ana Paula De Almeida Righi
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;44;Cecilia Braz Garcia
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;45;Raissa Jardelino Eloi
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;46.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;47;Stephanie Aragao Lusoli
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;48;Viviane Mariano Moreira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;49.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;50;Rogerio Vieira Lima
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;51;Stephanie Lombardi Regino Da Costa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;52;Nathalia Navas Aguiar
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;53;Luana Lopes De Medeiros
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;54;Mariana Sollia Soares
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;55;Itayana Tambellini Cipro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;56;Ileana Borsato Bini
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;57;Renata Bacellar De Araujo Pinto
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;58;Juliana Gomes Leite Carvalho Olivieri De Souza
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;59;Paula Caride Beiler
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;60;Lais Pimenta Faleiros
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;61;Ana Clara Alves Ferreira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;62;Phelipe Balbi Martins
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;63;Thais Magalhaes De Faria
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GINECOLOGIA E OBSTETRÍCIA;64;Agatha Medrado Da Rosa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Matheus Dorigatti Soldatelli
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Andressa Artero Dal Maso
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;3.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;4;Caroline Caldeira De Faria Santiago
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;5;Felipe Lorenzo Dornelas Marsolla
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;6;Natalia Bortolotti Durao
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;7;Filipe Neri Barreto Mesquita
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;8;Victor Moreira De Carvalho
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;9;Camila Pinto Brito De Figueiredo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;10;Natalia Dutra Cavalcante
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;11;Luisa Leitao De Faria
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;12;Matheus Kiyoshi Siqueira Horie
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;13;Antonio Jose Souza Reis Filho
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;14;Marcelo Froeder Arcuri
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;15;Jessica Said De Marchi
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;16;Larissa De Andrade Defendi
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;17.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;18;Matheus Vieira Matos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;19;Gilson Martins Cavalcante
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;1;Maiana Oliveira De Jesus
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;2;Camila De Magalhaes De Sa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;3;Wanderson Willian Dos Santos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;4;Joao Paulo Tenorio Wanderley Lima
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;5;Mariana Saldanha Galvao Simoes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;6;Fernando Henrique Moreira Feitosa Rodrigues
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;7;Natan Lourenco Luz Pereira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;8;Nathalia Louise Gomes Do Rosario Alves Mota
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;9;Lucas Vieira Coelho Ramos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;10;Daniel Valente
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;11;Francylia Cellis Matias Da Paz Santana
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;12;Pedro Victor Martins Vasconcelos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;13;Ricardo Adalberto Barbosa Ulhoa Batista
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;14;Layla Ferraz Farah Emiliano
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;15.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;16;Matheus De Castro Abi-ramia Chimelli
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;17;Paulo Ricardo Oliveira Da Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;18;Vinicius Prieto Herman Reinehr
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;19;Raissa Christina Cassimiro Franco
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;20;Mariana Luciano De Azevedo Almeida
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;21;Natasha Pires Gorza
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;22;Michelle Azevedo Ribeiro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;23;Jean Beltoso Sena
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;24;Marcos Merula De Almeida
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;25;Matheus Dezanet Ricci Szatkowski
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;26;Victor Hugo Barreiros De Almeida
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;27;Arthur Levy Albuquerque De Almeida
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;28;Caio Bulhoes Leao
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;29;Jean Philippe Kriegl
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;30;Rafaela Souto E Souza
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;31;Artur Salgado De Azevedo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;32;Lafayeth Fontenene Bandeira De Macedo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;33.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;34;Lucas Araujo Borges De Moura
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;35;Hercilio Ribeiro De Souza
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;36;Luciano Luiz Da Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;37;Vanessa Ramalho De Brito
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;38;Pabio Joao Viana Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;39;Diego Augusto Jorge Cardoso
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;40;Monica Dos Santos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;41;Mychell Holanda Cosme
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;42;Guilherme Borges Alves
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;43;Laiza Marques Moreira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;44;Alvaro Jose Leite Campelo Da Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;45;Ana Carolina Soares Figueira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;46;Gabriela Leis Do Espirito Santo Azevedo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;47;Nicole De Castro Gomes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ANESTESIOLOGIA;48;Ricardo Dalvi Nicola
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;1;Joao Marcos Nunes Montechi
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;2;Jorge Henrique Narciso
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;3;Hugo Henrique Moreira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;4;Frederico Fernandes Resende
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;5;Bruno De Souza Bernardo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;6;Erico Gomes De Oliveira Prata
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;7;Eduarda Marques Lima
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;8;Caio De Almeida Monteiro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;9;Thiago Cesar Xavier
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;10;Marcel Lobato Sauma
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;11;Tiago De Moraes Rocha
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;12;Thiago Durans Correa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;13;Clenio Emerson Moura Da Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;14;Marcos Paulo Mourao Ribeiro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;15.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;16;Joao Victor Costa Barreto Brigido
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;17.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;18.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;19;Italo Ricardo Gouveia Rodrigues
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;20;Samuel Soares Goulart
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;21;Fabio Chaud De Paula
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;22;Marcos Bruxelas De Freitas Junior
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;23;Leandro Pessoa Carneiro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;24;Henrique Melo Natalin
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;25;Luis Felipe Cortes Padilha
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;26;Fabio Eidi Hirosse
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;27;Thales Henrique Garcia Goncalves
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;28;Luiz Paulo Borgati Chrisostomo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;29;Felipe Faria Bloemer
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;30;Henrique Scalassara Piraja
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;31;Matheus De Barros Carvalho
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;32;Artur Vieira De Paula
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;33;Edelson Moreira Da Costa Filho
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;34;Augusto Luiz Hilkner
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;35;Luis Felipe Maielli
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;36;Lucas Augusto Bazeia Adorni
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ORTOPEDIA E TRAUMATOLOGIA;37;Erika Thaynara Pereira Martins
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;1;Luiz Ernesto Pizzolito Giglioti
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;2;Gabriel Augusto Queijo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;3;Daniel Patrocinio Zen
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;4;Luisa Dias Daolio
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;5;Victor Eduardo Minin
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;6;Thiago Matos Brandao
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;7;Liz Miriane Marcato
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;8;Maria Eduarda Puppi Bernardi
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;9;Monah Ilka Feitosa Ferreira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;10;Walter Ulisses Peixoto Esmeraldo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;11;Gustavo Oehlmeyer
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;12.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;13;Carla Barros Mello Rodriguez
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;14;Ana Laura De Moraes Miranda
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;15;Matheus De Barros Antunes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;16;Joao Claudio Pontes Jacques
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;17;Leandro Paulino Da Costa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;18.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;19;Mariane Quieroti Rodrigues
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;20;Aldo Felipe Pinto
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;21;Julia Diniz Grossi
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;22;Bianca Cosme Bongiovani
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;23;Daniel Cunha Dias Da Rocha
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;24;Cristiano Barbalho Vargas
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PSIQUIATRIA;25;Flavia Jesus Pontel De Souza
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOTERAPIA;1;Mateus Costa Lima
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOTERAPIA;2;Maria Thereza Mansur Starling
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOTERAPIA;3;Bruno Silveira Vianna
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOTERAPIA;4;Felipe Antonio Sulla Lupinacci
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOTERAPIA;5;Vivian Naomi Horita
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOTERAPIA;6;Felipe De Azevedo Rosas
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;RADIOTERAPIA;7;Andre Attie Cury Hanna
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;DERMATOLOGIA;1;Yara Alves Caetano
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;DERMATOLOGIA;2;Cintia Junia Masson
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;DERMATOLOGIA;3;Clarissa Padilha Mitri Dos Santos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;DERMATOLOGIA;4;Maira Cavalcanti Dos Santos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;DERMATOLOGIA;5.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;DERMATOLOGIA;6;Anna Paula Vaz Oliveira Bomtempo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;DERMATOLOGIA;7;Stella Lousada
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;DERMATOLOGIA;8;Renata Rodrigues Da Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;DERMATOLOGIA;9;Milena Marchini Rodrigues
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;DERMATOLOGIA;10;Fabiana De Mari Scalone
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;DERMATOLOGIA;11;Ana Paula Faccin Araujo De Souza
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;DERMATOLOGIA;12;Emilia Santos Boaventura
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;NEUROLOGIA;1;Raquel Paiva Portugal
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;NEUROLOGIA;2;Thaiza Agostini Cordoba De Lima
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;NEUROLOGIA;3;Yuri Ferreira Felloni Borges
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;NEUROLOGIA;4;Camilla Duarte Ribeiro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;NEUROLOGIA;5;Hermano Christ Do Prado Pinto
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA PEDIÁTRICA;1;Oliver Kligerman
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA PEDIÁTRICA;2;Luandresson Feitosa Lima
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA PEDIÁTRICA;3;Raphael Henriques Flinker
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA PEDIÁTRICA;4;Renata Muratori Mazzini
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA PEDIÁTRICA;5;Camila Caetano De Almeida Barbosa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA PEDIÁTRICA;6.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA PEDIÁTRICA;7;Adriana Banhos Carneiro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA PEDIÁTRICA;8.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA PEDIÁTRICA;9.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA PEDIÁTRICA;10;Carolina Monteiro Barbosa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA PEDIÁTRICA;11;Natalia Silva De Assis
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA PEDIÁTRICA;12;Priscila Longoni
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA PEDIÁTRICA;13.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA PEDIÁTRICA;14.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA PEDIÁTRICA;15;Carlos Alexandre Santos Ribeiro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA PEDIÁTRICA;16;Mayra Moreira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PATOLOGIA;1;Amanda Cartagenes Saraiva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PATOLOGIA;2;Daniel Amadeus Molon Batista
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PATOLOGIA;3;Ediel Valerio Da Silva Filho
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PATOLOGIA;4;Marcella Bassan Peixoto
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;PATOLOGIA;5;Camila Artuzi De Oliveira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;1;Guilherme Jorge Mattos Miguel
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;2;Jorge Salomao Moreira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;3;Leonardo Pereira Santana
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;4.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;5;Giovanna Marssola Nascimento
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;6;Pedro Henrique Silva Maranhao
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;7;Dyemison Pinheiro Da Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;8.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;9;Lygia Queiroz Esper
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;10.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;11;Luiza Do Amaral Virmond
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;12;Gabriela Prandi Caetano
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;13;Gabriel Fialkovitz Da Costa Leite
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;14;Marcelo Guerra Rodrigues
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;15.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;16;Vitor Ramalho Bardauil
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;17;Bianca Eliza Hoekstra
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;18;Lucas Teixeira Vieira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;19;Marcelo Oliveira Soares Pessanha
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;20;Gabriel Fregonassi Dona
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;21;Bianca Leal De Almeida
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;22.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;23;Fellipe Godoy
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;24.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;25;Mario Rodrigues Setubal Vieira Martins
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;INFECTOLOGIA;26.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;MEDICINA NUCLEAR;1;Yannah Moura Araujo Cardoso Pontes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;MEDICINA DE EMERGÊNCIA;1;Hyroan Brandell Pereira Correa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;1;Caio Henrique Torres Sousa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;2;Mateus Paiva Marques Feitosa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;3;Caue Costa Pessoa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;4;Helio Matheus Figueiredo Lisboa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;5;Aglagilson Fernandes Das Chagas
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;6;Vicente Marques Beato Neto
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;7;Vitor Dornela De Oliveira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;8;Rodrigo Daghlawi Machado
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;9;Leon Pablo Cartaxo Sampaio
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;10;Giovana Mahamed Daher
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;11;Manuella Stravini De Oliveira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;12.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;13;Felipe Sousa Da Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;14;Herly Carli Freitas
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;15;Bernardo Augusto Rosario
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;16;Vanessa Puche Salazar
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;17;Vinicius Silva Freire Alvarenga
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;18;Brayan Martins Tomaz
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;19;Vinicius Araujo De Freitas Chagas Caldas
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;20;Diego Moraes De Moura
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;21.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;22;Diego Carter Campanha Borges
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;23;Thiago Mendonca Jayme
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;24;Jorge Mangabeira De Souza Junior
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;25;Darlan Dadalt
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;26.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;27.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;28;Rodrigo Eichler Lobo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;29;Natacha De Oliveira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;30;Daniel De Andrade Hygidio
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;31;Morgahna Nathalie Wamser
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;32;Rodrigo Melo Kulchetscki
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;33;Andre Chuster De Souza
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;34;Juliana Michalski Peres
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;35;Renata Polivanov Ottoni
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;36;Rafaella Napoleao Do Rego Moura
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;37;Isabela Senna Moreira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;38;Andre Chateaubriand Campos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;39;Ludmila De Andrade Barberino
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;40;Pedro Brandao Cotrim Leite
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;41;Nassib Haddad
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;42;Otavio De Castro Soares
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;43;Mauricio Vilela Ribeiro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;44;Leandro Carneiro Moretti
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;45;Fabrizio Freitas Nunes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;46;Manuelle Larisse Bezerra Barbosa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;47;Marcel Pina Almeida
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;48;Ciro Mancilha Murad
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;49;Vanessa Stolf Boretti
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;50;Felipe De Oliveira Ramalho
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;51;Caio Reboucas Fonseca Cafezeiro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;52.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;53;Felipe Da Fonseca Potratz
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;54;Paula Costa Chierighini De Sousa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;55;Guilherme Dagostin De Carvalho
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;56;Aline Rosa Machado
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;57.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;58;Beatriz Millions Do Amaral
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;59;Liliane Diniz De Araujo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;60;Fernanda Thereza De Almeida Andrade
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;61;Marcos Vinicius De Oliveira Montesi
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;62;Anderson Oliveira Estevan
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;63;Vinicius Eiji Kameoka
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;64;Gustavo Alonso Arduine
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;65;Italo Menezes Ferreira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CARDIOLOGIA;66;Camila Magalhaes Nobrega
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ENDOCRINOLOGIA;1.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ENDOCRINOLOGIA;2;Adriano Roberto Manoel Radin
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ENDOCRINOLOGIA;3;Anna Karin Lubeck
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;NEFROLOGIA;1;Nathalia Monteiro Da Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;NEFROLOGIA;2;Mateus Justi Luvizotto
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;NEFROLOGIA;3;Elida Moura Carvalho
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;HEMATOLOGIA E HEMOTERAPIA;1;Andreza Lamonica
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;HEMATOLOGIA E HEMOTERAPIA;2;Joao Carlos Pina Saraiva Filho
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;HEMATOLOGIA E HEMOTERAPIA;3.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;HEMATOLOGIA E HEMOTERAPIA;4;Vitor Vasquez Dos Santos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CLÍNICA;1;Edla Renata Cunha Cavalcante
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CLÍNICA;2;Gustavo Trautman Stock
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CLÍNICA;3;Pedro Victor De Souza Nogueira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CLÍNICA;4;George Horta
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CLÍNICA;5;Marcelle Goldner Cesca
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CLÍNICA;6;Everton Germano Araujo Melo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CLÍNICA;7;Hugo Diogenes De Oliveira Paiva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CLÍNICA;8;Camila Cezana
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CLÍNICA;9;Admir Andre Belo Bueno
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CLÍNICA;10;Fabiola Ambrosio Silveira Lima
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CLÍNICA;11;Alice Nayane Rosa Morais
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GERIATRIA;1;Potira Jurema Alves Teixeira Lima
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;GERIATRIA;2;Luciano De Carvalho Wanderley
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA PEDIÁTRICA;1;Karina Ikuta Uehara
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA PEDIÁTRICA;2;Gustavo Gomes Oliveira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA PEDIÁTRICA;3;Erika Aguiar Soares
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA PEDIÁTRICA;4;Aimee Cabral Ramalhete
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA PEDIÁTRICA;5;Gabriel Brandao Dantas Cruz
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA PEDIÁTRICA;6;Cileia Ivna Carneiro De Oliveira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA PEDIÁTRICA;7;Marina Botinha De Sousa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA PLÁSTICA;1;Luiz Fernando Lima Barros
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA PLÁSTICA;2;Bruno Martins De Novaes Borges
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA PLÁSTICA;3;Larissa Dalla Costa Kusano
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA PLÁSTICA;4.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA PLÁSTICA;5.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA PLÁSTICA;6;Luis Felipe L Lopez
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA PLÁSTICA;7;Mauricio Milani
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA PLÁSTICA;8;Fernando Ramos De Freitas
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA PLÁSTICA;9;Tulio Dos Santos Carneiro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;COLOPROCTOLOGIA;1;Rodrigo Saad Rodrigues
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;COLOPROCTOLOGIA;2.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;COLOPROCTOLOGIA;3;Rafaella Alcantara Alves Melo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;COLOPROCTOLOGIA;4;Thais Andreotti
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA DE CABEÇA E PESCOÇO;1;Julio Patrocinio Moraes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA DE CABEÇA E PESCOÇO;2;Luciana Alves Pimmel
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA DE CABEÇA E PESCOÇO;3;Stefano Do Amaral Fiuza
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA DE CABEÇA E PESCOÇO;4;Rafael Cardoso Pires
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA DE CABEÇA E PESCOÇO;5;Karina Montenegro Tirado
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA DE CABEÇA E PESCOÇO;6;Andressa Teruya Ramos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA DE CABEÇA E PESCOÇO;7;Lucas Fernandes Bonamigo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA VASCULAR;1;Jose Augusto Targino De Almeida Filho
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA VASCULAR;2;Karise Naves De Rezende
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA VASCULAR;3;Filipe Da Silva Terra
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA VASCULAR;4.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA VASCULAR;5.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA VASCULAR;6.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA VASCULAR;7;Camila Abelha Binatto
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA VASCULAR;8;Isabela Rodrigues Tavares
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA VASCULAR;9;Julia Piana Do Amaral
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA VASCULAR;10;Sara Amaral Taira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA VASCULAR;11;Caio Djin Kawamura Madueno Silva
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA VASCULAR;12.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA VASCULAR;13;Hermiton Canedo Moura
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;UROLOGIA;1;Renato Vasconcelos Souza De Almeida
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;UROLOGIA;2.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;UROLOGIA;3;Eugenio Rodrigues Caetano Borges
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;UROLOGIA;4.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;UROLOGIA;5;Francisco Pimenta Marques
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;UROLOGIA;6.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;UROLOGIA;7.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;UROLOGIA;8;Bruno Queiroz Lima Castelo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;UROLOGIA;9.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;UROLOGIA;10;Iure Carvalho De Souza
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;UROLOGIA;11;Caue Brunelli Dezotti
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;UROLOGIA;12;Rafaela Lima Santos
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;UROLOGIA;13;Eduardo Deda Mendonca Filho
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;UROLOGIA;14;Breno Santos Amaral
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CIRÚRGICA;1;Rodrigo Padilha Tomba
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CIRÚRGICA;2;Vinicius Campos Duarte
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CIRÚRGICA;3;Pedro Franca Da Costa Soares
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CIRÚRGICA;4.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CIRÚRGICA;5;Alexandre Borgheresi
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CIRÚRGICA;6;Nathan Harmuch Kohl
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CIRÚRGICA;7;Felipe Conde P. Neves
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CIRÚRGICA;8;Guilherme Pasquini Cavassin
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CIRÚRGICA;9;Gustavo Ferreira Araruna
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CIRÚRGICA;10;Vinicius De Borba Marthental
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA CIRÚRGICA;11;Marina De Paula Canal
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA CARDIOVASCULAR;1;Gabriela Duarte Costa Constantino
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA CARDIOVASCULAR;2;Gustavo Pampolha Guerreiro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA CARDIOVASCULAR;3;Karla Rachid Pereira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA TORÁCICA;1;Olavo Costa Pinheiro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CIRURGIA TORÁCICA;2;Marcelo Da Silva Pereira Fernandes
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;MEDICINA INTENSIVA;1.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;MEDICINA INTENSIVA;2;Cintia Suemi Kinjo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;MEDICINA INTENSIVA;3;Wayner Geres Da Costa
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;MEDICINA INTENSIVA;4;Diego Venicio Santos Argolo
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;MEDICINA INTENSIVA;5;Daiane Fiuza Valentini
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA PEDIÁTRICA;1;Gabriela Romeiro Da Cruz
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;CANCEROLOGIA PEDIÁTRICA;2;Renata De Moraes Trinca
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;NEONATOLOGIA;1;Simone Yumi Tsuji
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;NEONATOLOGIA;2;Carlson Camilo Santos De Cerqueira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;NEONATOLOGIA;3;Fernanda Fazoli Da Cunha Freitas Viana
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;NEONATOLOGIA;4;Carla Rodrigues Lacerda
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;MASTOLOGIA;1;Carlos Eduardo Witoslawski Breda
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;MASTOLOGIA;2;Lucas Roskamp Budel
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;MASTOLOGIA;3;Carolina Marques Almagro
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;MASTOLOGIA;4;Marina Diogenes Teixeira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;MASTOLOGIA;5;Tarsila Maria Ventura Prudencio
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;MASTOLOGIA;6;Aline Bortolotto Di Pace
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;MASTOLOGIA;7.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;MASTOLOGIA;8;Vanessa Lys Simas Y. Boeira
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;MASTOLOGIA;9.
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;MASTOLOGIA;10;Jessica Ponte Portella
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;MASTOLOGIA;11;Fernanda Werner Dutra
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ENDOSCOPIA;1;Rafael Krieger Martins
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ENDOSCOPIA;2;Antonio Coutinho Madruga Neto
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;ENDOSCOPIA;3;Eduardo Lang Burattini
+SÃO PAULO;SUS SP - Sistema Único de Saúde de São Paulo;SISTEMA ÚNICO DE SAÚDE DO ESTADO DE SÃO PAULO;MEDICINA PALIATIVA;1;Paula Lorite Fracasso
