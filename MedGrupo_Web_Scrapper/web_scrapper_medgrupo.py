@@ -1,6 +1,7 @@
 import os
 import sys
 from os.path import isfile as file_exists
+from os.path import isdir as dir_exists
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import StaleElementReferenceException
@@ -330,7 +331,102 @@ def coletar_aprovados_instituicao():
     file.close()
     driver.quit()
 
+
+def coletar_aprovados_instituicao_2():
+    my_url = "https://site.medgrupo.com.br/#/aprovacoes"
+
+    # Define window size for certain class selectors appear, thanks to the page's JS
+    options = Options()
+    # options.add_argument("window-size=800,700")
+
+    driver = webdriver.Chrome(options=options, executable_path=r'/Library/FilesToPath/chromedriver')
+    driver.get(my_url)
+
+    input("Selecione no navegador o ano, o estado e instituição desejados. Pressione enter para continuar...")
+
+    ano_text = driver.find_element_by_xpath("//ul[@class='aprovacoes__selecao-ano']/li[@class='pointer active']").text
+    estado_text = driver.find_element_by_xpath("//h2[@class='estado-instituicao__titulo disable-select']").text
+    instituicao_text = driver.find_element_by_xpath("//h2[@class='lista-aprovados__titulo']").text
+    instituicao_text_sigla, *_ = instituicao_text.split(" - ")
+    instituicao_text_nome = instituicao_text.split("\n")[1]
+    instituicao_text = instituicao_text_sigla + " - " + instituicao_text_nome
+
+    print("\nEstes dados estão corretos?")
+    print("Ano: %s" % (ano_text))
+    print("Estado: %s" % (estado_text))
+    print("Instituição: %s" % (instituicao_text))
+    print("S/N? ", end="")
+    modificar = input("")
+    if modificar.lower() == "n":
+        print("")
+        ano_text = input("Digite o ano: ")
+        estado_text = input("Digite nome do estado: ")
+        instituicao_text = input("Digite o nome da instituição: ")
+        instituicao_text_sigla, *_ = instituicao_text.split(" - ")
+
+    print("")
+
+    file_fullname = file_handling(ano_text, estado_text, instituicao_text_sigla)
+
+    with open(file_fullname, "w+") as file:
+
+        file.write("Estado;Instituição;Hospital;Curso;Colocação;Nome_Aprovado\n")
+
+        infos_por_instituicao = driver.find_elements_by_xpath("//div[@class='content-lista-aprovados__container']")
+
+        try:
+            for infos_por_hospital in infos_por_instituicao:
+                # print(len(infos_por_instituicao))
+                hospital = infos_por_hospital.find_element_by_xpath(".//div[@class='content-lista-aprovados__hospital']")
+                all_cursos_aprovados = infos_por_hospital.find_elements_by_xpath(".//div[not(contains(@class, 'content-lista-aprovados__info'))]")
+                # all_cursos_aprovados = infos_por_hospital.find_elements_by_xpath(".//div")
+
+                print("---Hospital: %s" % (hospital.text))
+
+                for cursos_aprovados in all_cursos_aprovados[1:]:
+                    curso = cursos_aprovados.find_element_by_xpath(".//h4[@class='content-lista-aprovados__titulo']")
+                    all_aprovados_curso = cursos_aprovados.find_elements_by_xpath(".//li/span[@class='destaque']")
+                    suplentes = False
+                    for aprovado in all_aprovados_curso:
+                        if not suplentes:
+                            if "suplente" in aprovado.text.lower():
+                                suplentes = True
+                            elif len(aprovado.text) == 0:
+                                pass
+                            else:
+                                if aprovado.text[0] == ".":
+                                    file.write("%s;%s;%s;%s;%s\n" % (estado_text, instituicao_text, hospital.text, curso.text, aprovado.text.replace(". ", ";", 1)))
+                                elif aprovado.text[0].isdigit():
+                                    file.write("%s;%s;%s;%s;%s\n" % (estado_text, instituicao_text, hospital.text, curso.text, aprovado.text.replace(". ", ";", 1)))
+                                else:
+                                    file.write("%s;%s;%s;%s;;%s\n" % (estado_text, instituicao_text, hospital.text, curso.text, aprovado.text))
+        except StaleElementReferenceException:
+            print("\nStaleElementReferenceException occured; line not written on file. Aborting...\n")
+        except Exception as e:
+            driver.quit()
+            raise e
+
+    driver.quit()
+
+
+def file_handling(ano_text, estado_text, instituicao_text_sigla):
+    file_path = os.path.join("Arquivos_CSV", estado_text, instituicao_text_sigla)
+
+    os.makedirs(file_path, exist_ok=True)
+
+    if file_exists(os.path.join('.', file_path, 'aprovados_medgrupo_%s_%s_%s.csv' % (ano_text, estado_text, instituicao_text_sigla))):
+        i = 1
+        while file_exists(os.path.join('.', file_path, 'aprovados_medgrupo_%s_%s_%s_(%s).csv' % (ano_text, estado_text, instituicao_text_sigla, i))):
+            i += 1
+        print("Criando novo arquivo aprovados_medgrupo_%s_%s_%s_(%s).csv...\n" % (ano_text, estado_text, instituicao_text_sigla, i))
+        file_name = "aprovados_medgrupo_%s_%s_%s_(%s).csv" % (ano_text, estado_text, instituicao_text_sigla, i)
+    else:
+        print("Criando novo arquivo aprovados_medgrupo_%s_%s_%s.csv...\n" % (ano_text, estado_text, instituicao_text_sigla))
+        file_name = "aprovados_medgrupo_%s_%s_%s.csv" % (ano_text, estado_text, instituicao_text_sigla)
+
+    return os.path.join(os.getcwd(), file_path, file_name)
+
 if __name__ == '__main__':
     # main()
     # test_function()
-    coletar_aprovados_instituicao()
+    coletar_aprovados_instituicao_2()
