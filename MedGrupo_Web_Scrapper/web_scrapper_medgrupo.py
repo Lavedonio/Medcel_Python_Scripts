@@ -1,10 +1,20 @@
 import os
 import sys
+import logging
+import logging.config
 from os.path import isfile as file_exists
 from os.path import isdir as dir_exists
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import StaleElementReferenceException
+
+logging.basicConfig(filename='web_scrapper.log', level=logging.DEBUG,
+    format='%(asctime)s:%(levelname)s:%(funcName)s:%(message)s')
+
+logging.config.dictConfig({
+    'version': 1,
+    'disable_existing_loggers': True,
+})
 
 
 def notify(title, text):
@@ -150,7 +160,7 @@ def closing(driver, file, test):
     driver.quit()
 
 
-def main():
+def main_DEPRICATED():
     file, test = csv_Handler()
     driver = web_scrapper(file, test)
     closing(driver, file, test)
@@ -265,7 +275,7 @@ def test_function():
     driver.quit()
 
 
-def coletar_aprovados_instituicao():
+def coletar_aprovados_instituicao_DEPRICATED():
     my_url = "https://site.medgrupo.com.br/#/aprovacoes"
 
     # Define window size for certain class selectors appear, thanks to the page's JS
@@ -332,17 +342,24 @@ def coletar_aprovados_instituicao():
     driver.quit()
 
 
-def coletar_aprovados_instituicao_2():
-    my_url = "https://site.medgrupo.com.br/#/aprovacoes"
+def coletar_aprovados_instituicao(confirmar_dados=True, abrir_driver=True, driver=None, coletar_todos_aprovados=False):
+    logging.debug("abrir_driver = {}".format(abrir_driver))
+    if abrir_driver:
+        logging.info("Inicializando driver.")
+        my_url = "https://site.medgrupo.com.br/#/aprovacoes"
 
-    # Define window size for certain class selectors appear, thanks to the page's JS
-    options = Options()
-    # options.add_argument("window-size=800,700")
+        # Define window size for certain class selectors appear, thanks to the page's JS
+        options = Options()
+        # options.add_argument("window-size=800,700")
 
-    driver = webdriver.Chrome(options=options, executable_path=r'/Library/FilesToPath/chromedriver')
-    driver.get(my_url)
+        driver = webdriver.Chrome(options=options, executable_path=r'/Library/FilesToPath/chromedriver')
+        driver.get(my_url)
 
-    input("Selecione no navegador o ano, o estado e instituição desejados. Pressione enter para continuar...")
+        logging.info("Navegador aberto e site carregado.")
+
+        logging.info("Aguardando seleção do ano, estado e instituição.")
+        input("Selecione no navegador o ano, o estado e instituição desejados. Pressione enter para continuar...")
+        logging.info("Ano, estado e instituição selecionados.")
 
     ano_text = driver.find_element_by_xpath("//ul[@class='aprovacoes__selecao-ano']/li[@class='pointer active']").text
     estado_text = driver.find_element_by_xpath("//h2[@class='estado-instituicao__titulo disable-select']").text
@@ -351,48 +368,84 @@ def coletar_aprovados_instituicao_2():
     instituicao_text_nome = instituicao_text.split("\n")[1]
     instituicao_text = instituicao_text_sigla + " - " + instituicao_text_nome
 
-    print("\nEstes dados estão corretos?")
-    print("Ano: %s" % (ano_text))
-    print("Estado: %s" % (estado_text))
-    print("Instituição: %s" % (instituicao_text))
-    print("S/N? ", end="")
-    modificar = input("")
-    if modificar.lower() == "n":
-        print("")
-        ano_text = input("Digite o ano: ")
-        estado_text = input("Digite nome do estado: ")
-        instituicao_text = input("Digite o nome da instituição: ")
-        instituicao_text_sigla, *_ = instituicao_text.split(" - ")
+    logging.info("ano_text = %s" % (ano_text))
+    logging.info("estado_text = %s" % (estado_text))
+    logging.info("instituicao_text = %s" % (instituicao_text))
+    logging.debug("instituicao_text_sigla = %s" % (instituicao_text_sigla))
+
+    logging.debug("confirmar_dados = {}".format(confirmar_dados))
+    if confirmar_dados:
+        logging.info("Confirmando dados.")
+
+        print("\nEstes dados estão corretos?")
+        print("Ano: %s" % (ano_text))
+        print("Estado: %s" % (estado_text))
+        print("Instituição: %s" % (instituicao_text))
+        print("S/N? ", end="")
+        modificar = input("")
+
+        if modificar.lower() == "n":
+            logging.info("Usuário pede para modificar ano e/ou estado.")
+
+            print("")
+            ano_text = input("Digite o ano: ")
+            estado_text = input("Digite nome do estado: ")
+            instituicao_text = input("Digite o nome da instituição: ")
+            instituicao_text_sigla, *_ = instituicao_text.split(" - ")
+
+            logging.info("Novo ano_text = %s" % (ano_text))
+            logging.info("Novo estado_text = %s" % (estado_text))
+            logging.info("Novo instituicao_text = %s" % (instituicao_text))
+            logging.debug("Novo instituicao_text_sigla = %s" % (instituicao_text_sigla))
 
     print("")
 
     file_fullname = file_handling(ano_text, estado_text, instituicao_text_sigla)
 
+    logging.info("file_fullname = {}".format(file_fullname))
+
     with open(file_fullname, "w+") as file:
+        logging.debug("Arquivo aberto.")
 
         file.write("Estado;Instituição;Hospital;Curso;Colocação;Nome_Aprovado\n")
 
         infos_por_instituicao = driver.find_elements_by_xpath("//div[@class='content-lista-aprovados__container']")
+        logging.debug("len(infos_por_instituicao) = {}".format(len(infos_por_instituicao)))
 
+        erro_referencia = False
         try:
             for infos_por_hospital in infos_por_instituicao:
-                # print(len(infos_por_instituicao))
                 hospital = infos_por_hospital.find_element_by_xpath(".//div[@class='content-lista-aprovados__hospital']")
+                logging.info("---Hospital: {}".format(hospital.text))
+
                 all_cursos_aprovados = infos_por_hospital.find_elements_by_xpath(".//div[not(contains(@class, 'content-lista-aprovados__info'))]")
-                # all_cursos_aprovados = infos_por_hospital.find_elements_by_xpath(".//div")
+                logging.info("Cursos encontrados.")
+                logging.debug("len(infos_por_instituicao) = {}".format(len(infos_por_instituicao)))
 
                 print("---Hospital: %s" % (hospital.text))
 
+                num_cursos = 0
                 for cursos_aprovados in all_cursos_aprovados[1:]:
                     curso = cursos_aprovados.find_element_by_xpath(".//h4[@class='content-lista-aprovados__titulo']")
-                    all_aprovados_curso = cursos_aprovados.find_elements_by_xpath(".//li/span[@class='destaque']")
+                    logging.debug("curso.text = {}".format(curso.text))
+
+                    if coletar_todos_aprovados:
+                        all_aprovados_curso = cursos_aprovados.find_elements_by_xpath(".//li/span")
+                        logging.debug("Coletando todos os nomes.")
+                    else:
+                        all_aprovados_curso = cursos_aprovados.find_elements_by_xpath(".//li/span[@class='destaque']")
+                        logging.debug("Coletando apenas os marcados como aprovados")
                     suplentes = False
+                    num_aprovados = 0
                     for aprovado in all_aprovados_curso:
                         if not suplentes:
-                            if "suplente" in aprovado.text.lower():
+                            if "suplente" in aprovado.text.lower() and not coletar_todos_aprovados:
                                 suplentes = True
-                            elif len(aprovado.text) == 0:
+                                logging.debug("Suplente encontrado, pulando restante dos nomes no curso.")
+                            elif "medgrupo" in aprovado.text.lower():
                                 pass
+                            elif len(aprovado.text) == 0:
+                                logging.warning("aprovado.text é uma string vazia.")
                             else:
                                 if aprovado.text[0] == ".":
                                     file.write("%s;%s;%s;%s;%s\n" % (estado_text, instituicao_text, hospital.text, curso.text, aprovado.text.replace(". ", ";", 1)))
@@ -400,19 +453,33 @@ def coletar_aprovados_instituicao_2():
                                     file.write("%s;%s;%s;%s;%s\n" % (estado_text, instituicao_text, hospital.text, curso.text, aprovado.text.replace(". ", ";", 1)))
                                 else:
                                     file.write("%s;%s;%s;%s;;%s\n" % (estado_text, instituicao_text, hospital.text, curso.text, aprovado.text))
+
+                                num_aprovados += 1
+
+                    logging.info("-- {} aprovados registrados no curso {}".format(num_aprovados, curso.text))
+                logging.info("---- {} cursos registrados no hospital {}".format(num_cursos, hospital.text))
+
         except StaleElementReferenceException:
+            erro_referencia = True
             print("\nStaleElementReferenceException occured; line not written on file. Aborting...\n")
+            logging.error("StaleElementReferenceException")
+            logging.warning("Pulando restante dos dados da instituição.")
+
         except Exception as e:
+            logging.exception("Erro inesperado ocorrido.")
             driver.quit()
             raise e
 
-    driver.quit()
+    logging.info("Fim da leitura da instituição.")
+    return driver, erro_referencia
 
 
 def file_handling(ano_text, estado_text, instituicao_text_sigla):
     file_path = os.path.join("Arquivos_CSV", estado_text, instituicao_text_sigla)
 
+    logging.debug("file_path = {}".format(file_path))
     os.makedirs(file_path, exist_ok=True)
+    logging.info("Path {} criado, se não existia.".format(file_path))
 
     if file_exists(os.path.join('.', file_path, 'aprovados_medgrupo_%s_%s_%s.csv' % (ano_text, estado_text, instituicao_text_sigla))):
         i = 1
@@ -424,9 +491,130 @@ def file_handling(ano_text, estado_text, instituicao_text_sigla):
         print("Criando novo arquivo aprovados_medgrupo_%s_%s_%s.csv...\n" % (ano_text, estado_text, instituicao_text_sigla))
         file_name = "aprovados_medgrupo_%s_%s_%s.csv" % (ano_text, estado_text, instituicao_text_sigla)
 
+    logging.info("file_name = {}".format(file_name))
+    logging.debug("return {}".format(os.path.join(os.getcwd(), file_path, file_name)))
+
     return os.path.join(os.getcwd(), file_path, file_name)
 
+
+def coletar_aprovados_estado(confirmar_dados=True):
+    my_url = "https://site.medgrupo.com.br/#/aprovacoes"
+
+    # Define window size for certain class selectors appear, thanks to the page's JS
+    options = Options()
+    # options.add_argument("window-size=800,700")
+
+    driver = webdriver.Chrome(options=options, executable_path=r'/Library/FilesToPath/chromedriver')
+    driver.get(my_url)
+    logging.info("Navegador aberto e site carregado.")
+
+    logging.info("Aguardando seleção do ano e estado.")
+    input("Selecione no navegador o ano e o estado desejados. Pressione enter para continuar...")
+    logging.info("Ano e estado selecionados.")
+
+    ano_text = driver.find_element_by_xpath("//ul[@class='aprovacoes__selecao-ano']/li[@class='pointer active']").text
+    estado_text = driver.find_element_by_xpath("//h2[@class='estado-instituicao__titulo disable-select']").text
+
+    logging.info("ano_text = %s" % (ano_text))
+    logging.info("estado_text = %s" % (estado_text))
+
+    logging.debug("confirmar_dados = {}".format(confirmar_dados))
+    if confirmar_dados:
+        logging.info("Confirmando dados.")
+
+        print("\nEstes dados estão corretos?")
+        print("Ano: %s" % (ano_text))
+        print("Estado: %s" % (estado_text))
+        print("S/N? ", end="")
+        modificar = input("")
+
+        if modificar.lower() == "n":
+            logging.info("Usuário pede para modificar ano e/ou estado.")
+
+            print("")
+            ano_text = input("Digite o ano: ")
+            estado_text = input("Digite nome do estado: ")
+
+            logging.info("Novo ano_text = %s" % (ano_text))
+            logging.info("Novo estado_text = %s" % (estado_text))
+
+    print("")
+
+    all_instituicoes = driver.find_elements_by_xpath("//ul[@class='estado-instituicao__lista disable-select']/li")
+    logging.debug("Lista de instituições adquirida")
+
+    instituicoes_erros_referencia = []
+
+    logging.debug("len(all_instituicoes) = {}".format(len(all_instituicoes)))
+    for instituicao in all_instituicoes:
+        instituicao.click()
+
+        print("|--Instituição: %s" % (instituicao.text.replace("\n", " - ")))
+        logging.info("Instituição selecionada: %s" % (instituicao.text.replace("\n", " - ")))
+
+        _, erro_referencia = coletar_aprovados_instituicao(confirmar_dados=True, abrir_driver=False, driver=driver)
+
+        if erro_referencia:
+            instituicoes_erros_referencia.append(instituicao.text.replace("\n", " - "))
+
+    if len(instituicoes_erros_referencia) > 0:
+        logging.warning("------ {} erros de referência ao coletar as instituições. Instituições afetadas:".format(len(instituicoes_erros_referencia)))
+        for erro_referencia in instituicoes_erros_referencia:
+            logging.warning(">>> {}".format(erro_referencia))
+    else:
+        logging.info("------ {} erros de referência ao coletar as instituições.".format(len(instituicoes_erros_referencia)))
+
+    return driver
+
+
+def main():
+    logging.info(">>>>>>>>>>>>>>>>>>>>> Início da execução.")
+    if len(sys.argv) > 1:
+        opcao = str(sys.argv[1])
+    else:
+        print("Selecione o modo de operação:\n")
+        print("1. Coletar aprovados de um estado.")
+        print("2. Coletar aprovados de uma instituição.")
+        print("x. Abortar\n")
+        opcao = input("Digite a opção: ")
+
+    logging.debug("opcao = %s" % (opcao))
+
+    if opcao == '1':
+        logging.info("Selecionado: coletar_aprovados_estado()")
+        driver = coletar_aprovados_estado()
+    elif opcao == '2':
+        logging.info("Selecionado: coletar_aprovados_instituicao()")
+
+        if len(sys.argv) > 2:
+            opcao_coleta = str(sys.argv[2])
+        else:
+            print("\nModo coletar aprovados de Instituição selecionado.")
+            print("Coletar na instituição:\n")
+            print("1. Somente marcados como aprovados.")
+            print("2. Todos os nomes. (Use quando houver problema de formatação na página)\n")
+            opcao_coleta = input("Digite a opção: ")
+
+        logging.debug("opcao_coleta = %s" % (opcao_coleta))
+
+        if opcao_coleta == '2':
+            opcao_coleta = True
+            print("Coletando todos os nomes de uma instituição\n")
+            logging.info("[Sub-Menu] Selecionado: Coletar todos os nomes.")
+        else:
+            # Opção default é coletar apenas nomes em destaque.
+            opcao_coleta = False
+            print("Coletando apenas os nomes destacados de uma instituição\n")
+            logging.info("[Sub-Menu] Selecionado: Coletar somente nomes marcados como aprovados.")
+
+        driver, _ = coletar_aprovados_instituicao(coletar_todos_aprovados=opcao_coleta)
+    else:
+        logging.info("Nenhuma opção válida selecionada. Abortando operação...")
+        logging.info("Fim da execução. <<<<<<<<<<<<<<<<<<<<<\n\n\n\n\n\n")
+        quit()
+    driver.quit()
+    logging.info("Fim da execução. <<<<<<<<<<<<<<<<<<<<<\n\n\n\n\n\n")
+
+
 if __name__ == '__main__':
-    # main()
-    # test_function()
-    coletar_aprovados_instituicao_2()
+    main()
