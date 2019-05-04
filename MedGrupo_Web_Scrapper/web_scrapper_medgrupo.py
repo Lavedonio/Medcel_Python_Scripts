@@ -611,7 +611,9 @@ def main():
     else:
         logging.info("Nenhuma opção válida selecionada. Abortando operação...")
         logging.info("Fim da execução. <<<<<<<<<<<<<<<<<<<<<\n\n\n\n\n\n")
-        quit()
+        print("Abortando...")
+        sys.exit()
+
     driver.quit()
     logging.info("Fim da execução. <<<<<<<<<<<<<<<<<<<<<\n\n\n\n\n\n")
 
