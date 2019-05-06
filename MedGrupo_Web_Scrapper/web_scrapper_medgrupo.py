@@ -1,5 +1,6 @@
 import os
 import sys
+import time
 import logging
 import logging.config
 from os.path import isfile as file_exists
@@ -422,7 +423,7 @@ def coletar_aprovados_instituicao(confirmar_dados=True, abrir_driver=True, drive
                 logging.info("Cursos encontrados.")
                 logging.debug("len(infos_por_instituicao) = {}".format(len(infos_por_instituicao)))
 
-                print("---Hospital: %s" % (hospital.text))
+                print("| |---Hospital: %s" % (hospital.text))
 
                 num_cursos = 0
                 for cursos_aprovados in all_cursos_aprovados[1:]:
@@ -447,6 +448,7 @@ def coletar_aprovados_instituicao(confirmar_dados=True, abrir_driver=True, drive
                             elif len(aprovado.text) == 0:
                                 logging.warning("aprovado.text é uma string vazia.")
                             else:
+                                # logging.debug("aprovado.text = {}".format(aprovado.text))
                                 if aprovado.text[0] == ".":
                                     file.write("%s;%s;%s;%s;%s\n" % (estado_text, instituicao_text, hospital.text, curso.text, aprovado.text.replace(". ", ";", 1)))
                                 elif aprovado.text[0].isdigit():
@@ -485,10 +487,10 @@ def file_handling(ano_text, estado_text, instituicao_text_sigla):
         i = 1
         while file_exists(os.path.join('.', file_path, 'aprovados_medgrupo_%s_%s_%s_(%s).csv' % (ano_text, estado_text, instituicao_text_sigla, i))):
             i += 1
-        print("Criando novo arquivo aprovados_medgrupo_%s_%s_%s_(%s).csv...\n" % (ano_text, estado_text, instituicao_text_sigla, i))
+        print("| |-Criando novo arquivo aprovados_medgrupo_%s_%s_%s_(%s).csv..." % (ano_text, estado_text, instituicao_text_sigla, i))
         file_name = "aprovados_medgrupo_%s_%s_%s_(%s).csv" % (ano_text, estado_text, instituicao_text_sigla, i)
     else:
-        print("Criando novo arquivo aprovados_medgrupo_%s_%s_%s.csv...\n" % (ano_text, estado_text, instituicao_text_sigla))
+        print("| |-Criando novo arquivo aprovados_medgrupo_%s_%s_%s.csv..." % (ano_text, estado_text, instituicao_text_sigla))
         file_name = "aprovados_medgrupo_%s_%s_%s.csv" % (ano_text, estado_text, instituicao_text_sigla)
 
     logging.info("file_name = {}".format(file_name))
@@ -497,20 +499,21 @@ def file_handling(ano_text, estado_text, instituicao_text_sigla):
     return os.path.join(os.getcwd(), file_path, file_name)
 
 
-def coletar_aprovados_estado(confirmar_dados=True):
-    my_url = "https://site.medgrupo.com.br/#/aprovacoes"
+def coletar_aprovados_estado(confirmar_dados=True, abrir_driver=True, enable_skipping=False, driver=None):
+    if abrir_driver:
+        my_url = "https://site.medgrupo.com.br/#/aprovacoes"
 
-    # Define window size for certain class selectors appear, thanks to the page's JS
-    options = Options()
-    # options.add_argument("window-size=800,700")
+        # Define window size for certain class selectors appear, thanks to the page's JS
+        options = Options()
+        # options.add_argument("window-size=800,700")
 
-    driver = webdriver.Chrome(options=options, executable_path=r'/Library/FilesToPath/chromedriver')
-    driver.get(my_url)
-    logging.info("Navegador aberto e site carregado.")
+        driver = webdriver.Chrome(options=options, executable_path=r'/Library/FilesToPath/chromedriver')
+        driver.get(my_url)
+        logging.info("Navegador aberto e site carregado.")
 
-    logging.info("Aguardando seleção do ano e estado.")
-    input("Selecione no navegador o ano e o estado desejados. Pressione enter para continuar...")
-    logging.info("Ano e estado selecionados.")
+        logging.info("Aguardando seleção do ano e estado.")
+        input("Selecione no navegador o ano e o estado desejados. Pressione enter para continuar...")
+        logging.info("Ano e estado selecionados.")
 
     ano_text = driver.find_element_by_xpath("//ul[@class='aprovacoes__selecao-ano']/li[@class='pointer active']").text
     estado_text = driver.find_element_by_xpath("//h2[@class='estado-instituicao__titulo disable-select']").text
@@ -549,10 +552,20 @@ def coletar_aprovados_estado(confirmar_dados=True):
     for instituicao in all_instituicoes:
         instituicao.click()
 
-        print("|--Instituição: %s" % (instituicao.text.replace("\n", " - ")))
+        print("|---Instituição: %s" % (instituicao.text.replace("\n", " - ")))
         logging.info("Instituição selecionada: %s" % (instituicao.text.replace("\n", " - ")))
 
-        _, erro_referencia = coletar_aprovados_instituicao(confirmar_dados=True, abrir_driver=False, driver=driver)
+        time.sleep(1)
+
+        skip = ""
+        if enable_skipping:
+            skip = input("Pular instituição? S/N? ")
+            logging.debug("skip = {}".format(skip))
+
+        if skip.lower() != "s":
+            _, erro_referencia = coletar_aprovados_instituicao(confirmar_dados=confirmar_dados, abrir_driver=False, driver=driver)
+        else:
+            logging.info("Pulou estado {}".format(estado_text))
 
         if erro_referencia:
             instituicoes_erros_referencia.append(instituicao.text.replace("\n", " - "))
@@ -561,6 +574,122 @@ def coletar_aprovados_estado(confirmar_dados=True):
         logging.warning("------ {} erros de referência ao coletar as instituições. Instituições afetadas:".format(len(instituicoes_erros_referencia)))
         for erro_referencia in instituicoes_erros_referencia:
             logging.warning(">>> {}".format(erro_referencia))
+    else:
+        logging.info("------ {} erros de referência ao coletar as instituições.".format(len(instituicoes_erros_referencia)))
+
+    estado_erros_referencia = {estado_text: instituicoes_erros_referencia}
+
+    return driver, estado_erros_referencia
+
+
+def coletar_aprovados_ano(confirmar_dados=True, enable_skipping=False):
+    my_url = "https://site.medgrupo.com.br/#/aprovacoes"
+
+    all_erros_referencia = {}
+
+    # Define window size for certain class selectors appear, thanks to the page's JS
+    options = Options()
+    # options.add_argument("window-size=800,700")
+
+    driver = webdriver.Chrome(options=options, executable_path=r'/Library/FilesToPath/chromedriver')
+    driver.get(my_url)
+    logging.info("Navegador aberto e site carregado.")
+
+    logging.info("Aguardando seleção do ano.")
+    input("Selecione no navegador o ano desejado. Pressione enter para continuar...")
+    logging.info("Ano selecionado.")
+
+    ano_text = driver.find_element_by_xpath("//ul[@class='aprovacoes__selecao-ano']/li[@class='pointer active']").text
+
+    logging.info("ano_text = %s" % (ano_text))
+
+    logging.debug("confirmar_dados = {}".format(confirmar_dados))
+    if confirmar_dados:
+        logging.info("Confirmando dados.")
+
+        print("\nO ano selecionado está correto?")
+        print("Ano: %s" % (ano_text))
+        print("S/N? ", end="")
+        modificar = input("")
+
+        if modificar.lower() == "n":
+            logging.info("Usuário pede para modificar ano e/ou estado.")
+
+            print("")
+            ano_text = input("Digite o ano: ")
+
+            logging.info("Novo ano_text = %s" % (ano_text))
+
+    print("")
+
+    all_estados_text = [
+        "Rio de Janeiro",
+        "São Paulo",
+        "Minas Gerais",
+        "Espírito Santo",
+        "Paraná",
+        "Santa Catarina",
+        "Rio Grande do Sul",
+        "Bahia",
+        "Pernambuco",
+        "Ceará",
+        "Paraíba",
+        "Alagoas",
+        "Maranhão",
+        "Rio Grande do Norte",
+        "Sergipe",
+        "Piauí",
+        "Distrito Federal",
+        "Goiás",
+        "Mato Grosso",
+        "Mato Grosso do Sul",
+        "Amazonas",
+        "Pará",
+        "Acre",
+        "Roraima",
+        "Amapá",
+        "Tocantins",
+        "Rondônia"
+    ]
+
+    for estado_text in all_estados_text:
+        logging.info("Próximo estado da lista: {}".format(estado_text))
+        input("Selecione no navegador o estado {}. Pressione enter para continuar...".format(estado_text))
+
+        estado_selecionado_text = driver.find_element_by_xpath("//h2[@class='estado-instituicao__titulo disable-select']").text
+        if estado_text == estado_selecionado_text:
+            logging.info("Estado selecionado e estado da lista são iguais")
+        else:
+            logging.warning("Estado selecionado e estado da lista NÃO são iguais")
+
+        print(".Estado: %s" % (estado_selecionado_text))
+        logging.info("Estado selecionado: %s" % (estado_selecionado_text))
+
+        time.sleep(1)
+
+        skip = ""
+        if enable_skipping:
+            skip = input("Pular instituição? S/N? ")
+            logging.debug("skip = {}".format(skip))
+
+        if skip.lower() != "s":
+            _, erros_referencia = coletar_aprovados_estado(confirmar_dados=confirmar_dados, abrir_driver=False, driver=driver)
+        else:
+            logging.info("Pulou estado {}".format(estado_text))
+
+        if len(erros_referencia) > 0:
+            all_erros_referencia.update(erro_referencia)
+
+    if len(all_erros_referencia) > 0:
+        logging.warning("------ {} erros de referência ao coletar os aprovados. Estados afetados:".format(len(all_erros_referencia)))
+        for estado in all_erros_referencia:
+            logging.warning("> {}".format(estado))
+
+        logging.warning("----- Erros de referência discretos por instituição de cada estado:")
+        for estado, lista_instituicoes_erro in all_erros_referencia.items():
+            logging.warning("> {}: {} instituições afetas.".format(estado, len(lista_instituicoes_erro)))
+            for instituicao in lista_instituicoes_erro:
+                logging.warning(">>> {}".format(instituicao))
     else:
         logging.info("------ {} erros de referência ao coletar as instituições.".format(len(instituicoes_erros_referencia)))
 
@@ -573,21 +702,59 @@ def main():
         opcao = str(sys.argv[1])
     else:
         print("Selecione o modo de operação:\n")
-        print("1. Coletar aprovados de um estado.")
-        print("2. Coletar aprovados de uma instituição.")
+        print("1. Coletar aprovados de um ano.")
+        print("2. Coletar aprovados de um estado.")
+        print("3. Coletar aprovados de uma instituição.")
         print("x. Abortar\n")
         opcao = input("Digite a opção: ")
 
     logging.debug("opcao = %s" % (opcao))
 
+    if len(sys.argv) > 2:
+        debug_mode = str(sys.argv[2])
+    else:
+        print("\nAtivar modo de debug?\n")
+        print("1. Sim")
+        print("2. Não\n")
+        debug_mode = input("Digite a opção: ")
+
+    logging.debug("debug_mode = %s" % (debug_mode))
+
+    if debug_mode == '2':
+        DEBUG = False
+        logging.info("Modo debug desativado.")
+    else:
+        DEBUG = True
+        logging.info("Modo debug ativado.")
+
+    if len(sys.argv) > 3:
+        skip_option = str(sys.argv[3])
+    else:
+        print("\nAtivar opção de pular estado/instituição?\n")
+        print("1. Sim")
+        print("2. Não\n")
+        skip_option = input("Digite a opção: ")
+
+    logging.debug("skip_option = %s" % (skip_option))
+
+    if skip_option == '2':
+        skip = False
+        logging.info("Modo pular estados/instituições desativado.")
+    else:
+        skip = True
+        logging.info("Modo pular estados/instituições ativado.")
+
     if opcao == '1':
-        logging.info("Selecionado: coletar_aprovados_estado()")
-        driver = coletar_aprovados_estado()
+        logging.info("Selecionado: coletar_aprovados_ano()")
+        driver, _ = coletar_aprovados_ano(confirmar_dados=DEBUG, enable_skipping=skip)
     elif opcao == '2':
+        logging.info("Selecionado: coletar_aprovados_estado()")
+        driver, _ = coletar_aprovados_estado(confirmar_dados=DEBUG, enable_skipping=skip)
+    elif opcao == '3':
         logging.info("Selecionado: coletar_aprovados_instituicao()")
 
-        if len(sys.argv) > 2:
-            opcao_coleta = str(sys.argv[2])
+        if len(sys.argv) > 4:
+            opcao_coleta = str(sys.argv[4])
         else:
             print("\nModo coletar aprovados de Instituição selecionado.")
             print("Coletar na instituição:\n")
@@ -607,7 +774,7 @@ def main():
             print("Coletando apenas os nomes destacados de uma instituição\n")
             logging.info("[Sub-Menu] Selecionado: Coletar somente nomes marcados como aprovados.")
 
-        driver, _ = coletar_aprovados_instituicao(coletar_todos_aprovados=opcao_coleta)
+        driver, _ = coletar_aprovados_instituicao(confirmar_dados=DEBUG, coletar_todos_aprovados=opcao_coleta)
     else:
         logging.info("Nenhuma opção válida selecionada. Abortando operação...")
         logging.info("Fim da execução. <<<<<<<<<<<<<<<<<<<<<\n\n\n\n\n\n")
