@@ -399,7 +399,7 @@ def coletar_aprovados_instituicao(confirmar_dados=True, abrir_driver=True, drive
             logging.info("Novo instituicao_text = %s" % (instituicao_text))
             logging.debug("Novo instituicao_text_sigla = %s" % (instituicao_text_sigla))
 
-    print("")
+        print("")
 
     file_fullname = file_handling(ano_text, estado_text, instituicao_text_sigla)
 
@@ -436,6 +436,9 @@ def coletar_aprovados_instituicao(confirmar_dados=True, abrir_driver=True, drive
                     else:
                         all_aprovados_curso = cursos_aprovados.find_elements_by_xpath(".//li/span[@class='destaque']")
                         logging.debug("Coletando apenas os marcados como aprovados")
+
+                    num_cursos += 1
+
                     suplentes = False
                     num_aprovados = 0
                     for aprovado in all_aprovados_curso:
@@ -678,7 +681,7 @@ def coletar_aprovados_ano(confirmar_dados=True, enable_skipping=False):
             logging.info("Pulou estado {}".format(estado_text))
 
         if len(erros_referencia) > 0:
-            all_erros_referencia.update(erro_referencia)
+            all_erros_referencia.update(erros_referencia)
 
     if len(all_erros_referencia) > 0:
         logging.warning("------ {} erros de referência ao coletar os aprovados. Estados afetados:".format(len(all_erros_referencia)))
