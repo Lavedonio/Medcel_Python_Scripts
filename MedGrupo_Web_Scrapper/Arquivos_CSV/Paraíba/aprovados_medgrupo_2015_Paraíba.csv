@@ -1,0 +1,121 @@
+Estado;Instituição;Hospital;Curso;Colocação;Nome_Aprovado
+PARAÍBA;FAMENE - Faculdade de Medicina Nova Esperança;FACULDADE DE MEDICINA NOVA ESPERANÇA;PEDIATRIA;1;Maíra Lima Acioli
+PARAÍBA;FAMENE - Faculdade de Medicina Nova Esperança;FACULDADE DE MEDICINA NOVA ESPERANÇA;PEDIATRIA;2;João Cabral De Carvalho Madruga Neto
+PARAÍBA;FAMENE - Faculdade de Medicina Nova Esperança;FACULDADE DE MEDICINA NOVA ESPERANÇA;CIRURGIA GERAL;1;Ivane Emanuelle Neiva Araujo
+PARAÍBA;FAMENE - Faculdade de Medicina Nova Esperança;FACULDADE DE MEDICINA NOVA ESPERANÇA;CIRURGIA GERAL;2;Gabriella Sancho Leite
+PARAÍBA;FAMENE - Faculdade de Medicina Nova Esperança;FACULDADE DE MEDICINA NOVA ESPERANÇA;GINECOLOGIA E OBSTETRÍCIA;1;Andressa Cesar Vinagre
+PARAÍBA;FAMENE - Faculdade de Medicina Nova Esperança;FACULDADE DE MEDICINA NOVA ESPERANÇA;GINECOLOGIA E OBSTETRÍCIA;2;Eliane De Souza Medeiros
+PARAÍBA;FAMENE - Faculdade de Medicina Nova Esperança;FACULDADE DE MEDICINA NOVA ESPERANÇA;GINECOLOGIA E OBSTETRÍCIA;3.
+PARAÍBA;FAMENE - Faculdade de Medicina Nova Esperança;FACULDADE DE MEDICINA NOVA ESPERANÇA;CLÍNICA MÉDICA;1;Daniel Lopes Imperiano
+PARAÍBA;FAMENE - Faculdade de Medicina Nova Esperança;FACULDADE DE MEDICINA NOVA ESPERANÇA;CLÍNICA MÉDICA;2.
+PARAÍBA;FAMENE - Faculdade de Medicina Nova Esperança;FACULDADE DE MEDICINA NOVA ESPERANÇA;CLÍNICA MÉDICA;3;Fernanda Tavares De Melo Cavalcanti
+PARAÍBA;FAMENE - Faculdade de Medicina Nova Esperança;FACULDADE DE MEDICINA NOVA ESPERANÇA;MEDICINA DA FAMÍLIA E COMUNIDADE;1;Décio Ramalho De Amorim Brito
+PARAÍBA;CENOFT - Centro Oftálmico Tarcízio Dias;CENTRO OFTÁLMICO TARCÍZIO DIAS;OFTALMOLOGIA;1;Robson Stenio De A. Nunes
+PARAÍBA;CENOFT - Centro Oftálmico Tarcízio Dias;CENTRO OFTÁLMICO TARCÍZIO DIAS;OFTALMOLOGIA;2;Rodrigo Reny Braga Ribeiro
+PARAÍBA;SES PB - Secretaria de Estado da Saúde da Paraíba;SECRETARIA DE ESTADO DA SAÚDE DA PARAÍBA;PEDIATRIA;1;Alaíde Pinto Bessa
+PARAÍBA;SES PB - Secretaria de Estado da Saúde da Paraíba;SECRETARIA DE ESTADO DA SAÚDE DA PARAÍBA;PEDIATRIA;2;Lilian Carollina Pereira Nogueira
+PARAÍBA;SES PB - Secretaria de Estado da Saúde da Paraíba;SECRETARIA DE ESTADO DA SAÚDE DA PARAÍBA;PEDIATRIA;3;Carla Emilia Da Silveira Chaves
+PARAÍBA;SES PB - Secretaria de Estado da Saúde da Paraíba;SECRETARIA DE ESTADO DA SAÚDE DA PARAÍBA;PEDIATRIA;4.
+PARAÍBA;SES PB - Secretaria de Estado da Saúde da Paraíba;SECRETARIA DE ESTADO DA SAÚDE DA PARAÍBA;PEDIATRIA;5.
+PARAÍBA;SES PB - Secretaria de Estado da Saúde da Paraíba;SECRETARIA DE ESTADO DA SAÚDE DA PARAÍBA;ANESTESIOLOGIA;1;Francisco Xavier Fernandes Júnior
+PARAÍBA;SES PB - Secretaria de Estado da Saúde da Paraíba;SECRETARIA DE ESTADO DA SAÚDE DA PARAÍBA;ANESTESIOLOGIA;2;Kate Millena Ferreira Barbosa
+PARAÍBA;SES PB - Secretaria de Estado da Saúde da Paraíba;SECRETARIA DE ESTADO DA SAÚDE DA PARAÍBA;ANESTESIOLOGIA;3;Gutemberg Diniz Borborema
+PARAÍBA;SES PB - Secretaria de Estado da Saúde da Paraíba;SECRETARIA DE ESTADO DA SAÚDE DA PARAÍBA;ANESTESIOLOGIA;4;Larissa Fernanda Coelho Dos Santos
+PARAÍBA;SES PB - Secretaria de Estado da Saúde da Paraíba;SECRETARIA DE ESTADO DA SAÚDE DA PARAÍBA;MEDICINA INTENSIVA;1;Adriano Rodrigues Silva
+PARAÍBA;SES PB - Secretaria de Estado da Saúde da Paraíba;SECRETARIA DE ESTADO DA SAÚDE DA PARAÍBA;ORTOPEDIA E TRAUMATOLOGIA;1;Teófilo Vanomark Chaves Bezerra
+PARAÍBA;SES PB - Secretaria de Estado da Saúde da Paraíba;SECRETARIA DE ESTADO DA SAÚDE DA PARAÍBA;ORTOPEDIA E TRAUMATOLOGIA;2.
+PARAÍBA;SES PB - Secretaria de Estado da Saúde da Paraíba;SECRETARIA DE ESTADO DA SAÚDE DA PARAÍBA;ORTOPEDIA E TRAUMATOLOGIA;3;Raiff Leite Soares
+PARAÍBA;SES PB - Secretaria de Estado da Saúde da Paraíba;SECRETARIA DE ESTADO DA SAÚDE DA PARAÍBA;ORTOPEDIA E TRAUMATOLOGIA;4;Camila Maribondo Medeiros Ramos
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;PEDIATRIA;1;Carla Emilia Da Silveira Chaves
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;PEDIATRIA;2;José Carlos Félix Dos Santos Júnior
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;PEDIATRIA;3;Gabriela Palhano Lauro
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;PEDIATRIA;4;Alcides De Oliveira Campos Sobrinho
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;PEDIATRIA;5;Ana Cláudia Correia Santos Das Chagas
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;CLÍNICA MÉDICA;1;Tiago Cavalcanti Do Ó
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;CLÍNICA MÉDICA;2;Ana Maíra Quental Da Nóbrega
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;CLÍNICA MÉDICA;3;Talita Borges Brito
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;CLÍNICA MÉDICA;4;Anderson Douglas Souza Aragão
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;CLÍNICA MÉDICA;5;Tawanna Xavier Marques De Carvalho
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;CLÍNICA MÉDICA;6;Hugo Flávio Maciel De Almeida
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;CLÍNICA MÉDICA;7;Luanna Mayara Mendes Hóstio
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;CLÍNICA MÉDICA;8;Lilian Soraia Pereira Mendes
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;CIRURGIA GERAL;1.
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;CIRURGIA GERAL;2;Gilbran Costa Guimarães
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;CIRURGIA GERAL;3;Millene Ivania Ferreira Leite Barbosa
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;CIRURGIA GERAL;4;Hugo De Amorim Oliveira
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;GINECOLOGIA E OBSTETRÍCIA;1;Ozanira Araújo De Oliveira
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;GINECOLOGIA E OBSTETRÍCIA;2.
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;GINECOLOGIA E OBSTETRÍCIA;3;Cristhianne Carvalho De Brito
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;ENDOCRINOLOGIA;1;Ana Carolina Arruda Meira Brito
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;ENDOCRINOLOGIA;2;Isis Gabriella Antunes Lopes
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;ENDOCRINOLOGIA;3;Jamilly Verissimo Meira Teixeira
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;ENDOCRINOLOGIA;4;Alysson Costa Da Nobrega
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;INFECTOLOGIA;1;Monnara Lúcio Da Silva Bezerra
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;INFECTOLOGIA;2;Camila Agra Gomes De Lira
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;HOSPITAL UNIVERSITÁRIO ALCIDES CARNEIRO;INFECTOLOGIA;3;João Paulo Ribeiro Machado
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;SECRETARIA DE SAÚDE DO MUNICÍPIO DE CAMPINA GRANDE;NEONATOLOGIA;1;Paloma Crispim Clemente
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;SECRETARIA DE SAÚDE DO MUNICÍPIO DE CAMPINA GRANDE;NEONATOLOGIA;2;Michela Cindy Modesto Coelho
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;SECRETARIA DE SAÚDE DO MUNICÍPIO DE CAMPINA GRANDE;NEONATOLOGIA;3;Tatiane De Carvalho Alves
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;SECRETARIA DE SAÚDE DO MUNICÍPIO DE CAMPINA GRANDE;PEDIATRIA;1;Puamma Tabira Costa Lopes
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;SECRETARIA DE SAÚDE DO MUNICÍPIO DE CAMPINA GRANDE;PEDIATRIA;2;Lílian Carollina Pereira Nogueira
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;SECRETARIA DE SAÚDE DO MUNICÍPIO DE CAMPINA GRANDE;PEDIATRIA;3;Shayene Barbosa Monteiro Garcia
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;SECRETARIA DE SAÚDE DO MUNICÍPIO DE CAMPINA GRANDE;PEDIATRIA;4;Maria Do Ceu Diniz Borborema
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;SECRETARIA DE SAÚDE DO MUNICÍPIO DE CAMPINA GRANDE;PEDIATRIA;5.
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;SECRETARIA DE SAÚDE DO MUNICÍPIO DE CAMPINA GRANDE;MEDICINA DE FAMÍLIA E COMUNIDADE;1.
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;SECRETARIA DE SAÚDE DO MUNICÍPIO DE CAMPINA GRANDE;MEDICINA DE FAMÍLIA E COMUNIDADE;2;Francisco Custódio Filho
+PARAÍBA;UFCG - Universidade Federal de Campina Grande;SECRETARIA DE SAÚDE DO MUNICÍPIO DE CAMPINA GRANDE;MEDICINA DE FAMÍLIA E COMUNIDADE;3;Morgyanna Alves Cipriano
+PARAÍBA;FCMCG - FACULDADES DE CIÊNCIAS MÉDICAS CAMPINA GRANDE;FACULDADES DE CIÊNCIAS MÉDICAS CAMPINA GRANDE;CIRURGIA GERAL;1;Gilbran Costa Guimarães
+PARAÍBA;FCMCG - FACULDADES DE CIÊNCIAS MÉDICAS CAMPINA GRANDE;FACULDADES DE CIÊNCIAS MÉDICAS CAMPINA GRANDE;CIRURGIA GERAL;2;Marcela Silva Vieira
+PARAÍBA;FCMCG - FACULDADES DE CIÊNCIAS MÉDICAS CAMPINA GRANDE;FACULDADES DE CIÊNCIAS MÉDICAS CAMPINA GRANDE;CLÍNICA MÉDICA;1;Talita Borges Brito
+PARAÍBA;FCMCG - FACULDADES DE CIÊNCIAS MÉDICAS CAMPINA GRANDE;FACULDADES DE CIÊNCIAS MÉDICAS CAMPINA GRANDE;CLÍNICA MÉDICA;2;Lamylya Ferreira Figueiredo De Sa
+PARAÍBA;FCMCG - FACULDADES DE CIÊNCIAS MÉDICAS CAMPINA GRANDE;FACULDADES DE CIÊNCIAS MÉDICAS CAMPINA GRANDE;OFTALMOLOGIA;1.
+PARAÍBA;FCMCG - FACULDADES DE CIÊNCIAS MÉDICAS CAMPINA GRANDE;FACULDADES DE CIÊNCIAS MÉDICAS CAMPINA GRANDE;OFTALMOLOGIA;2;Adriana Susanne Jalcira Jeunon
+PARAÍBA;FCMCG - FACULDADES DE CIÊNCIAS MÉDICAS CAMPINA GRANDE;FACULDADES DE CIÊNCIAS MÉDICAS CAMPINA GRANDE;ORTOPEDIA E TRAUMATOLOGIA;1;Alfredo Lourenço Da Silva Neto
+PARAÍBA;FCMCG - FACULDADES DE CIÊNCIAS MÉDICAS CAMPINA GRANDE;FACULDADES DE CIÊNCIAS MÉDICAS CAMPINA GRANDE;ORTOPEDIA E TRAUMATOLOGIA;2;Pedro Henrique Acioly Simões
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;PEDIATRIA;1;Priscilla Coutinho Duarte
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;PEDIATRIA;2;Priscila Magalhaes Nunes
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;PEDIATRIA;3;Vanessa Santos Do Nascimento
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;PEDIATRIA;4;Michelle Mendonça Pessoa
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;PEDIATRIA;5;Thiago Do Vale Machado
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;PEDIATRIA;6;Maria Do Ceu Diniz Borborema
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;OBSTETRÍCIA E GINECOLOGIA;1;Larissa Mayara Aristóteles De Albuquerque
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;OBSTETRÍCIA E GINECOLOGIA;2;Érika Patrícia De Barros Paz Bezerra
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;OBSTETRÍCIA E GINECOLOGIA;3;Camila Da Nobrega Medeiros
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;OBSTETRÍCIA E GINECOLOGIA;4;Carolina Medeiros Brandão Florêncio
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;OBSTETRÍCIA E GINECOLOGIA;5;Patrícia Mayara Sales Pereira
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;OBSTETRÍCIA E GINECOLOGIA;6;Medeia Leite De Andrade
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;CLÍNICA MÉDICA;1.
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;CLÍNICA MÉDICA;2;Antonio Lucas Araújo Neto
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;CLÍNICA MÉDICA;3;Tamiris Müller Mafra
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;CLÍNICA MÉDICA;4.
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;CLÍNICA MÉDICA;5;Lilian Soraia Pereira Mendes
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;CLÍNICA MÉDICA;6;Marcos Martins Soares Junior
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;CLÍNICA MÉDICA;7;Victor Nobrega Quintas Colares
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;CLÍNICA MÉDICA;8;Analine Alves Correia De Lima
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;CLÍNICA MÉDICA;9;Janette Magali Gomes De Souza
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;CLÍNICA MÉDICA;10;Luana Cavalcanti Dias Xavier
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;CIRURGIA GERAL;1;Ramonn Chaves Da Silva Rodrigues
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;CIRURGIA GERAL;2;Gilbran Costa Guimarães
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;CIRURGIA GERAL;3;Camila Rangel Travassos Burity
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;CIRURGIA GERAL;4.
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;CIRURGIA GERAL;5;Bruno Roberto Duarte Silva
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;CIRURGIA GERAL;6;Daniel Amorim Ricarte De Oliveira
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;PSIQUIATRIA;1;Jocelio Ramalho Da Silva
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;PSIQUIATRIA;2;Rafael Alexandre Fernandes Dos Santos Queiroz
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;PSIQUIATRIA;3;Raysa De Medeiros Lopes Alves
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;REUMATOLOGIA;1;Anna Luísa Marinho De Andrade
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;REUMATOLOGIA;2;Joao Rodrigues De Araujo Neto
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;ANESTESIOLOGIA;1;Marcos Eyder
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;ANESTESIOLOGIA;2;Tomas Vitor De Souza Gama Queiroz Teixeira De Barros
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;DERMATOLOGIA;1;Rosa-maria Silva Soares
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;DERMATOLOGIA;2;Raissa De Lima Gadelha
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;ENDOCRINOLOGIA;1;Kyara Ramalho Freire
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;ENDOCRINOLOGIA;2;Isis Gabriella Antunes Lopes
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;INFECTOLOGIA;1;Fernando Martins Selva Chagas
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;INFECTOLOGIA;2;Raíssa Holmes Simões
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;MEDICINA INTENSIVA;1;Isabel Diniz Herbster
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;MEDICINA INTENSIVA;2;Juliana Alves Aguiar Da Silva Costa
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;OFTALMOLOGIA;1;Adriana Susanne Jalcira Jeunon
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;OFTALMOLOGIA;2.
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;OFTALMOLOGIA;3;Paulo Andre Francelino Figueiredo
+PARAÍBA;UFPB - Universidade Federal da Paraíba;UNIVERSIDADE FEDERAL DA PARAÍBA;OFTALMOLOGIA;4;José Carlos Félix Dos Santos Júnior
