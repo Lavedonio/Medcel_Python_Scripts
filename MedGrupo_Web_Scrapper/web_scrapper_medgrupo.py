@@ -728,6 +728,7 @@ def concatenador(ano):
 
         for estado in os.listdir(arquivos_csv):
             if os.path.isdir(os.path.join(arquivos_csv, estado)):
+                logging.info("Concatenando estado {}".format(estado))
                 estado_path = os.path.join(arquivos_csv, estado)
                 file_estado_name = "aprovados_medgrupo_{}_{}.csv".format(ano, estado)
 
@@ -745,11 +746,12 @@ def concatenador(ano):
                             # print(estado)
                             # print(root)
                             # print(dirs)
-                            print(files)
+                            # print(files)
                             possible_files = []
                             for file in files:
                                 if str(ano) in file:
                                     possible_files.append(file)
+                                    logging.debug("Arquivo possível: {}".format(file))
 
                             if len(possible_files) > 0:
                                 try:
@@ -769,6 +771,7 @@ def concatenador(ano):
                                 except Exception as e:
                                     raise e
                                 else:
+                                    logging.info("Arquivo selecionado: {}".format(file))
                                     with open(os.path.join(root, file), "r") as f_instituicao:
                                         f_instituicao.readline()  # ignorar primeira linha
                                         for linha in f_instituicao:
@@ -778,8 +781,81 @@ def concatenador(ano):
 
 def main():
     logging.info(">>>>>>>>>>>>>>>>>>>>> Início da execução.")
+
+    # Valores default
+    DEBUG = False
+    skip = False
+    skip_all = False
+    concatenar = False
+    somente_concatenar = False
+    opcao = ""
+    opcao_coleta = ""
+
     if len(sys.argv) > 1:
-        opcao = str(sys.argv[1])
+
+        # Valores default
+        selected = False
+        locked = False
+
+        try:
+            for arg in sys.argv[1:]:
+                if arg.lower() == "-d" or arg.lower() == "--debug":
+                    DEBUG = True
+                    logging.info("Modo debug ativado.")
+
+                if arg.lower() == "-s" or arg.lower() == "--skip":
+                    skip = True
+                    logging.info("Modo pular estados/instituições ativado.")
+
+                if arg.lower() == "-sa" or arg.lower() == "--skip_all":
+                    skip_all = True
+                    skip = True
+                    logging.info("Modo pular estados e instituições ativado.")
+
+                if arg.lower() == "-c" or arg.lower() == "--concatenar":
+                    concatenar = True
+                    logging.info("Concatenar ao final da varredura.")
+
+                if arg.lower() == "-sc" or arg.lower() == "--somente_concatenar":
+                    somente_concatenar = True
+                    logging.info("Somente concatenar.")
+
+                if arg.lower() == "-a" or arg.lower() == "--ano":
+                    opcao = '1'
+                    selected = True
+                    assert not locked
+
+                if arg.lower() == "-e" or arg.lower() == "--estado":
+                    opcao = '2'
+                    selected = True
+                    assert not locked
+
+                if arg.lower() == "-ia" or arg.lower() == "--instituicao_aprovados":
+                    opcao = '3'
+                    opcao_coleta = False
+                    selected = True
+                    assert not locked
+
+                if arg.lower() == "-it" or arg.lower() == "--instituicao_todos":
+                    opcao = '3'
+                    opcao_coleta = True
+                    selected = True
+                    assert not locked
+
+                if selected:
+                    locked = True
+        except AssertionError:
+            print("Erro: Mais de uma opção de coleta selecionada.\nConsulte -h ou --Help para ajuda sobre os comandos.\n")
+            logging.error("Erro: Mais de uma opção de coleta selecionada.\n\n")
+            sys.exit()
+        finally:
+            logging.debug("DEBUG = {}".format(DEBUG))
+            logging.debug("skip = {}".format(skip))
+            logging.debug("skip_all = {}".format(skip_all))
+            logging.debug("concatenar = {}".format(concatenar))
+            logging.debug("somente_concatenar = {}".format(somente_concatenar))
+            logging.debug("opcao = {}".format(opcao))
+            logging.debug("opcao_coleta = {}".format(opcao_coleta))
     else:
         print("Selecione o modo de operação:\n")
         print("1. Coletar aprovados de um ano.")
@@ -787,84 +863,169 @@ def main():
         print("3. Coletar aprovados de uma instituição.")
         print("x. Abortar\n")
         opcao = input("Digite a opção: ")
+        logging.debug("opcao = %s" % (opcao))
 
-    logging.debug("opcao = %s" % (opcao))
-
-    if len(sys.argv) > 2:
-        debug_mode = str(sys.argv[2])
-    else:
         print("\nAtivar modo de debug?\n")
         print("1. Sim")
         print("2. Não\n")
         debug_mode = input("Digite a opção: ")
+        logging.debug("debug_mode = %s" % (debug_mode))
 
-    logging.debug("debug_mode = %s" % (debug_mode))
+        if debug_mode == '2':
+            DEBUG = False
+            logging.info("Modo debug desativado.")
+        else:
+            DEBUG = True
+            logging.info("Modo debug ativado.")
 
-    if debug_mode == '2':
-        DEBUG = False
-        logging.info("Modo debug desativado.")
-    else:
-        DEBUG = True
-        logging.info("Modo debug ativado.")
-
-    if len(sys.argv) > 3:
-        skip_option = str(sys.argv[3])
-    else:
         print("\nAtivar opção de pular estado/instituição?\n")
+        print("1. Sim, apenas estado.")
+        print("2. Sim, estado e instituição.")
+        print("3. Não\n")
+        skip_option = input("Digite a opção: ")
+        logging.debug("skip_option = %s" % (skip_option))
+
+        if skip_option == '1':
+            skip = True
+            skip_all = False
+            logging.info("Modo pular estados/instituições ativado.")
+        elif skip_option == '2':
+            skip = True
+            skip_all = True
+            logging.info("Modo pular estados e instituições ativado.")
+        else:
+            skip = False
+            skip_all = False
+            logging.info("Modo pular estados/instituições desativado.")
+
+        print("\nConcatenar arquivos?\n")
         print("1. Sim")
         print("2. Não\n")
-        skip_option = input("Digite a opção: ")
+        concat_option = input("Digite a opção: ")
+        logging.debug("concat_option = %s" % (concat_option))
 
-    logging.debug("skip_option = %s" % (skip_option))
-
-    if skip_option == '2':
-        skip = False
-        logging.info("Modo pular estados/instituições desativado.")
-    else:
-        skip = True
-        logging.info("Modo pular estados/instituições ativado.")
-
-    if opcao == '1':
-        logging.info("Selecionado: coletar_aprovados_ano()")
-        driver = coletar_aprovados_ano(confirmar_dados=DEBUG, enable_skipping=skip)
-    elif opcao == '2':
-        logging.info("Selecionado: coletar_aprovados_estado()")
-        driver, _ = coletar_aprovados_estado(confirmar_dados=DEBUG, enable_skipping=skip)
-    elif opcao == '3':
-        logging.info("Selecionado: coletar_aprovados_instituicao()")
-
-        if len(sys.argv) > 4:
-            opcao_coleta = str(sys.argv[4])
+        if concat_option == '2':
+            concatenar = False
+            logging.info("Modo debug desativado.")
         else:
-            print("\nModo coletar aprovados de Instituição selecionado.")
-            print("Coletar na instituição:\n")
-            print("1. Somente marcados como aprovados.")
-            print("2. Todos os nomes. (Use quando houver problema de formatação na página)\n")
-            opcao_coleta = input("Digite a opção: ")
+            concatenar = True
+            logging.info("Modo debug ativado.")
 
-        logging.debug("opcao_coleta = %s" % (opcao_coleta))
+    # if len(sys.argv) > 1:
+    #     opcao = str(sys.argv[1])
+    # else:
+    #     print("Selecione o modo de operação:\n")
+    #     print("1. Coletar aprovados de um ano.")
+    #     print("2. Coletar aprovados de um estado.")
+    #     print("3. Coletar aprovados de uma instituição.")
+    #     print("x. Abortar\n")
+    #     opcao = input("Digite a opção: ")
 
-        if opcao_coleta == '2':
-            opcao_coleta = True
-            print("Coletando todos os nomes de uma instituição\n")
-            logging.info("[Sub-Menu] Selecionado: Coletar todos os nomes.")
+    # logging.debug("opcao = %s" % (opcao))
+
+    # if len(sys.argv) > 2:
+    #     debug_mode = str(sys.argv[2])
+    # else:
+    #     print("\nAtivar modo de debug?\n")
+    #     print("1. Sim")
+    #     print("2. Não\n")
+    #     debug_mode = input("Digite a opção: ")
+
+    # logging.debug("debug_mode = %s" % (debug_mode))
+
+    # if debug_mode == '2':
+    #     DEBUG = False
+    #     logging.info("Modo debug desativado.")
+    # else:
+    #     DEBUG = True
+    #     logging.info("Modo debug ativado.")
+
+    # if len(sys.argv) > 3:
+    #     skip_option = str(sys.argv[3])
+    # else:
+    #     print("\nAtivar opção de pular estado/instituição?\n")
+    #     print("1. Sim")
+    #     print("2. Não\n")
+    #     skip_option = input("Digite a opção: ")
+
+    # logging.debug("skip_option = %s" % (skip_option))
+
+    # if skip_option == '2':
+    #     skip = False
+    #     logging.info("Modo pular estados/instituições desativado.")
+    # else:
+    #     skip = True
+    #     logging.info("Modo pular estados/instituições ativado.")
+
+    if not somente_concatenar:
+        if opcao == '1':
+            logging.info("Selecionado: coletar_aprovados_ano()")
+            driver = coletar_aprovados_ano(confirmar_dados=DEBUG, enable_skipping=skip, enable_skipping_instituicoes=skip_all)
+        elif opcao == '2':
+            logging.info("Selecionado: coletar_aprovados_estado()")
+            driver, _ = coletar_aprovados_estado(confirmar_dados=DEBUG, enable_skipping=skip)
+        elif opcao == '3':
+            logging.info("Selecionado: coletar_aprovados_instituicao()")
+
+            if opcao_coleta == "":
+                print("\nModo coletar aprovados de Instituição selecionado.")
+                print("Coletar na instituição:\n")
+                print("1. Somente marcados como aprovados.")
+                print("2. Todos os nomes. (Use quando houver problema de formatação na página)\n")
+                opcao_coleta = input("Digite a opção: ")
+
+                logging.debug("opcao_coleta = %s" % (opcao_coleta))
+
+                if opcao_coleta == '2':
+                    opcao_coleta = True
+                    print("Coletando todos os nomes de uma instituição\n")
+                    logging.info("[Sub-Menu] Selecionado: Coletar todos os nomes.")
+                else:
+                    # Opção default é coletar apenas nomes em destaque.
+                    opcao_coleta = False
+                    print("Coletando apenas os nomes destacados de uma instituição\n")
+                    logging.info("[Sub-Menu] Selecionado: Coletar somente nomes marcados como aprovados.")
+
+            driver, _ = coletar_aprovados_instituicao(confirmar_dados=DEBUG, coletar_todos_aprovados=opcao_coleta)
         else:
-            # Opção default é coletar apenas nomes em destaque.
-            opcao_coleta = False
-            print("Coletando apenas os nomes destacados de uma instituição\n")
-            logging.info("[Sub-Menu] Selecionado: Coletar somente nomes marcados como aprovados.")
-
-        driver, _ = coletar_aprovados_instituicao(confirmar_dados=DEBUG, coletar_todos_aprovados=opcao_coleta)
-    else:
-        logging.info("Nenhuma opção válida selecionada. Abortando operação...")
-        logging.info("Fim da execução. <<<<<<<<<<<<<<<<<<<<<\n\n\n\n\n\n")
-        print("Abortando...")
-        sys.exit()
+            logging.info("Nenhuma opção válida selecionada. Abortando operação...")
+            logging.info("Fim da execução. <<<<<<<<<<<<<<<<<<<<<\n\n\n\n\n\n")
+            print("Abortando...")
+            sys.exit()
 
     driver.quit()
+
+    if concatenar or somente_concatenar:
+        print("\n")
+        ano = int(input("Digite ano para concatenar: "))
+        logging.info("Concatenando arquivos do ano {}".format(ano))
+        concatenador(ano)
+
     logging.info("Fim da execução. <<<<<<<<<<<<<<<<<<<<<\n\n\n\n\n\n")
 
 
+def help():
+    print("\n>>>>>> HELP: Ajuda do Web Scrapper.")
+    print("")
+    print("Lista de comandos:")
+    print("")
+    print("-h  ou --Help:                   abrir menu de ajuda")
+    print("-d  ou --Debug:                  ativar modo de confirmação de dados")
+    print("-s  ou --Skip:                   ativar possibilidade de pular um estado na varredura de ano ou instituição na varredura de estado")
+    print("-sa ou --Skip_All:               ativar possibilidade de pular um estado e uma instituição na varredura de ano ou instituição na varredura de estado")
+    print("-c  ou --Concatenar:             concatenar arquivos CSV ao final da varredura")
+    print("-sc ou --Somente_Concatenar:     pular varredura e somente concatenar arquivos CSV")
+    print("-a  ou --Ano:                    coletar todos os estados e instituições de determinado ano")
+    print("-e  ou --Estado:                 coletar todas as instituições de determinado estado")
+    print("-ia ou --Instituicao_Aprovados:  coletar de uma instituição os nomes que estejam com tag de aprovado")
+    print("-it ou --Instituicao_Todos:      coletar de uma instituição todos os nomes, independente da tag")
+    print("")
+    print("Obs: não utilizar opções de coletar ano, estado e instituição na mesma série de comandos.")
+    print("Obs2: na varredura de estado, os comandos Skip e Skip_All tem o mesmo efeito.\n")
+
+
 if __name__ == '__main__':
-    main()
-    # concatenador(2015)
+    if "-h" in [x.lower() for x in sys.argv] or "--help" in [x.lower() for x in sys.argv]:
+        help()
+    else:
+        main()
