@@ -503,6 +503,8 @@ def file_handling(ano_text, estado_text, instituicao_text_sigla):
         print("| |-Criando novo arquivo aprovados_medgrupo_%s_%s_%s.csv..." % (ano_text, estado_text, instituicao_text_sigla))
         file_name = "aprovados_medgrupo_%s_%s_%s.csv" % (ano_text, estado_text, instituicao_text_sigla)
 
+    file_name = file_name.replace("/", "-")
+
     logging.info("file_name = {}".format(file_name))
     logging.debug("return {}".format(os.path.join(os.getcwd(), file_path, file_name)))
 
