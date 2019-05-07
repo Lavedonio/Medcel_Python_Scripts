@@ -7,7 +7,7 @@ from os.path import isfile as file_exists
 from os.path import isdir as dir_exists
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selenium.common.exceptions import StaleElementReferenceException
+from selenium.common.exceptions import StaleElementReferenceException, NoSuchElementException
 
 logging.basicConfig(filename='web_scrapper.log', level=logging.DEBUG,
     format='%(asctime)s:%(levelname)s:%(funcName)s:%(message)s')
@@ -352,8 +352,9 @@ def coletar_aprovados_instituicao(confirmar_dados=True, abrir_driver=True, drive
         # Define window size for certain class selectors appear, thanks to the page's JS
         options = Options()
         # options.add_argument("window-size=800,700")
+        driver_path = os.path.join(os.getcwd(), 'chromedriver')
 
-        driver = webdriver.Chrome(options=options, executable_path=r'/Library/FilesToPath/chromedriver')
+        driver = webdriver.Chrome(options=options, executable_path=driver_path)
         driver.get(my_url)
 
         logging.info("Navegador aberto e site carregado.")
@@ -414,8 +415,8 @@ def coletar_aprovados_instituicao(confirmar_dados=True, abrir_driver=True, drive
         logging.debug("len(infos_por_instituicao) = {}".format(len(infos_por_instituicao)))
 
         erro_referencia = False
-        try:
-            for infos_por_hospital in infos_por_instituicao:
+        for infos_por_hospital in infos_por_instituicao:
+            try:
                 hospital = infos_por_hospital.find_element_by_xpath(".//div[@class='content-lista-aprovados__hospital']")
                 logging.info("---Hospital: {}".format(hospital.text))
 
@@ -464,16 +465,22 @@ def coletar_aprovados_instituicao(confirmar_dados=True, abrir_driver=True, drive
                     logging.info("-- {} aprovados registrados no curso {}".format(num_aprovados, curso.text))
                 logging.info("---- {} cursos registrados no hospital {}".format(num_cursos, hospital.text))
 
-        except StaleElementReferenceException:
-            erro_referencia = True
-            print("\nStaleElementReferenceException occured; line not written on file. Aborting...\n")
-            logging.error("StaleElementReferenceException")
-            logging.warning("Pulando restante dos dados da instituição.")
+            except StaleElementReferenceException:
+                erro_referencia = True
+                print("\nStaleElementReferenceException occured; line not written on file. Aborting...\n")
+                logging.error("StaleElementReferenceException")
+                logging.warning("Pulando restante dos dados da instituição.")
 
-        except Exception as e:
-            logging.exception("Erro inesperado ocorrido.")
-            driver.quit()
-            raise e
+            except NoSuchElementException:
+                erro_referencia = True
+                print("\nNoSuchElementException; Indo para próximo hospital\n")
+                logging.error("NoSuchElementException")
+                logging.warning("Pulando restante dos dados do hospital.")
+
+            except Exception as e:
+                logging.exception("Erro inesperado ocorrido.")
+                driver.quit()
+                raise e
 
     logging.info("Fim da leitura da instituição.")
     return driver, erro_referencia
@@ -509,8 +516,9 @@ def coletar_aprovados_estado(confirmar_dados=True, abrir_driver=True, enable_ski
         # Define window size for certain class selectors appear, thanks to the page's JS
         options = Options()
         # options.add_argument("window-size=800,700")
+        driver_path = os.path.join(os.getcwd(), 'chromedriver')
 
-        driver = webdriver.Chrome(options=options, executable_path=r'/Library/FilesToPath/chromedriver')
+        driver = webdriver.Chrome(options=options, executable_path=driver_path)
         driver.get(my_url)
         logging.info("Navegador aberto e site carregado.")
 
@@ -544,7 +552,7 @@ def coletar_aprovados_estado(confirmar_dados=True, abrir_driver=True, enable_ski
             logging.info("Novo ano_text = %s" % (ano_text))
             logging.info("Novo estado_text = %s" % (estado_text))
 
-    print("")
+        print("")
 
     all_instituicoes = driver.find_elements_by_xpath("//ul[@class='estado-instituicao__lista disable-select']/li")
     logging.debug("Lista de instituições adquirida")
@@ -555,6 +563,7 @@ def coletar_aprovados_estado(confirmar_dados=True, abrir_driver=True, enable_ski
     for instituicao in all_instituicoes:
         instituicao.click()
 
+        print("|")
         print("|---Instituição: %s" % (instituicao.text.replace("\n", " - ")))
         logging.info("Instituição selecionada: %s" % (instituicao.text.replace("\n", " - ")))
 
@@ -567,11 +576,11 @@ def coletar_aprovados_estado(confirmar_dados=True, abrir_driver=True, enable_ski
 
         if skip.lower() != "s":
             _, erro_referencia = coletar_aprovados_instituicao(confirmar_dados=confirmar_dados, abrir_driver=False, driver=driver)
+
+            if erro_referencia:
+                instituicoes_erros_referencia.append(instituicao.text.replace("\n", " - "))
         else:
             logging.info("Pulou estado {}".format(estado_text))
-
-        if erro_referencia:
-            instituicoes_erros_referencia.append(instituicao.text.replace("\n", " - "))
 
     if len(instituicoes_erros_referencia) > 0:
         logging.warning("------ {} erros de referência ao coletar as instituições. Instituições afetadas:".format(len(instituicoes_erros_referencia)))
@@ -585,7 +594,7 @@ def coletar_aprovados_estado(confirmar_dados=True, abrir_driver=True, enable_ski
     return driver, estado_erros_referencia
 
 
-def coletar_aprovados_ano(confirmar_dados=True, enable_skipping=False):
+def coletar_aprovados_ano(confirmar_dados=True, enable_skipping=False, enable_skipping_instituicoes=False):
     my_url = "https://site.medgrupo.com.br/#/aprovacoes"
 
     all_erros_referencia = {}
@@ -593,8 +602,9 @@ def coletar_aprovados_ano(confirmar_dados=True, enable_skipping=False):
     # Define window size for certain class selectors appear, thanks to the page's JS
     options = Options()
     # options.add_argument("window-size=800,700")
+    driver_path = os.path.join(os.getcwd(), 'chromedriver')
 
-    driver = webdriver.Chrome(options=options, executable_path=r'/Library/FilesToPath/chromedriver')
+    driver = webdriver.Chrome(options=options, executable_path=driver_path)
     driver.get(my_url)
     logging.info("Navegador aberto e site carregado.")
 
@@ -657,7 +667,9 @@ def coletar_aprovados_ano(confirmar_dados=True, enable_skipping=False):
 
     for estado_text in all_estados_text:
         logging.info("Próximo estado da lista: {}".format(estado_text))
+        print("\n")
         input("Selecione no navegador o estado {}. Pressione enter para continuar...".format(estado_text))
+        print("")
 
         estado_selecionado_text = driver.find_element_by_xpath("//h2[@class='estado-instituicao__titulo disable-select']").text
         if estado_text == estado_selecionado_text:
@@ -672,16 +684,16 @@ def coletar_aprovados_ano(confirmar_dados=True, enable_skipping=False):
 
         skip = ""
         if enable_skipping:
-            skip = input("Pular instituição? S/N? ")
+            skip = input("Pular estado? S/N? ")
             logging.debug("skip = {}".format(skip))
 
         if skip.lower() != "s":
-            _, erros_referencia = coletar_aprovados_estado(confirmar_dados=confirmar_dados, abrir_driver=False, driver=driver)
+            _, erros_referencia = coletar_aprovados_estado(confirmar_dados=confirmar_dados, abrir_driver=False, enable_skipping=enable_skipping_instituicoes, driver=driver)
+
+            if len(erros_referencia) > 0:
+                all_erros_referencia.update(erros_referencia)
         else:
             logging.info("Pulou estado {}".format(estado_text))
-
-        if len(erros_referencia) > 0:
-            all_erros_referencia.update(erros_referencia)
 
     if len(all_erros_referencia) > 0:
         logging.warning("------ {} erros de referência ao coletar os aprovados. Estados afetados:".format(len(all_erros_referencia)))
@@ -697,6 +709,69 @@ def coletar_aprovados_ano(confirmar_dados=True, enable_skipping=False):
         logging.info("------ {} erros de referência ao coletar as instituições.".format(len(instituicoes_erros_referencia)))
 
     return driver
+
+
+def concatenador(ano):
+    arquivos_csv = os.path.join(os.getcwd(), 'Arquivos_CSV')
+    file_ano_name = "aprovados_medgrupo_{}.csv".format(ano)
+
+    if file_exists(os.path.join(arquivos_csv, file_ano_name)):
+        i = 1
+        while file_exists(os.path.join(arquivos_csv, "aprovados_medgrupo_{}_({}).csv".format(ano, i))):
+            i += 1
+        file_ano_name = "aprovados_medgrupo_{}_({}).csv".format(ano, i)
+
+    with open(os.path.join(arquivos_csv, file_ano_name), "w+") as f_concat_ano:
+        f_concat_ano.write("Estado;Instituição;Hospital;Curso;Colocação;Nome_Aprovado\n")
+
+        for estado in os.listdir(arquivos_csv):
+            if os.path.isdir(os.path.join(arquivos_csv, estado)):
+                estado_path = os.path.join(arquivos_csv, estado)
+                file_estado_name = "aprovados_medgrupo_{}_{}.csv".format(ano, estado)
+
+                if file_exists(os.path.join(estado_path, file_estado_name)):
+                    i = 1
+                    while file_exists(os.path.join(estado_path, "aprovados_medgrupo_{}_{}_({}).csv".format(ano, estado, i))):
+                        i += 1
+                    file_estado_name = "aprovados_medgrupo_{}_{}_({}).csv".format(ano, estado, i)
+
+                with open(os.path.join(estado_path, file_estado_name), "w+") as f_concat_estado:
+                    f_concat_estado.write("Estado;Instituição;Hospital;Curso;Colocação;Nome_Aprovado\n")
+
+                    for root, dirs, files in os.walk(estado_path):
+                        if file_estado_name not in files:
+                            # print(estado)
+                            # print(root)
+                            # print(dirs)
+                            print(files)
+                            possible_files = []
+                            for file in files:
+                                if str(ano) in file:
+                                    possible_files.append(file)
+
+                            if len(possible_files) > 0:
+                                try:
+                                    if len(possible_files) == 1:
+                                        file = possible_files[0]
+                                    else:
+                                        numero = 0
+                                        for teste in possible_files:
+                                            if "(" in teste and ")" in teste:
+                                                num_test = teste.split("(")[1]
+                                                num_test = int(num_test.split(")")[0])
+                                                if num_test > numero:
+                                                    numero = num_test
+                                                    file = teste
+
+                                    assert file != ""
+                                except Exception as e:
+                                    raise e
+                                else:
+                                    with open(os.path.join(root, file), "r") as f_instituicao:
+                                        f_instituicao.readline()  # ignorar primeira linha
+                                        for linha in f_instituicao:
+                                            f_concat_estado.write(linha)
+                                            f_concat_ano.write(linha)
 
 
 def main():
@@ -749,7 +824,7 @@ def main():
 
     if opcao == '1':
         logging.info("Selecionado: coletar_aprovados_ano()")
-        driver, _ = coletar_aprovados_ano(confirmar_dados=DEBUG, enable_skipping=skip)
+        driver = coletar_aprovados_ano(confirmar_dados=DEBUG, enable_skipping=skip)
     elif opcao == '2':
         logging.info("Selecionado: coletar_aprovados_estado()")
         driver, _ = coletar_aprovados_estado(confirmar_dados=DEBUG, enable_skipping=skip)
@@ -790,3 +865,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+    # concatenador(2015)
