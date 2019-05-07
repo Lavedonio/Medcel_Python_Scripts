@@ -1,0 +1,382 @@
+Estado;Instituição;Hospital;Curso;Colocação;Nome_Aprovado
+SANTA CATARINA;HISB - Hospital Infantil Seara do Bem;HOSPITAL INFANTIL SEARA DO BEM;PEDIATRIA;1;Suelyn Petris Da Silva
+SANTA CATARINA;HISB - Hospital Infantil Seara do Bem;HOSPITAL INFANTIL SEARA DO BEM;PEDIATRIA;2;Mayara Sá Skonieczny
+SANTA CATARINA;HISB - Hospital Infantil Seara do Bem;HOSPITAL INFANTIL SEARA DO BEM;PEDIATRIA;3;Luana Iara Pereira
+SANTA CATARINA;HSAN - Hospital Santo Antônio;HOSPITAL SANTO ANTÔNIO;CIRURGIA GERAL;1;Marina Schneider
+SANTA CATARINA;HSAN - Hospital Santo Antônio;HOSPITAL SANTO ANTÔNIO;CIRURGIA GERAL;2;Francisco Henrique Cavalli Marconato
+SANTA CATARINA;HSAN - Hospital Santo Antônio;HOSPITAL SANTO ANTÔNIO;CLÍNICA MÉDICA;1;Thais Conde Masagão Ribeiro
+SANTA CATARINA;HSAN - Hospital Santo Antônio;HOSPITAL SANTO ANTÔNIO;CLÍNICA MÉDICA;2;Gustavo Graciosa Saporiti
+SANTA CATARINA;HSAN - Hospital Santo Antônio;HOSPITAL SANTO ANTÔNIO;CLÍNICA MÉDICA;3.
+SANTA CATARINA;HSAN - Hospital Santo Antônio;HOSPITAL SANTO ANTÔNIO;CLÍNICA MÉDICA;4;Eduardo Campagnaro
+SANTA CATARINA;HSAN - Hospital Santo Antônio;HOSPITAL SANTO ANTÔNIO;CLÍNICA MÉDICA;5;Juliana Miyuki Yanagi Feijó
+SANTA CATARINA;HSAN - Hospital Santo Antônio;HOSPITAL SANTO ANTÔNIO;GINECOLOGIA E OBSTETRÍCIA;1;Lorena Jorge Jacopeti Sanchez
+SANTA CATARINA;HSAN - Hospital Santo Antônio;HOSPITAL SANTO ANTÔNIO;GINECOLOGIA E OBSTETRÍCIA;2;Cristina Heuko Martins
+SANTA CATARINA;HSAN - Hospital Santo Antônio;HOSPITAL SANTO ANTÔNIO;GINECOLOGIA E OBSTETRÍCIA;3;Marídia Ferrari Estevam
+SANTA CATARINA;HSAN - Hospital Santo Antônio;HOSPITAL SANTO ANTÔNIO;ORTOPEDIA E TRAUMATOLOGIA;1;Moisés Celso Kettenhuber Júnior
+SANTA CATARINA;HSAN - Hospital Santo Antônio;HOSPITAL SANTO ANTÔNIO;ORTOPEDIA E TRAUMATOLOGIA;2;Henrique Brito Yazeji
+SANTA CATARINA;HSAN - Hospital Santo Antônio;HOSPITAL SANTO ANTÔNIO;ORTOPEDIA E TRAUMATOLOGIA;3;Luis Felipe Canova Ogliari
+SANTA CATARINA;HSAN - Hospital Santo Antônio;HOSPITAL SANTO ANTÔNIO;ORTOPEDIA E TRAUMATOLOGIA;4;Victor Hugo Heckert
+SANTA CATARINA;HSAN - Hospital Santo Antônio;HOSPITAL SANTO ANTÔNIO;PEDIATRIA;1;Flavia Branco De Freitas Dias
+SANTA CATARINA;HSAN - Hospital Santo Antônio;HOSPITAL SANTO ANTÔNIO;PEDIATRIA;2;Debora Bortoli
+SANTA CATARINA;HSAN - Hospital Santo Antônio;HOSPITAL SANTO ANTÔNIO;PEDIATRIA;3;Lara Liz De Morais Teixeira
+SANTA CATARINA;HSAN - Hospital Santo Antônio;HOSPITAL SANTO ANTÔNIO;PEDIATRIA;4;Isabela Scheidt Prazeres
+SANTA CATARINA;HSAN - Hospital Santo Antônio;HOSPITAL SANTO ANTÔNIO;CANCEROLOGIA;1;Marilia Wunderlich
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;ANESTESIOLOGIA;1;Katherine Coelho Gonçalves
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;ANESTESIOLOGIA;2;Andreas Horner
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;ANESTESIOLOGIA;3;André Dajori Ronchi
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;ANESTESIOLOGIA;4;Wanderson Willian Dos Santos
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;ANESTESIOLOGIA;5;Lucas Pires Klassmann
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;ANESTESIOLOGIA;6;Olavo Haas De Souza Gastal
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;ANESTESIOLOGIA;7;Vinícius Prieto Herman Reinehr
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;NEUROLOGIA;1;Natália Merten Athayde
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;NEUROLOGIA;2;Joao Eugenio Henrique Heidemann E Silva
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;OFTALMOLOGIA;1;Matheus Dallagasperina Pedro
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;OFTALMOLOGIA;2;Gabriela Rosa Lopes
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;OFTALMOLOGIA;3;Edenir Goulart De Oliveira
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;ORTOPEDIA E TRAUMATOLOGIA (R4);1;Vinícius Felipe Pereira
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;UROLOGIA;1;Flavia Hoffmann Mortari
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;UROLOGIA;2;Arthur José Ghissi
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;CIRURGIA GERAL;1;Felipe Maroneze Garcia
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;CIRURGIA GERAL;2;Pedro Caetano Edler Zandoná
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;CIRURGIA GERAL;3;Carolina De Vargas Kives
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;CIRURGIA GERAL;4;Rafael Gadens
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;CIRURGIA GERAL;5.
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;CLÍNICA MÉDICA;1;Karoline Kuhnen Fonseca
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;CLÍNICA MÉDICA;2;Janine Daiana Sturmer
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;CLÍNICA MÉDICA;3;Lays Anselmo Moreira
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;CLÍNICA MÉDICA;4;Amanda Pereira Sequinel
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;CLÍNICA MÉDICA;5;Ariel Córdova Rosa
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;CLÍNICA MÉDICA;6.
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;CLÍNICA MÉDICA;7.
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;CLÍNICA MÉDICA;8;Fernanda Matos Leal
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;CLÍNICA MÉDICA;9;Lucas Carlini Ogliari
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;CLÍNICA MÉDICA;10.
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;HEMATOLOGIA E HEMOTERAPIA;1;Gustavo Roberto Simm Dreher
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;HEMATOLOGIA E HEMOTERAPIA;2.
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;HEMATOLOGIA E HEMOTERAPIA;3;Fernanda Chede Leifer Nunes
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;HEMATOLOGIA E HEMOTERAPIA;4;Cintia Vieira Niero
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;MEDICINA INTENSIVA;1;Tarsila Rejane Maia Nascimento
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;NEUROCIRURGIA;1;Guilherme Henrique Ferreira Da Costa
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;ORTOPEDIA E TRAUMATOLOGIA;1;Rafael De Luca De Lucena
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;ORTOPEDIA E TRAUMATOLOGIA;2.
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL GOVERNADOR CELSO RAMOS;ORTOPEDIA E TRAUMATOLOGIA (R4 COLUNA);1;Jailson Duartea Amboni
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;CEPON;ANESTESIOLOGIA;1;Katherine Coelho Gonçalves
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;CEPON;ANESTESIOLOGIA;2;Andreas Horner
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;CEPON;ANESTESIOLOGIA;3;Wanderson Willian Dos Santos
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;CEPON;CANCEROLOGIA CLÍNICA;1;Matheus De Aquino Moreira Guimarães
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;CEPON;CANCEROLOGIA CLÍNICA;2;Rafaela Kirchner Piccoli
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;CEPON;CIRURGIA DE CABEÇA E PESCOÇO;1;Luciana Alves Pimmel
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;CEPON;CIRURGIA DE CABEÇA E PESCOÇO;2;Rafael Cardoso Pires
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;CEPON;RADIOTERAPIA;1;Duana Pittol
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL FLORIANÓPOLIS;ANESTESIOLOGIA;1;Katherine Coelho Gonçalves
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL FLORIANÓPOLIS;ANESTESIOLOGIA;2;Andreas Horner
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL FLORIANÓPOLIS;ANESTESIOLOGIA;3;André Dajori Ronchi
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;CANCEROLOGIA PEDIÁTRICA;1;Thiago Luchtemberg De Bem
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;CANCEROLOGIA PEDIÁTRICA;2;Kaliandra De Almeida
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;CIRURGIA PEDIÁTRICA;1;Melina Capraro Alcântara
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;CIRURGIA PEDIÁTRICA;2;Elson Alexandro Cordeiro Folha Filho
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;ENDOCRINOLOGIA PEDIÁTRICA;1;Bruna Troian Camassola
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;NEONATOLOGIA;1;Keila Maria Lima Miguel Lorenzi
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;NEONATOLOGIA;2;Caroline Feltrin De Oliveira
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;NEONATOLOGIA;3;Marisa Gouveia Dos Santos
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;NEONATOLOGIA;4;Gabriela De Carvalho Nunes
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;PEDIATRIA;1;Ariel Córdova Rosa
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;PEDIATRIA;2.
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;PEDIATRIA;3.
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;PEDIATRIA;4;Camila Dal Forno Martins
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;PEDIATRIA;5;Roberta Barela Pimentel
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;PEDIATRIA;6;Livia Helena Freitas Da Silva
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;PEDIATRIA;7.
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;PEDIATRIA;8.
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;PEDIATRIA;9;Aline De Souza Rusch
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;PEDIATRIA;10;Camila Cristina Silva
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;PEDIATRIA;11;Danieli Francine Pastre
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL INFANTIL JOANA DE GUSMÃO;PEDIATRIA;12;Karyne Vieira Assis Silva
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CARDIOLOGIA;1;Morgahna Nathalie Wamser
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CARDIOLOGIA;2;Guilherme Amaral Velho
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CARDIOLOGIA;3;Grace Huscher
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CARDIOLOGIA;4;Fernanda Tavares
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CIRURGIA GERAL;1.
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CIRURGIA GERAL;2;Eliel Machado Rovaris
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CIRURGIA GERAL;3;Antonio Andrigo Ferreira De Carvalho
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CIRURGIA GERAL;4;Tairine Lippi Gauterio
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CIRURGIA GERAL;5;Deise Dessanti
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CLÍNICA MÉDICA;1;Aline Grosskopf Monich
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CLÍNICA MÉDICA;2.
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CLÍNICA MÉDICA;3;Fernanda Matos Leal
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CLÍNICA MÉDICA;4;Xenia Vanessa Delgado Guevara
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CLÍNICA MÉDICA;5;Fabricio Schultz Medeiros
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CLÍNICA MÉDICA;6;Guilherme Thomé Garcia
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CLÍNICA MÉDICA;7;Sérgio Octavio Kormann
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CLÍNICA MÉDICA;8.
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CLÍNICA MÉDICA;9;Aimee Bianchesi Sauer
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CLÍNICA MÉDICA;10;Aguiomar Pires Gomes Filho
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CLÍNICA MÉDICA;11;Karinne Akemi Sakuma
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CLÍNICA MÉDICA;12;Vinícius Augusto Troian Schoepping
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CLÍNICA MÉDICA;13.
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CLÍNICA MÉDICA;14;Vinícius Oro Popp
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CLÍNICA MÉDICA;15;Francisco Moraes Mezadri
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;CLÍNICA MÉDICA;16;Pamela Zanlorenzi Dalmolin
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;GASTROENTEROLOGIA;1;Priscila Cavedon Fontana
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;GASTROENTEROLOGIA;2;Gustavo Roberto Simm Dreher
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;MEDICINA INTENSIVA;1.
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;MEDICINA INTENSIVA;2;Vinícius Furtado
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;MEDICINA INTENSIVA;3;Veviani Fernandes
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;MEDICINA INTENSIVA;4;Rodrigo Dos Santos Constantino Martins
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;NEFROLOGIA;1;Carla De Oliveira Alves
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL HANS DIETER SCHMIDT;NEFROLOGIA;2;Adriana Reis Bittencourt Silva
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;ANESTESIOLOGIA;1;Katherine Coelho Gonçalves
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;ANESTESIOLOGIA;2;Andreas Horner
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;ANESTESIOLOGIA;3;Lucas Pires Klassmann
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;ANESTESIOLOGIA;4;Olavo Haas De Souza Gastal
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;ANESTESIOLOGIA;5;Vinícius Prieto Herman Reinehr
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;ANESTESIOLOGIA;6;Lucas Venturini Zottele
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;OFTALMOLOGIA;1;Matheus Dallagasperina Pedro
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;OFTALMOLOGIA;2;Gabriela Rosa Lopes
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;OFTALMOLOGIA;3;Edenir Goulart De Oliveira
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;OFTALMOLOGIA;4;Andrei Gabriel De Melo
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;OFTALMOLOGIA;5;Fernando Fleck
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;CIRURGIA DO APARELHO DIGESTIVO;1;Henrique Rasia Bosi
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;CIRURGIA DO APARELHO DIGESTIVO;2;Luiz Antônio Cascaes Alves
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;CIRURGIA GERAL;1;Carolina De Vargas Kives
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;CIRURGIA GERAL;2;Rafael Gadens
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;CIRURGIA GERAL;3.
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;CIRURGIA GERAL;4;Eliel Machado Rovaris
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;CIRURGIA GERAL;5;Henrique Eduardo De Oliveira
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;CIRURGIA GERAL;6;Edgar Santin
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;CIRURGIA GERAL;7;Karina Meneguzzi
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;GINECOLOGIA E OBSTETRÍCIA;1;Marcela Furlanetto Fernandes
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;GINECOLOGIA E OBSTETRÍCIA;2;Maria Elizabeth Andrade Galeno Carvalho
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;GINECOLOGIA E OBSTETRÍCIA;3;Laura Britz Soares
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;GINECOLOGIA E OBSTETRÍCIA;4;Bruna Durigon Fiorio
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;GINECOLOGIA E OBSTETRÍCIA;5.
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES;ORTOPEDIA E TRAUMATOLOGIA (R4 PEDIÁTRICA);1;Vander Rosa Bizarro
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL TEREZA RAMOS;CIRURGIA GERAL;1;Lucas Zago Scopel
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL TEREZA RAMOS;CIRURGIA GERAL;2;Erick Felipe Okuma
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL TEREZA RAMOS;CIRURGIA GERAL;3;Henrique Waltrick De Albuquerque
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL TEREZA RAMOS;CIRURGIA GERAL;4;Priscila Soranzo Zappelini
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL TEREZA RAMOS;CLÍNICA MÉDICA;1;Helena Ramos Lacerda De Melo
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL TEREZA RAMOS;CLÍNICA MÉDICA;2;Luísa Martins Avena
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL TEREZA RAMOS;CLÍNICA MÉDICA;3.
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;HOSPITAL TEREZA RAMOS;CLÍNICA MÉDICA;4;Paula De Oliveira Pinto
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;INSTITUTO DE CARDIOLOGIA;ANGIORRADIOLOGIA E CIRURGIA ENDOVASCULAR;1;Rodrigo Viana
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;INSTITUTO DE CARDIOLOGIA;ANGIORRADIOLOGIA E CIRURGIA ENDOVASCULAR;2;Robério Rodrigo Hora Melo
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;INSTITUTO DE CARDIOLOGIA;CARDIOLOGIA;1;Ada Regina Mattar Valente
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;INSTITUTO DE CARDIOLOGIA;CARDIOLOGIA;2;Guilherme Poyane Peixoto
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;INSTITUTO DE CARDIOLOGIA;CARDIOLOGIA;3;Bruna Miers May
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;INSTITUTO DE CARDIOLOGIA;CARDIOLOGIA;4;Maurício Pérez Zeni
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;INSTITUTO DE CARDIOLOGIA;CARDIOLOGIA;5;Morgahna Nathalie Wamser
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;INSTITUTO DE CARDIOLOGIA;CARDIOLOGIA;6;Guilherme Dagostin De Carvalho
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;INSTITUTO DE CARDIOLOGIA;CARDIOLOGIA;7;Aline Rosa Machado
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;INSTITUTO DE CARDIOLOGIA;CARDIOLOGIA;8;Guilherme Amaral Velho
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;INSTITUTO DE CARDIOLOGIA;CIRURGIA CARDIOVASCULAR;1;Rafael Corddeiro Puhl
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;INSTITUTO DE CARDIOLOGIA;HEMODINÂMICA E CARDIOLOGIA INTERVENCIONISTA;1;Ozir Miguel Londero Filho
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;INSTITUTO DE PSIQUIATRIA;PSIQUIATRIA;1;Lucas Nascimento Tavares
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;INSTITUTO DE PSIQUIATRIA;PSIQUIATRIA;2;Matheus Nilton Bernardi Do Prado
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;INSTITUTO DE PSIQUIATRIA;PSIQUIATRIA;3;Lucas Pitágoras Tomaz Guimarães
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;INSTITUTO DE PSIQUIATRIA;PSIQUIATRIA;4;Mariana Parcianello Roehrs
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;INSTITUTO DE PSIQUIATRIA;PSIQUIATRIA;5;Raísa Pio Silveira
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;MATERNIDADE CARMELA DUTRA;GINECOLOGIA E OBSTETRÍCIA;1;Marcela Furlanetto Fernandes
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;MATERNIDADE CARMELA DUTRA;GINECOLOGIA E OBSTETRÍCIA;2;Mariana Parcianello Roehrs
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;MATERNIDADE CARMELA DUTRA;GINECOLOGIA E OBSTETRÍCIA;3;Bianca Bez Batti De Pellegrin
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;MATERNIDADE CARMELA DUTRA;GINECOLOGIA E OBSTETRÍCIA;4;Maria Elizabeth Andrade Galeno Carvalho
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;MATERNIDADE CARMELA DUTRA;GINECOLOGIA E OBSTETRÍCIA;5;Carolina Saling
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;MATERNIDADE CARMELA DUTRA;GINECOLOGIA E OBSTETRÍCIA;6;Eimi Nascimento Pacheco
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;MATERNIDADE CARMELA DUTRA;GINECOLOGIA E OBSTETRÍCIA;7;Priscila Mara De Amorim
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;MATERNIDADE CARMELA DUTRA;GINECOLOGIA E OBSTETRÍCIA;8;Laura Britz Soares
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;MATERNIDADE DARCY VARGAS;GINECOLOGIA E OBSTETRÍCIA;1;Marcela Furlanetto Fernandes
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;MATERNIDADE DARCY VARGAS;GINECOLOGIA E OBSTETRÍCIA;2;Bianca Bez Batti De Pellegrin
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;MATERNIDADE DARCY VARGAS;GINECOLOGIA E OBSTETRÍCIA;3;Maria Elizabeth Andrade Galeno Carvalho
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;MATERNIDADE DARCY VARGAS;GINECOLOGIA E OBSTETRÍCIA;4;Carolina Saling
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;MATERNIDADE DARCY VARGAS;GINECOLOGIA E OBSTETRÍCIA;5.
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;MATERNIDADE DARCY VARGAS;GINECOLOGIA E OBSTETRÍCIA;6;Priscila Mara De Amorim
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;MATERNIDADE DARCY VARGAS;MEDICINA FETAL;1;Sarah Louise De Araujo Cabral
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;MATERNIDADE DARCY VARGAS;NEONATOLOGIA;1;Caroline Feltrin De Oliveira
+SANTA CATARINA;SES SC - Secretaria de Estado da Saúde de Santa Catarina;MATERNIDADE DARCY VARGAS;NEONATOLOGIA;2.
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;ANESTESIOLOGIA;1;Eloá Muehlbauer
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;ANESTESIOLOGIA;2.
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;ANESTESIOLOGIA;3;Daniela Hoffmann Schuck
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;ANESTESIOLOGIA;4;João Pedro Mello Godoy
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;ANESTESIOLOGIA;5;Roberta Barela Pimentel
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;ANESTESIOLOGIA;6;Karinne Akemi Sakuma
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;ANESTESIOLOGIA;7;Rodrigo Borges Brandão
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;ANESTESIOLOGIA;8;Maurício Vittorello
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;ANESTESIOLOGIA;9;Matheus Ugalde De Araújo Góes
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;ANESTESIOLOGIA;10;Cora Salles Maruri Correa
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;ANESTESIOLOGIA;11;Bruno Rossi Arzeno
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;ANESTESIOLOGIA;12;Luciana Dal Pra De Franceschi
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CLÍNICA MÉDICA;1;Vinícius Augusto Troian Schoepping
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CLÍNICA MÉDICA;2;Lucas Eduardo Gatelli
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CLÍNICA MÉDICA;3;Samuel Cesconetto
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CLÍNICA MÉDICA;4;Marilia Menegazzo
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CLÍNICA MÉDICA;5;Pietro Henrique Massuda
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CLÍNICA MÉDICA;6;Renata Della Giustina
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CLÍNICA MÉDICA;7;Daniel Duarte Nora
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CLÍNICA MÉDICA;8.
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CLÍNICA MÉDICA;9;Luiza Mozzaquatro Schneider
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CLÍNICA MÉDICA;10;Juliana Miyuki Yanagi Feijo
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CLÍNICA MÉDICA;11.
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CLÍNICA MÉDICA;12;Mariana Da Silva Jardim
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CLÍNICA MÉDICA;13;Aline Peluso Fezer
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;MEDICINA INTENSIVA;1;Samia Cherem
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;MEDICINA INTENSIVA;2;Veviani Fernandes
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;MEDICINA INTENSIVA;3;Cínthia Caroline Geremia
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;PATOLOGIA;1;Flora Ávila Adorno
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;PATOLOGIA;2;Lucas Jobim Da Silva
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;PATOLOGIA;3;Jamille Costa De Oliveira
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;PATOLOGIA;4;Daniele Cristina Federice Lousada
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;ORTOPEDIA E TRAUMATOLOGIA;1;Tiago Longen
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;ORTOPEDIA E TRAUMATOLOGIA;2.
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;ORTOPEDIA E TRAUMATOLOGIA;3.
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;ORTOPEDIA E TRAUMATOLOGIA;4;Débora Ramos Marcinichen
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;ORTOPEDIA E TRAUMATOLOGIA;5;Tiago Amaral Slaviero
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CIRURGIA DA MÃO;1;Matheus Da Silva Pereira
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CIRURGIA GERAL;1;Henrique Waltrick De Albuquerque
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CIRURGIA GERAL;2;Leandro Vicente Zoehler
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CIRURGIA GERAL;3;Paula De Oliveira Marchiori
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CIRURGIA GERAL;4;Jorge Francisco De Assis Paulino
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CIRURGIA GERAL;5;Francisco Henrique Cavalli Marconato
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CIRURGIA GERAL;6.
+SANTA CATARINA;HSJJ - Hospital Municipal de São José;HOSPITAL MUNICIPAL DE SÃO JOSÉ;CIRURGIA GERAL;7.
+SANTA CATARINA;HSC - Hospital Santa Catarina;HOSPITAL SANTA CATARINA;CLÍNICA MÉDICA;1;Cassio Cuchi
+SANTA CATARINA;HSC - Hospital Santa Catarina;HOSPITAL SANTA CATARINA;CLÍNICA MÉDICA;2;Juliano Folletto
+SANTA CATARINA;HSC - Hospital Santa Catarina;HOSPITAL SANTA CATARINA;PSIQUIATRIA;1;Lucas Nascimento Tavares
+SANTA CATARINA;HSC - Hospital Santa Catarina;HOSPITAL SANTA CATARINA;RADIOLOGIA;1;Elenisa Predebon Zanella
+SANTA CATARINA;HSC - Hospital Santa Catarina;HOSPITAL SANTA CATARINA;RADIOLOGIA;2;André Massashi Sunada
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;ANESTESIOLOGIA;1;Eloá Muehlbauer
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;ANESTESIOLOGIA;2;Joao Eugenio Henrique Heidemann E Silva
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;ANESTESIOLOGIA;3;Daniela Hoffmann Schuck
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;ANESTESIOLOGIA;4;Vinícius Vernier Nunes
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;ORTOPEDIA;1;Afonso Poyer Bongiolo
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;ORTOPEDIA;2;Raquel Monteiro Da Silva Lanna
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;MEDICINA INTENSIVA;1;Veviani Fernandes
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;MEDICINA INTENSIVA;2;Maria Luiza Patel Crepaldi
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;CLÍNICA MÉDICA;1;Samuel Cesconetto
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;CLÍNICA MÉDICA;2;Renata Della Giustina
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;CLÍNICA MÉDICA;3;João Pedro De Oliveira Vianna
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;CLÍNICA MÉDICA;4;Gustavo Perondi
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;CLÍNICA MÉDICA;5;Gustavo Graciosa Saporiti
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;CLÍNICA MÉDICA;6;Thais Areias De Oliveira
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;CLÍNICA MÉDICA;7.
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;CIRURGIA GERAL;1;Keli Martinazzo
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;CIRURGIA GERAL;2;Camila Horr Zaki
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;CIRURGIA GERAL;3;Amanda De Vasconcelos Mapelli
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;CIRURGIA GERAL;4.
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;CIRURGIA GERAL;5;Maikon Lucian Madeira Quarti
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;CIRURGIA GERAL (2º CONCURSO);1;Rodolpho Mazon Joao
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;CIRURGIA GERAL (2º CONCURSO);2;Joaquim Francisco Mesquita Filho
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;CIRURGIA GERAL (2º CONCURSO);3.
+SANTA CATARINA;HSJC SC - Hospital São José de Criciúma;HOSPITAL SÃO JOSÉ DE CRICIÚMA;CIRURGIA CARDIOVASCULAR;1;Matheus Cipriano Vidal Helvany
+SANTA CATARINA;HRAV - Hospital Regional Alto Vale;HOSPITAL REGIONAL ALTO VALE;ANESTESIOLOGIA;1;Renata Sberse Bernardi
+SANTA CATARINA;HRAV - Hospital Regional Alto Vale;HOSPITAL REGIONAL ALTO VALE;ANESTESIOLOGIA;2;Eduardo Silva Freire
+SANTA CATARINA;HRAV - Hospital Regional Alto Vale;HOSPITAL REGIONAL ALTO VALE;ANESTESIOLOGIA;3;Alexandre Jose Ceolin
+SANTA CATARINA;HRAV - Hospital Regional Alto Vale;HOSPITAL REGIONAL ALTO VALE;GINECOLOGIA E OBSTETRÍCIA;1;Cristina Heuko Martins
+SANTA CATARINA;HRAV - Hospital Regional Alto Vale;HOSPITAL REGIONAL ALTO VALE;GINECOLOGIA E OBSTETRÍCIA;2;Lais Cristine Nienkotter
+SANTA CATARINA;HNSP SC - Hospital Nossa Senhora dos Prazeres;HOSPITAL NOSSA SENHORA DOS PRAZERES;ORTOPEDIA E TRAUMATOLOGIA;1;Luis Felipe Canova Ogliari
+SANTA CATARINA;HNSP SC - Hospital Nossa Senhora dos Prazeres;HOSPITAL NOSSA SENHORA DOS PRAZERES;ORTOPEDIA E TRAUMATOLOGIA;2;Rafael Oselame Guanabara
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;CLÍNICA MÉDICA;1;Juliano Folletto
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;CLÍNICA MÉDICA;2;Marilia Menegazzo
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;CLÍNICA MÉDICA;3;Juliana Lehmkuhl
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;CLÍNICA MÉDICA;4;Gustavo Perondi
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;ANESTESIOLOGIA;1;Eloá Muehlbauer
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;ANESTESIOLOGIA;2;Matheus Nilton Bernardi Do Prado
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;ANESTESIOLOGIA;3;Matheus Ugalde De Araujo Goes
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;ANESTESIOLOGIA;4;Carolina Dranka
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;ANESTESIOLOGIA;5;Roberta Barela Pimentel
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;CIRURGIA GERAL;1;Tairine Lippi Gauterio
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;CIRURGIA GERAL;2;Rafael Gadens
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;CIRURGIA GERAL;3;Jorge Francisco De Assis Paulino
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;CIRURGIA GERAL;4;Ariane Sponchiado Assoni
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;CIRURGIA GERAL;5;Rosane Zanatta
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;CIRURGIA GERAL;6;Tiago Ormelez Ruani
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;GINECOLOGIA E OBSTETRÍCIA;1;Barbara Schmitz De Menezes
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;GINECOLOGIA E OBSTETRÍCIA;2;Isadora Galabarof Toth
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;GINECOLOGIA E OBSTETRÍCIA;3;Taísa Mentges
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;GINECOLOGIA E OBSTETRÍCIA;4;Anicely Camila Tondate Preto
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;ORTOPEDIA E TRAUMATOLOGIA;1;Pedro Henrique Correa
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;ORTOPEDIA E TRAUMATOLOGIA;2.
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;ORTOPEDIA E TRAUMATOLOGIA;3;Luis Felipe Canova Ogliari
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;ORTOPEDIA E TRAUMATOLOGIA;4;Guilherme Garcia Martins
+SANTA CATARINA;HMMKB - Hospital Maternidade Marieta Konder Bornhausen;HOSPITAL MATERNIDADE MARIETA KONDER BORNHAUSEN;ORTOPEDIA E TRAUMATOLOGIA;5;Yolanda Guarezi Schmitt
+SANTA CATARINA;HOB SC - HOSPITAL DE OLHOS DE BLUMENAU;HOSPITAL DE OLHOS DE BLUMENAU;OFTALMOLOGIA;1;Vinícius Rauber Joner
+SANTA CATARINA;HJAF - Hospital Materno Infantil Dr. Jeser Amarante Faria;HOSPITAL MATERNO INFANTIL DR. JESER AMARANTE FARIA;PEDIATRIA;1;Jefferson Sicka
+SANTA CATARINA;HJAF - Hospital Materno Infantil Dr. Jeser Amarante Faria;HOSPITAL MATERNO INFANTIL DR. JESER AMARANTE FARIA;PEDIATRIA;2.
+SANTA CATARINA;HJAF - Hospital Materno Infantil Dr. Jeser Amarante Faria;HOSPITAL MATERNO INFANTIL DR. JESER AMARANTE FARIA;PEDIATRIA;3;Aline De Souza Rusch
+SANTA CATARINA;HJAF - Hospital Materno Infantil Dr. Jeser Amarante Faria;HOSPITAL MATERNO INFANTIL DR. JESER AMARANTE FARIA;PEDIATRIA;4;Natalia Nogueira Vieira
+SANTA CATARINA;HJAF - Hospital Materno Infantil Dr. Jeser Amarante Faria;HOSPITAL MATERNO INFANTIL DR. JESER AMARANTE FARIA;PEDIATRIA;5;Joao Caetano Bishop Brito
+SANTA CATARINA;HJAF - Hospital Materno Infantil Dr. Jeser Amarante Faria;HOSPITAL MATERNO INFANTIL DR. JESER AMARANTE FARIA;PEDIATRIA;6;Flavia Helena Bergmann
+SANTA CATARINA;HJAF - Hospital Materno Infantil Dr. Jeser Amarante Faria;HOSPITAL MATERNO INFANTIL DR. JESER AMARANTE FARIA;PEDIATRIA;7;Jessica Tozatti
+SANTA CATARINA;HJAF - Hospital Materno Infantil Dr. Jeser Amarante Faria;HOSPITAL MATERNO INFANTIL DR. JESER AMARANTE FARIA;PEDIATRIA;8;Gisele Perondi Leichtweis
+SANTA CATARINA;HJAF - Hospital Materno Infantil Dr. Jeser Amarante Faria;HOSPITAL MATERNO INFANTIL DR. JESER AMARANTE FARIA;PEDIATRIA;9;Camila Noronha Hasse
+SANTA CATARINA;HJAF - Hospital Materno Infantil Dr. Jeser Amarante Faria;HOSPITAL MATERNO INFANTIL DR. JESER AMARANTE FARIA;MEDICINA INTENSIVA PEDIÁTRICA;1;Laura De Lima Pimentel
+SANTA CATARINA;HJAF - Hospital Materno Infantil Dr. Jeser Amarante Faria;HOSPITAL MATERNO INFANTIL DR. JESER AMARANTE FARIA;MEDICINA INTENSIVA PEDIÁTRICA;2;Leticia Appel Kormann
+SANTA CATARINA;HMJ - Hospital e Maternidade Jaraguá;HOSPITAL E MATERNIDADE JARAGUÁ;PEDIATRIA;1;Joao Caetano Bishop Brito
+SANTA CATARINA;HMJ - Hospital e Maternidade Jaraguá;HOSPITAL E MATERNIDADE JARAGUÁ;PEDIATRIA;2;Jéssica Tozatti
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;ANESTESIOLOGIA;1;Olavo Haas De Souza Gastal
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;ANESTESIOLOGIA;2;Leonardo José Scarton Forgiarini
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;DERMATOLOGIA;1;Fernanda Joner Mattias
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;DERMATOLOGIA;2;Renata Rodrigues Da Silva
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;GINECOLOGIA E OBSTETRÍCIA;1;Eimi Nascimento Pacheco
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;GINECOLOGIA E OBSTETRÍCIA;2;Margel Pivetta Cantarelli
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;CIRURGIA DO APARELHO DIGESTIVO;1;Henrique Rasia Bosi
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;CIRURGIA DO APARELHO DIGESTIVO;2;Rodrigo Padilha Tomba
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;CIRURGIA DO APARELHO DIGESTIVO;3;Rafael Corddeiro Puhl
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;CIRURGIA PLÁSTICA;1;Carlo Mognon Mattiello
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;CIRURGIA PLÁSTICA;2;Gabriela Valente Nicolau
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Lucas Freitas De Oliveira
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Guilherme Thomé Garcia
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;3;João Mario Clementin De Andrade
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;ENDOCRINOLOGIA;1;Priscila Nobre Dantas
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;ENDOCRINOLOGIA;2;Camila Sartor Spivakoski
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;GASTROENTEROLOGIA;1;Bianca Boff Sandi
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;GASTROENTEROLOGIA;2;Luiz Henrique Santiago
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;PEDIATRIA;1;Danieli Francine Pastre
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;PEDIATRIA;2;Mariana Gaspar Mendonça
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;PEDIATRIA;3.
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;PEDIATRIA;4;Camila Cristina Silva
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;CIRURGIA GERAL;1;Gustavo Moreira Clivatti
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;CIRURGIA GERAL;2;Ivam Vargas Martins Da Silva
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;CIRURGIA GERAL;3;Kamilla Schmitz Nunes
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;CIRURGIA GERAL;4.
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;CIRURGIA VASCULAR;1;Oscar Rockenbach Pereira
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;MEDICINA PALIATIVA;1;Ana Luiza Pagani Fonseca
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;MEDICINA PALIATIVA;2;Walkíria Rodrigues De Freitas
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;PATOLOGIA;1;Ana Carolina Moraes Brandao Rodrigues
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;PATOLOGIA;2;Ariane Barreto Haagsma
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;ACUPUNTURA;1;Priscilla Nunes Abreu Da Silva
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;REUMATOLOGIA;1;Amanda Terra De Sa
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;MEDICINA INTENSIVA;1;Vinícius Furtado
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;MEDICINA INTENSIVA;2.
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;NEUROLOGIA;1;Cauê George Agardi
+SANTA CATARINA;UFSC - Universidade Federal de Santa Catarina;UNIVERSIDADE FEDERAL DE SANTA CATARINA;NEUROLOGIA;2.
+SANTA CATARINA;UNIVALI - HOSPITAL UNIVERSITÁRIO UNIVALI;HOSPITAL UNIVERSITÁRIO UNIVALI;PEDIATRIA;1;Jéssica Tozatti
+SANTA CATARINA;UNIVALI - HOSPITAL UNIVERSITÁRIO UNIVALI;HOSPITAL UNIVERSITÁRIO UNIVALI;PEDIATRIA;2;Flavia Branco De Freitas Dias
+SANTA CATARINA;UNIVALI - HOSPITAL UNIVERSITÁRIO UNIVALI;HOSPITAL UNIVERSITÁRIO UNIVALI;MEDICINA DE FAMÍLIA E COMUNIDADE;1.
+SANTA CATARINA;UNIVALI - HOSPITAL UNIVERSITÁRIO UNIVALI;HOSPITAL UNIVERSITÁRIO UNIVALI;MEDICINA DE FAMÍLIA E COMUNIDADE;2;Bruna Ribas Ronchi
+SANTA CATARINA;UNIVALI - HOSPITAL UNIVERSITÁRIO UNIVALI;HOSPITAL UNIVERSITÁRIO UNIVALI;MEDICINA DE FAMÍLIA E COMUNIDADE;3.
+SANTA CATARINA;UNIVALI - HOSPITAL UNIVERSITÁRIO UNIVALI;HOSPITAL UNIVERSITÁRIO UNIVALI;MEDICINA DE FAMÍLIA E COMUNIDADE;4;Julio Massuo Makimori
+SANTA CATARINA;UNIVALI - HOSPITAL UNIVERSITÁRIO UNIVALI;HOSPITAL UNIVERSITÁRIO UNIVALI;MEDICINA DE FAMÍLIA E COMUNIDADE;5;Lucas Seiji Kimura De Carvalho
+SANTA CATARINA;UNIVALI - HOSPITAL UNIVERSITÁRIO UNIVALI;HOSPITAL UNIVERSITÁRIO UNIVALI;MEDICINA DE FAMÍLIA E COMUNIDADE;6;Loriane Pelegrine Rodrigues Piva
+SANTA CATARINA;UNIVALI - HOSPITAL UNIVERSITÁRIO UNIVALI;HOSPITAL UNIVERSITÁRIO UNIVALI;MEDICINA DE FAMÍLIA E COMUNIDADE;7;Polliany Ribeiro De Quadros
+SANTA CATARINA;HSI - Hospital Santa Isabel;HOSPITAL SANTA ISABEL;CLÍNICA MÉDICA;1;Fernando Covezzi Da Silva Filho
+SANTA CATARINA;HSI - Hospital Santa Isabel;HOSPITAL SANTA ISABEL;CLÍNICA MÉDICA;2;Aimee Bianchesi Sauer
+SANTA CATARINA;HSI - Hospital Santa Isabel;HOSPITAL SANTA ISABEL;CLÍNICA MÉDICA;3;Fernanda Geremias Dos Santos
+SANTA CATARINA;HSI - Hospital Santa Isabel;HOSPITAL SANTA ISABEL;CLÍNICA MÉDICA;4;Pamela Zanlorenzi Dalmolin
+SANTA CATARINA;HSI - Hospital Santa Isabel;HOSPITAL SANTA ISABEL;CLÍNICA MÉDICA;5;Tiago Cancian
+SANTA CATARINA;HSI - Hospital Santa Isabel;HOSPITAL SANTA ISABEL;CLÍNICA MÉDICA;6;Juliana Lehmkuhl
+SANTA CATARINA;HSI - Hospital Santa Isabel;HOSPITAL SANTA ISABEL;RADIOLOGIA;1;Marcos De Souto Goulart
+SANTA CATARINA;HSI - Hospital Santa Isabel;HOSPITAL SANTA ISABEL;RADIOLOGIA;2.
+SANTA CATARINA;HSI - Hospital Santa Isabel;HOSPITAL SANTA ISABEL;MEDICINA INTENSIVA;1;Sâmia Cherem
+SANTA CATARINA;HSI - Hospital Santa Isabel;HOSPITAL SANTA ISABEL;NEUROCIRURGIA;1;Henrique Ryuji Takahashi
+SANTA CATARINA;HSI - Hospital Santa Isabel;HOSPITAL SANTA ISABEL;ANGIORRADIOLOGIA E CIRURGIA ENDOVASCULAR;1;Caio Augusto Knihs
+SANTA CATARINA;UNOESC - Universidade do Oeste de Santa Catarina;UNIVERSIDADE DO OESTE DE SANTA CATARINA;CIRURGIA GERAL;1;Gabriel Cobra Teske
+SANTA CATARINA;UNOESC - Universidade do Oeste de Santa Catarina;UNIVERSIDADE DO OESTE DE SANTA CATARINA;CIRURGIA GERAL;2;Guilherme Cobra Teske
+SANTA CATARINA;UNOESC - Universidade do Oeste de Santa Catarina;UNIVERSIDADE DO OESTE DE SANTA CATARINA;CIRURGIA GERAL;3;Daniela Stefanon
+SANTA CATARINA;UNOESC - Universidade do Oeste de Santa Catarina;UNIVERSIDADE DO OESTE DE SANTA CATARINA;CLÍNICA MÉDICA;1;Paula De Oliveira Pinto
+SANTA CATARINA;UNOESC - Universidade do Oeste de Santa Catarina;UNIVERSIDADE DO OESTE DE SANTA CATARINA;CLÍNICA MÉDICA;2.
+SANTA CATARINA;UNOESC - Universidade do Oeste de Santa Catarina;UNIVERSIDADE DO OESTE DE SANTA CATARINA;CLÍNICA MÉDICA;3;Dario Lino Gennari
+SANTA CATARINA;UNOESC - Universidade do Oeste de Santa Catarina;UNIVERSIDADE DO OESTE DE SANTA CATARINA;CLÍNICA MÉDICA;4;Pablo Augusto Gehlen
+SANTA CATARINA;UNOESC - Universidade do Oeste de Santa Catarina;UNIVERSIDADE DO OESTE DE SANTA CATARINA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Ronny Carlos Onetta
+SANTA CATARINA;UNOESC - Universidade do Oeste de Santa Catarina;UNIVERSIDADE DO OESTE DE SANTA CATARINA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Duana Pittol
+SANTA CATARINA;UNIMED SC - Hospital Unimed Joinville;HOSPITAL UNIMED JOINVILLE;MEDICINA INTENSIVA;1;Samia Cherem
+SANTA CATARINA;UNIMED SC - Hospital Unimed Joinville;HOSPITAL UNIMED JOINVILLE;MEDICINA INTENSIVA;2;Veviani Fernandes

@@ -1,0 +1,990 @@
+Estado;Instituição;Hospital;Curso;Colocação;Nome_Aprovado
+RIO GRANDE DO SUL;UNIFRA - Centro Universitário Franciscano;CENTRO UNIVERSITÁRIO FRANCISCANO;PSIQUIATRIA;1;Lucas Nascimento Tavares
+RIO GRANDE DO SUL;UNIFRA - Centro Universitário Franciscano;CENTRO UNIVERSITÁRIO FRANCISCANO;PSIQUIATRIA;2;Carla Liz Viena
+RIO GRANDE DO SUL;UNIFRA - Centro Universitário Franciscano;CENTRO UNIVERSITÁRIO FRANCISCANO;CLÍNICA MÉDICA;1;Pedro Henrique Canova Mosele
+RIO GRANDE DO SUL;UNIFRA - Centro Universitário Franciscano;CENTRO UNIVERSITÁRIO FRANCISCANO;CLÍNICA MÉDICA;2.
+RIO GRANDE DO SUL;UNIFRA - Centro Universitário Franciscano;CENTRO UNIVERSITÁRIO FRANCISCANO;CLÍNICA MÉDICA;3;Bruna Santos Da Cunha
+RIO GRANDE DO SUL;UNIFRA - Centro Universitário Franciscano;CENTRO UNIVERSITÁRIO FRANCISCANO;CLÍNICA MÉDICA;4;Fábio Barlem Hohmann
+RIO GRANDE DO SUL;UNIFRA - Centro Universitário Franciscano;CENTRO UNIVERSITÁRIO FRANCISCANO;CLÍNICA MÉDICA;5;Renan Chaves Custódio
+RIO GRANDE DO SUL;UNIFRA - Centro Universitário Franciscano;CENTRO UNIVERSITÁRIO FRANCISCANO;MEDICINA DE FAMÍLIA E COMUNIDADE;1.
+RIO GRANDE DO SUL;UNIFRA - Centro Universitário Franciscano;CENTRO UNIVERSITÁRIO FRANCISCANO;MEDICINA DE FAMÍLIA E COMUNIDADE;2;Rodrigo Campos De Castro
+RIO GRANDE DO SUL;UNIFRA - Centro Universitário Franciscano;CENTRO UNIVERSITÁRIO FRANCISCANO;MEDICINA DE FAMÍLIA E COMUNIDADE;3.
+RIO GRANDE DO SUL;UNIFRA - Centro Universitário Franciscano;CENTRO UNIVERSITÁRIO FRANCISCANO;MEDICINA DE FAMÍLIA E COMUNIDADE;4;Marco Antônio Nass
+RIO GRANDE DO SUL;UNIFRA - Centro Universitário Franciscano;CENTRO UNIVERSITÁRIO FRANCISCANO;MEDICINA DE FAMÍLIA E COMUNIDADE;5;Isaias Freire Alves De Azevedo
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;CIRURGIA GERAL;1;Joao Guilherme Krämer Iorra
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;CIRURGIA GERAL;2;Karina Meneguzzi
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;CIRURGIA GERAL;3;Carlos Eduardo Bastian Da Cunha
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;CIRURGIA GERAL;4;Keli Martinazzo
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;CIRURGIA GERAL;5;João Augusto Argenton Zortéa
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;CIRURGIA GERAL;6;João Paulo Carlotto Bassotto
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;CLÍNICA MÉDICA;1;Priscila Silva
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;CLÍNICA MÉDICA;2;Luísa Martins Avena
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;CLÍNICA MÉDICA;3.
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;CLÍNICA MÉDICA;4;Elisa Azevedo De Souza
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;CLÍNICA MÉDICA;5;Fábio Barlem Hohmann
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;CLÍNICA MÉDICA;6;Beatriz Garcia De Morais
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;GINECOLOGIA E OBSTETRÍCIA;1;Thais Sturmer Andrade
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;GINECOLOGIA E OBSTETRÍCIA;2.
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;GINECOLOGIA E OBSTETRÍCIA;3;Fernanda Giacomello
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;GINECOLOGIA E OBSTETRÍCIA;4;Gina Rosario Peña Cuadros
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;GINECOLOGIA E OBSTETRÍCIA;5;Nathalia Helena Leuck
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;NEONATOLOGIA;1;Juliana Cavalheiro Oliveira
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;NEONATOLOGIA;2.
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;OTORRINOLARINGOLOGIA;1;Mariele Bressan
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;PEDIATRIA;1;Estefani Toledo Ortiz
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;PEDIATRIA;2.
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;PEDIATRIA;3;Monica Franzoi Marcon
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;PEDIATRIA;4;Bruna Torres Ruppenthal
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;PEDIATRIA;5;Monica Basso Zanotto
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;PEDIATRIA;6;Francilaine Dos Santos Pontes Neves
+RIO GRANDE DO SUL;ULBRA - Universidade Luterana do Brasil;UNIVERSIDADE LUTERANA DO BRASIL;MEDICINA INTENSIVA;1;Laís Da Silva
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CANCEROLOGIA CLÍNICA;1;Rafaela Kirchner Piccoli
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CANCEROLOGIA CLÍNICA;2;Guilherme Schunke Brondani
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CANCEROLOGIA PEDIÁTRICA;1;Kaliandra De Almeida
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CARDIOLOGIA;1.
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CARDIOLOGIA;2;Alessandro Theisen Fischer
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CARDIOLOGIA;3;Heloisa Dagustin Poli
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CARDIOLOGIA;4;Franciele Tais Bandeira Giasson
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CIRURGIA GERAL;1;Luiza Rossi Pettinelli
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CIRURGIA GERAL;2;Felipe Maroneze Garcia
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CIRURGIA GERAL;3;Pedro Caetano Edler Zandoná
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CIRURGIA GERAL;4;Carolina De Vargas Kives
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CIRURGIA VASCULAR;1;Oscar Rockenbach Pereira
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CIRURGIA VASCULAR;2;Guilherme Marx
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CIRURGIA VASCULAR;3;Caroline Losekann
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CLÍNICA MÉDICA;1;Janine Daiana Sturmer
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CLÍNICA MÉDICA;2.
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CLÍNICA MÉDICA;3.
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CLÍNICA MÉDICA;4;Fabricio Schultz Medeiros
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CLÍNICA MÉDICA;5.
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CLÍNICA MÉDICA;6;Laura Orlandini Lodi
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CLÍNICA MÉDICA;7;Ana Paula Lazaretti
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CLÍNICA MÉDICA;8;Renata Sberse Bernardi
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;CLÍNICA MÉDICA;9;Gabriel Pedro Tarso
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;DERMATOLOGIA;1;Maria Emília Vieira De Souza
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;DERMATOLOGIA;2;Camile Funghetto Fuzinatto
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;ECOCARDIOGRAFIA;1;Filipe Cirne
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;ECOCARDIOGRAFIA;2;Emanuela Todeschini Menegotto
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;GASTROENTEROLOGIA;1;Gustavo Roberto Simm Dreher
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;GASTROENTEROLOGIA;2;Natalia Mie Shibukawa
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;GASTROENTEROLOGIA;3;Henrique Bittencourt Mamcarz
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;GERIATRIA;1;Gabriela Breitenbach Dos Santos
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;GERIATRIA;2;Marcelo Borba Monteiro
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;HEMATOLOGIA E HEMOTERAPIA;1;Rui Fernando Cardoso
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;HEMODINÂMICA E CARDIOLOGIA INTERVENCIONISTA;1;Ozir Miguel Londero Filho
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;MEDICINA DA FAMÍLIA E COMUNIDADE;1;Natalia Pedó
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;MEDICINA DA FAMÍLIA E COMUNIDADE;2;Laura Guimaraes Sandoval
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;MEDICINA DA FAMÍLIA E COMUNIDADE;3.
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;MEDICINA INTENSIVA;1;Daniel Haase Lanziotti
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;MEDICINA INTENSIVA;2;Vinícius Furtado
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;MEDICINA INTENSIVA PEDIÁTRICA;1;Victor Bruno Monteiro Rodrigues
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;MEDICINA INTENSIVA PEDIÁTRICA;2.
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;NEFROLOGIA;1;Lorena Dornelas Pereira
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;NEONATOLOGIA;1;Caroline Feltrin De Oliveira
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;NEONATOLOGIA;2;Dhianny Francynny Souza Ribeiro
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;NEONATOLOGIA;3.
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;NEUROCIRURGIA;1;Luciano Pinheiro Da Silva
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;NEUROCIRURGIA;2;Olavo Haas De Souza Gastal
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;NEUROLOGIA;1;Leandro Silva Costa
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;NEUROLOGIA;2;Cássia Elisa Marin
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;OBSTETRÍCIA E GINECOLOGIA;1.
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;OBSTETRÍCIA E GINECOLOGIA;2;Jessica Aparecida Betti
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;OBSTETRÍCIA E GINECOLOGIA;3;Mariane Faccin Beust
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;OBSTETRÍCIA E GINECOLOGIA;4;Carolina Saling
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;OBSTETRÍCIA E GINECOLOGIA;5;Kézia Siny Potin
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;OFTALMOLOGIA;1;Matheus Dallagasperina Pedro
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;OFTALMOLOGIA;2;Andreas Horner
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;OFTALMOLOGIA;3;Gabriela Rosa Lopes
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;ORTOPEDIA E TRAUMATOLOGIA;1;Rafael De Luca De Lucena
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;ORTOPEDIA E TRAUMATOLOGIA;2;William Gradaschi Corrêa
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;ORTOPEDIA E TRAUMATOLOGIA;3;Marcel Neto De Souza
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;ORTOPEDIA E TRAUMATOLOGIA;4;Melina Duarte Costa
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;ORTOPEDIA E TRAUMATOLOGIA;5;Natan Wild
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;OTORRINOLARINGOLOGIA;1;Mariele Bressan
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;PEDIATRIA;1;Roberta Barela Pimentel
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;PEDIATRIA;2;Estefani Toledo Ortiz
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;PEDIATRIA;3.
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;PEDIATRIA;4;Jaqueline Maffezzolli Da Luz
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;PEDIATRIA;5;Jaqueline De Lima Paim
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;PEDIATRIA;6;Luiza Foschiera
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;PEDIATRIA;7.
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Elenisa Predebon Zanella
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;André Massashi Sunada
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL SÃO VICENTE DE PAULO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;3;Ruhana Dalla Costa
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;CLÍNICA MÉDICA;1.
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;CLÍNICA MÉDICA;2;Cristiane Pagnussat Cechetti
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;CLÍNICA MÉDICA;3;Fábio Barlem Hohmann
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;CLÍNICA MÉDICA;4;Rodrigo Moraes Reis
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;CLÍNICA MÉDICA;5.
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;CLÍNICA MÉDICA;6.
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;CLÍNICA MÉDICA;7;Celso Grimm Junior
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;CLÍNICA MÉDICA;8;Luísa Martins Avena
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;GASTROENTEROLOGIA;1;Bianca Boff Sandi
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;CIRURGIA VASCULAR;1;Marco Aurélio Vieira Borges
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;CIRURGIA VASCULAR;2;Juliana Patricia Santos De Oliviera
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;ORTOPEDIA E TRAUMATOLOGIA;1;Julio Cesar Nunes Gazolla
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;ORTOPEDIA E TRAUMATOLOGIA;2.
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;PEDIATRIA;1.
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;PEDIATRIA;2;Fernanda De Oliveira Chiaradia
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;PEDIATRIA;3;Natália Nogueira Vieira
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;PEDIATRIA;4;Marco Tulio Rodrigues Franco
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;PSIQUIATRIA;1;Lucas Nascimento Tavares
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;PSIQUIATRIA;2;Matheus Nilton Bernardi Do Prado
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Gustavo Andreis
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;NEUROCIRURGIA;1;Wanderson Willian Dos Santos
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;OBSTETRÍCIA E GINECOLOGIA;1.
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;OBSTETRÍCIA E GINECOLOGIA;2;Luíza Capri Alves
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;OBSTETRÍCIA E GINECOLOGIA;3;Juliana Caroline Marangoni Bottega
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;CIRURGIA GERAL;1;Mateus Gabriel Dropa
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;CIRURGIA GERAL;2;Edgar Santin
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;CIRURGIA GERAL;3.
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;CIRURGIA GERAL;4;Camila Horr Zaki
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;CIRURGIA GERAL;5;Larissa Damo
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;CIRURGIA GERAL;6;Yuri Peruffo De Avila
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;CIRURGIA GERAL;7;Roberta Krause Romero
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE PASSO FUNDO;CIRURGIA GERAL;8.
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE CARAZINHO;CLÍNICA MÉDICA;1;Fernanda Ferreira Junqueira Bezerra
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE CARAZINHO;CLÍNICA MÉDICA;2;Aluisio Tenorio Marques Junior
+RIO GRANDE DO SUL;UFFS - Universidade Federal da Fronteira Sul;HOSPITAL DA CIDADE DE CARAZINHO;CLÍNICA MÉDICA;3.
+RIO GRANDE DO SUL;FHGV - Fundação Hospitalar Getúlio Vargas;FUNDAÇÃO HOSPITALAR GETÚLIO VARGAS;ANESTESIOLOGIA;1;Luana Adamy Lenhardt
+RIO GRANDE DO SUL;FHGV - Fundação Hospitalar Getúlio Vargas;FUNDAÇÃO HOSPITALAR GETÚLIO VARGAS;ANESTESIOLOGIA;2;Leticia Hellen Basso
+RIO GRANDE DO SUL;FHGV - Fundação Hospitalar Getúlio Vargas;FUNDAÇÃO HOSPITALAR GETÚLIO VARGAS;CIRURGIA GERAL;1;Livia Rodrigues
+RIO GRANDE DO SUL;FHGV - Fundação Hospitalar Getúlio Vargas;FUNDAÇÃO HOSPITALAR GETÚLIO VARGAS;CIRURGIA GERAL;2;Renato Antonio Sommer
+RIO GRANDE DO SUL;FHGV - Fundação Hospitalar Getúlio Vargas;FUNDAÇÃO HOSPITALAR GETÚLIO VARGAS;PEDIATRIA;1;Marco Tulio Rodrigues Franco
+RIO GRANDE DO SUL;FHGV - Fundação Hospitalar Getúlio Vargas;FUNDAÇÃO HOSPITALAR GETÚLIO VARGAS;PEDIATRIA;2;Carolina Ramos Dos Reis
+RIO GRANDE DO SUL;FHGV - Fundação Hospitalar Getúlio Vargas;FUNDAÇÃO HOSPITALAR GETÚLIO VARGAS;GINECOLOGIA;1;Sandra Ximena Rodas Perez Goulart
+RIO GRANDE DO SUL;FHGV - Fundação Hospitalar Getúlio Vargas;FUNDAÇÃO HOSPITALAR GETÚLIO VARGAS;GINECOLOGIA;2.
+RIO GRANDE DO SUL;FHGV - Fundação Hospitalar Getúlio Vargas;FUNDAÇÃO HOSPITALAR GETÚLIO VARGAS;PEDIATRIA (2º CONCURSO);1;Thairini Berger Canever
+RIO GRANDE DO SUL;FHGV - Fundação Hospitalar Getúlio Vargas;FUNDAÇÃO HOSPITALAR GETÚLIO VARGAS;CLÍNICA MÉDICA (3º CONCURSO);1;Cecília Netto Costa Da Fonseca
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;DERMATOLOGIA;;Maria Emília Vieira De Souza
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;DERMATOLOGIA;;Manoella Freitas Santos
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;DERMATOLOGIA;;Clarissa Padilha Mitri Dos Santos
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;DERMATOLOGIA;;Thaís Furtat Marques
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;DERMATOLOGIA;;Camile Funghetto Fuzinatto
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;DERMATOLOGIA;;Bruna Laís Wedig
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;NEUROLOGIA;;Marina Coutinho Augustin
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;NEUROLOGIA;;Leandro Silva Costa
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;NEUROLOGIA;;Cássia Elisa Marin
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;ANESTESIOLOGIA;;Andreas Horner
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;ANESTESIOLOGIA;;Katherine Coelho Gonçalves
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;ANESTESIOLOGIA;;Giuliano Machado Danesi
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;ANESTESIOLOGIA;;Luiza Alexi Freitas
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;ANESTESIOLOGIA;;Eduardo Schuch Reimann
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;OFTALMOLOGIA;;Matheus Dallagasperina Pedro
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;OFTALMOLOGIA;;Edenir Goulart De Oliveira
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;OTORRINOLARINGOLOGIA;;Mariele Bressan
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;OTORRINOLARINGOLOGIA;;Larissa Petermann Jung
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;;Elenisa Predebon Zanella
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;;Milene Da Silva Antunes
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;;Ruhana Dalla Costa
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;;Marcos De Souto Goulart
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PSIQUIATRIA;;Felipe Radtke Becker
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PSIQUIATRIA;;Isadora Veronese Basso
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PSIQUIATRIA;;Luiza Silveira Lucas
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PSIQUIATRIA DA INFÂNCIA E ADOLESCÊNCIA;;Jairo Vinicius Merege De Melo Cruz Pinto
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PSIQUIATRIA DA INFÂNCIA E ADOLESCÊNCIA;;Silvia Marchesan De Prá
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;ANGIORRADIOLOGIA E CIRURGIA ENDOVASCULAR;;Milton Fedumenti Rossi
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;CANCEROLOGIA CIRÚRGICA;;Guilherme Zatti Fedrizzi
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;CANCEROLOGIA CLÍNICA;;Rui D´avila
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;CANCEROLOGIA CLÍNICA;;Rafaela Kirchner Piccoli
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;CANCEROLOGIA CLÍNICA;;Domênica De Martins E Souza
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;CIRURGIA DE CABEÇA E PESCOÇO;;Rafael Cardoso Pires
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;CIRURGIA DO APARELHO DIGESTIVO;;Rodrigo Paese Capra
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;CIRURGIA GERAL;;Joao Victor Vecchi Ferri
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;CIRURGIA GERAL;.
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;CIRURGIA GERAL;;Carolina De Vargas Kives
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;CIRURGIA GERAL;;Edgar Santin
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;CIRURGIA GERAL;;Matheus Vinícius Knack
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;CIRURGIA GERAL;;Mariana Parcianello Roehrs
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;UROLOGIA;;Flavia Hoffmann Mortari
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;UROLOGIA;;Bruno Chao Lisot
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;CIRURGIA TORÁCICA;.
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;CIRURGIA TORÁCICA;;Leonardo Pontual Lima
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;CIRURGIA TORÁCICA;;Larissa Aparecida De Melo
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;CIRURGIA TORÁCICA;;Thiago Tinoco Lungareze
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;CLÍNICA MÉDICA R3;;Mario Ricardo Pimentel
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;CLÍNICA MÉDICA R3;;Tais Pezzi Fachinelli
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;CLÍNICA MÉDICA R3;;Gabriele Heinen Schuster
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;EMERGÊNCIA PEDIÁTRICA;;Manuela Justi De Farias
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;ENDOCRINOLOGIA PEDIÁTRICA;;Anie Savi Serafim
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;GASTROENTEROLOGIA;;Priscila Cavedon Fontana
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;GASTROENTEROLOGIA PEDIÁTRICA;;Luiza Nader
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;GASTROENTEROLOGIA PEDIÁTRICA;.
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;GASTROENTEROLOGIA PEDIÁTRICA;;Caroline Sales De Souza
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;INFECTOLOGIA;;Murillo Machado Cipolatt
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;INFECTOLOGIA;.
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;MASTOLOGIA;;Juliane Dal Vesco
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;MEDICINA DE FAMÍLIA E COMUNIDADE;;Fernanda Mello Gomes
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;MEDICINA FETAL;;Bruna Boff Varisco
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;MEDICINA FETAL;;Gabrieli Canabarro Da Silva
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;MEDICINA INTENSIVA;;Caroline Morais Viezzer
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;MEDICINA INTENSIVA;;Bruno Bressan Junior
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;MEDICINA INTENSIVA;;Paulo Olders Spilimbergo
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;MEDICINA INTENSIVA;.
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;MEDICINA INTENSIVA PEDIÁTRICA;;Raíssa Queiroz Rezende
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;MEDICINA INTENSIVA PEDIÁTRICA;.
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;MEDICINA INTENSIVA PEDIÁTRICA;;Renata Michels Périco
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;NEFROLOGIA;;Japao Dröse Pereira
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;NEFROLOGIA;;Lázaro Pereira Jacobina
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;NEFROLOGIA;;Adriana Reis Bittencourt Silva
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;NEUROLOGIA PEDIÁTRICA;;Fernanda Feuerharmel Soares Da Silva
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;NEUROLOGIA PEDIÁTRICA;.
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;OBSTETRÍCIA E GINECOLOGIA R4;.
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;OBSTETRÍCIA E GINECOLOGIA R4;;Carolina Travi Canabarro
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;OBSTETRÍCIA E GINECOLOGIA R4;;Ana Claudia Zimmermann
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PATOLOGIA;;Rafael Xavier Reis
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PATOLOGIA;.
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PATOLOGIA;;Angela Gonçalves Karlinski
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PEDIATRIA;;Carolina Roos Mariano Da Rocha
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PEDIATRIA;;Natália Dassi
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PEDIATRIA;;Bruna Azario De Holanda
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PEDIATRIA;.
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PEDIATRIA;;Jordana Vaz Hendler
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PEDIATRIA;.
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PEDIATRIA;;Juliana Beirão De Almeida Guaragna
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PEDIATRIA;;Mariana Martins Denicol
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PEDIATRIA;;Marcos Vinícios Razera
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PEDIATRIA;.
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PEDIATRIA;;Fernanda De Oliveira Chiaradia
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PEDIATRIA;.
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PNEUMOLOGIA;;Aline Dal Pozzo Antunes
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;PNEUMOLOGIA;.
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;RADIOTERAPIA;;Ursula Maldaner
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;RADIOTERAPIA;.
+RIO GRANDE DO SUL;UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre;UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE;REUMATOLOGIA;;Árien Eliza Oldoni
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;ANESTESIOLOGIA;1;Andre Dajori Ronchi
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;ANESTESIOLOGIA;2;Olavo Haas De Souza Gastal
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Matheus Dorigatti Soldatelli
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Milene Da Silva Antunes
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;DERMATOLOGIA;1;Fernanda Joner Mattias
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;DERMATOLOGIA;2;Camile Funghetto Fuzinatto
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CIRURGIA GERAL;1;Felipe Ferreira Laranjeira
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CIRURGIA GERAL;2;Dirceu Felipe Valentini Junior
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CIRURGIA GERAL;3;Pedro Caetano Edler Zandona
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CIRURGIA GERAL;4;Augusto Luiz Giongo
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CIRURGIA GERAL;5;Tuane Colles
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CIRURGIA GERAL;6;Felipe Maroneze Garcia
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;OBSTETRÍCIA E GINECOLOGIA;1;Luiza Machado Kobe
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;OBSTETRÍCIA E GINECOLOGIA;2;Isis Mendes Barbosa
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;OBSTETRÍCIA E GINECOLOGIA;3;Betina Oderich Da Costa
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;OBSTETRÍCIA E GINECOLOGIA;4;Marcela Siliprandi Lorentz
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;OBSTETRÍCIA E GINECOLOGIA;5;Lauren Marquardt Burmann
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CLÍNICA MÉDICA;1;Ricardo Dahmer Tiecher
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CLÍNICA MÉDICA;2;Bruna Santos Da Cunha
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CLÍNICA MÉDICA;3;Maira Zoldan
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CLÍNICA MÉDICA;4;Mariana Costa Hoffmeister
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CLÍNICA MÉDICA;5;Marcos Frata Rihl
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CLÍNICA MÉDICA;6;Luisa Martins Avena
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CLÍNICA MÉDICA;7.
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CLÍNICA MÉDICA;8;Wille Cesar Bica
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CLÍNICA MÉDICA;9;Roberto Stalla Alves Da Fonseca
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CLÍNICA MÉDICA;10.
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;PEDIATRIA;1;Anna Clara Rocha Plawiak
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;PEDIATRIA;2;Carolina Roos Mariano Da Rocha
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;PEDIATRIA;3;Jordana Vaz Hendler
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;PEDIATRIA;4;Camila Dal Forno Martins
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;PEDIATRIA;5;Tatiana Peres Danielski
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;PEDIATRIA;6.
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;PEDIATRIA;7;Jaqueline De Lima Paim
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;PEDIATRIA;8;Fernanda De Oliveira Chiaradia
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;OTORRINOLARINGOLOGIA;1;Larissa Petermann Jung
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CARDIOLOGIA;1;Stefano Boemler Busato
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CARDIOLOGIA;2;Rafael Coimbra Ferreira Beltrame
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CARDIOLOGIA;3.
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CARDIOLOGIA;4;Guilherme Poyane Peixoto
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CARDIOLOGIA;5.
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CIRURGIA CARDIOVASCULAR;1;Vinicius Franchini Torres
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CIRURGIA DO APARELHO DIGESTIVO;1;Gilda Guerra
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CIRURGIA DO APARELHO DIGESTIVO;2;Eduardo Guarezi Calegari
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CIRURGIA TORÁCICA;1;Edson Ricardo Brambate Junior
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CIRURGIA TORÁCICA;2.
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;CIRURGIA VASCULAR;1;Oscar Rockenbach Pereira
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;COLOPROCTOLOGIA;1;Luciele Zibetti Alberton
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;GASTROENTEROLOGIA;1;Priscila Cavedon Fontana
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;HEMATOLOGIA E HEMOTERAPIA;1;Nicole Dozza Teixeira De Carvalho
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;HEMODINÂMICA E CARDIOLOGIA INTERVENCIONISTA;1;La Hore Correa Rodrigues Junior
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;MEDICINA DE FAMÍLIA E COMUNIDADE;1;Julia Barth Dos Santos Da Silveira
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;MEDICINA INTENSIVA PEDIÁTRICA;1;Bruna Pinheiro Machado
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;MEDICINA INTENSIVA PEDIÁTRICA;2;Martina Righi Alves
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;MEDICINA INTENSIVA PEDIÁTRICA;3;Renata Michels Perico
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;NEFROLOGIA;1;Japao Drose Pereira
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;NEONATOLOGIA;1;Gabriela De Carvalho Nunes
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;NEONATOLOGIA;2;Fernanda Scalzilli Tannhauser
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;NEONATOLOGIA;3;Dhianny Francynny Souza Ribeiro
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;NEUROCIRURGIA;1;Paulo Adolfo Wessel Xander
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;NEUROLOGIA;1;Yuri Ferreira Felloni Borges
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;NEUROLOGIA;2;Cassia Elisa Marin
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;NEUROLOGIA;3;Thais Leite Secchi
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;NEUROLOGIA;4.
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;PNEUMOLOGIA;1;Aline Dal Pozzo Antunes
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;PNEUMOLOGIA PEDIÁTRICA;1;Gustavo De Oliveira Bernardo
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;PNEUMOLOGIA PEDIÁTRICA;2;Bruna Freire Accorsi
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;PNEUMOLOGIA PEDIÁTRICA;3;Suelen Santos Camargo
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;PSIQUIATRIA;1;Andre Liedtke
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM - R4;1;Vicente Camerini Camargo
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM - R4;2;Ramiro Teixeira
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;REUMATOLOGIA;1;Guilherme Levi Tres
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;REUMATOLOGIA;2.
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;TRANSPLANTE RENAL CIRÚRGICO;1;Lara Rech Poltronieri
+RIO GRANDE DO SUL;PUC RS - Pontifícia Universidade Católica do Rio Grande do Sul;PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL;UROLOGIA;1;Artur De Oliveira Paludo
+RIO GRANDE DO SUL;AHCI - Associação Hospital de Caridade Ijuí;ASSOCIAÇÃO HOSPITAL DE CARIDADE IJUÍ;CLÍNICA MÉDICA;;Carina Echer De Souza
+RIO GRANDE DO SUL;AHCI - Associação Hospital de Caridade Ijuí;ASSOCIAÇÃO HOSPITAL DE CARIDADE IJUÍ;CLÍNICA MÉDICA;;Joana Rebesquini Teixiera
+RIO GRANDE DO SUL;AHCI - Associação Hospital de Caridade Ijuí;ASSOCIAÇÃO HOSPITAL DE CARIDADE IJUÍ;CLÍNICA MÉDICA;.
+RIO GRANDE DO SUL;AHCI - Associação Hospital de Caridade Ijuí;ASSOCIAÇÃO HOSPITAL DE CARIDADE IJUÍ;CLÍNICA MÉDICA;;Andressa Kunzler
+RIO GRANDE DO SUL;AHCI - Associação Hospital de Caridade Ijuí;ASSOCIAÇÃO HOSPITAL DE CARIDADE IJUÍ;CIRURGIA GERAL;;Murilo De Oliveira
+RIO GRANDE DO SUL;AHCI - Associação Hospital de Caridade Ijuí;ASSOCIAÇÃO HOSPITAL DE CARIDADE IJUÍ;CIRURGIA GERAL;;Bolivar Canto Ghellar
+RIO GRANDE DO SUL;AHCI - Associação Hospital de Caridade Ijuí;ASSOCIAÇÃO HOSPITAL DE CARIDADE IJUÍ;CIRURGIA GERAL;;Gustavo De Oliveira
+RIO GRANDE DO SUL;AHCI - Associação Hospital de Caridade Ijuí;ASSOCIAÇÃO HOSPITAL DE CARIDADE IJUÍ;CIRURGIA GERAL;;Daniela Censi Dos Santos
+RIO GRANDE DO SUL;AHCI - Associação Hospital de Caridade Ijuí;ASSOCIAÇÃO HOSPITAL DE CARIDADE IJUÍ;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;;Alexandre Pinheiro Kapper
+RIO GRANDE DO SUL;HCS - Hospital de Caridade Santiago;HOSPITAL DE CARIDADE SANTIAGO;CIRURGIA GERAL;1;Rafael Cruz De Oliveira
+RIO GRANDE DO SUL;HCS - Hospital de Caridade Santiago;HOSPITAL DE CARIDADE SANTIAGO;CLÍNICA MÉDICA;1;Flavia Thais Davila
+RIO GRANDE DO SUL;HCS - Hospital de Caridade Santiago;HOSPITAL DE CARIDADE SANTIAGO;CLÍNICA MÉDICA;2.
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Elenisa Predebon Zanella
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Marília Maia De Gonçalves
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;ANESTESIOLOGIA;1;Katherine Coelho Gonçalves
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;ANESTESIOLOGIA;2;Eduardo Schuch Reimann
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;ANESTESIOLOGIA;3;Lucas Pires Klassmann
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;CANCEROLOGIA CLÍNICA;1;Guilherme Schunke Brondani
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;GINECOLOGIA E OBSTETRÍCIA;1;Isabela Marquezi Valença
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;GINECOLOGIA E OBSTETRÍCIA;2;Laura Valduga Pozza
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;GINECOLOGIA E OBSTETRÍCIA;3;Nathalia Helena Leuck
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;MASTOLOGIA;1;Amanda Claudia Pituco
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;MEDICINA INTENSIVA;1;Caroline Morais Viezzer
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;MEDICINA INTENSIVA;2;Daniel Haase Lanziotti
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;CIRURGIA GERAL;1;Luiza Rossi Pettinelli
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;CIRURGIA GERAL;2;Carolina De Vargas Kives
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;CIRURGIA GERAL;3;Mauricio Fontoura Ferrao
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;CIRURGIA GERAL;4;Douglas Da Costa Vanni
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;CIRURGIA GERAL;5.
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;CIRURGIA GERAL;6;Valentina Fernandes E Machado
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;CIRURGIA GERAL;7;Guilherme Sjöman De Brum
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;CIRURGIA GERAL;8;Mariana Parcianello Roehrs
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;CIRURGIA GERAL;9.
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;CIRURGIA GERAL;10;Luiz Pedro Palma Hendges
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;CIRURGIA PLÁSTICA;1;Vinícius Franchini Torres
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;GASTROENTEROLOGIA;1;Claudio Alves Rodrigues
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;NEUROCIRURGIA;1;Olavo Haas De Souza Gastal
+RIO GRANDE DO SUL;HED - Hospital Ernesto Dornelles;HOSPITAL ERNESTO DORNELLES;GINECOLOGIA E OBSTETRÍCIA (2º CONCURSO);1;Eudes Alves Bucar
+RIO GRANDE DO SUL;HMD RS - Hospital Mãe de Deus;HOSPITAL MÃE DE DEUS;PSIQUIATRIA;1;Isadora Veronese Basso
+RIO GRANDE DO SUL;HMD RS - Hospital Mãe de Deus;HOSPITAL MÃE DE DEUS;PSIQUIATRIA;2;Carla Liz Viena
+RIO GRANDE DO SUL;HMD RS - Hospital Mãe de Deus;HOSPITAL MÃE DE DEUS;PSIQUIATRIA;3;Paola Bell Felix De Oliveira
+RIO GRANDE DO SUL;HMD RS - Hospital Mãe de Deus;HOSPITAL MÃE DE DEUS;PSIQUIATRIA;4;Gabriela Neubarth Côrtes
+RIO GRANDE DO SUL;HMD RS - Hospital Mãe de Deus;HOSPITAL MÃE DE DEUS;NEUROLOGIA;1;Veronica Gutierres
+RIO GRANDE DO SUL;HMD RS - Hospital Mãe de Deus;HOSPITAL MÃE DE DEUS;CARDIOLOGIA;1;Guilherme Amaral Velho
+RIO GRANDE DO SUL;HMD RS - Hospital Mãe de Deus;HOSPITAL MÃE DE DEUS;CARDIOLOGIA;2;Osvaldo Fritzen De Lima
+RIO GRANDE DO SUL;HMD RS - Hospital Mãe de Deus;HOSPITAL MÃE DE DEUS;CARDIOLOGIA;3;Ruhan Falcão Peruchi
+RIO GRANDE DO SUL;HMD RS - Hospital Mãe de Deus;HOSPITAL MÃE DE DEUS;CARDIOLOGIA;4;Giovani Assumpção De Linhares
+RIO GRANDE DO SUL;HMD RS - Hospital Mãe de Deus;HOSPITAL MÃE DE DEUS;MEDICINA INTENSIVA;1;Caroline Morais Viezzer
+RIO GRANDE DO SUL;HMD RS - Hospital Mãe de Deus;HOSPITAL MÃE DE DEUS;MEDICINA INTENSIVA;2;Bruno Bressan Junior
+RIO GRANDE DO SUL;HMD RS - Hospital Mãe de Deus;HOSPITAL MÃE DE DEUS;MEDICINA DE FAMÍLIA E COMUNIDADE;1;Fernanda Mello Gomes
+RIO GRANDE DO SUL;HMD RS - Hospital Mãe de Deus;HOSPITAL MÃE DE DEUS;CANCEROLOGIA CLÍNICA;1;Rui D´avila
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;CLÍNICA MÉDICA;1;Fábio Barlem Hohmann
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;CLÍNICA MÉDICA;2;Elisa Azevedo De Souza
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;CLÍNICA MÉDICA;3;Jamerson Henrique Novais Santos
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;CLÍNICA MÉDICA;4;Carolina Barbosa Da Costa
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;CLÍNICA MÉDICA;5;Mariana Da Silva Jardim
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;CLÍNICA MÉDICA;6;Roberto Vieira Moraes
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;CLÍNICA MÉDICA;7;Eduardo Comazzetto Dos Reis
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;CLÍNICA MÉDICA;8;Caroline Borges De Castro
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;CLÍNICA MÉDICA;9;Pablo Augusto Gehlen
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;ANESTESIOLOGIA;1;Sabrina Prates De Noronha Romanczuk
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;ANESTESIOLOGIA;2;Alexandre Jose Ceolin
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;ORTOPEDIA E TRAUMATOLOGIA;1;Melina Duarte Costa
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;PEDIATRIA;1;Bruna Torres Ruppenthal
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;PEDIATRIA;2;Lisandra Aline Martinelli
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;PEDIATRIA;3.
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;PEDIATRIA;4;Hadelle Habitzreuter Hassmann
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;PEDIATRIA;5;Fernanda Silva Faria
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;CIRURGIA GERAL;1;José Luiz Pedro Missio
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;CIRURGIA GERAL;2.
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;CIRURGIA GERAL;3;Nathalia Siqueira Julio
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;CIRURGIA GERAL;4;Cristina De Oliveira
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;PEDIATRIA (2º CONCURSO);1;Cynthia Uchoa Vilhena
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;PEDIATRIA (2º CONCURSO);2;Luciana Demito Mariano
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;CIRURGIA GERAL (2º CONCURSO);1;Marcelo Rodrigues Covolan
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;CIRURGIA GERAL (2º CONCURSO);2;João Américo De Assis Junior
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;CLÍNICA MÉDICA (2º CONCURSO);1;Karen Lilian Morais Figueiredo De Mendonca
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;CLÍNICA MÉDICA (2º CONCURSO);2;Pablicia Daves De Moraes Bregense
+RIO GRANDE DO SUL;FURG - Universidade Federal do Rio Grande;UNIVERSIDADE FEDERAL DO RIO GRANDE;CLÍNICA MÉDICA (2º CONCURSO);3;André Uchôa Gonçalves Pinheiro
+RIO GRANDE DO SUL;HBPPA - Hospital Beneficência Portuguesa de Porto Alegre;HOSPITAL BENEFICÊNCIA PORTUGUESA DE PORTO ALEGRE;ANESTESIOLOGIA;1;Katiuscia De Queiroz
+RIO GRANDE DO SUL;HBPPA - Hospital Beneficência Portuguesa de Porto Alegre;HOSPITAL BENEFICÊNCIA PORTUGUESA DE PORTO ALEGRE;ANESTESIOLOGIA;2;Matheus Accioly Kwiatkowski
+RIO GRANDE DO SUL;HBPPA - Hospital Beneficência Portuguesa de Porto Alegre;HOSPITAL BENEFICÊNCIA PORTUGUESA DE PORTO ALEGRE;CLÍNICA MÉDICA;1;Viviane Elisa Timm
+RIO GRANDE DO SUL;HBPPA - Hospital Beneficência Portuguesa de Porto Alegre;HOSPITAL BENEFICÊNCIA PORTUGUESA DE PORTO ALEGRE;CLÍNICA MÉDICA;2;Rafaela Hoffmann Miranda
+RIO GRANDE DO SUL;HBPPA - Hospital Beneficência Portuguesa de Porto Alegre;HOSPITAL BENEFICÊNCIA PORTUGUESA DE PORTO ALEGRE;CLÍNICA MÉDICA;3;Debora Maciel Santana
+RIO GRANDE DO SUL;HBPPA - Hospital Beneficência Portuguesa de Porto Alegre;HOSPITAL BENEFICÊNCIA PORTUGUESA DE PORTO ALEGRE;CLÍNICA MÉDICA;4;Marina Oliboni Moschetta
+RIO GRANDE DO SUL;HBPPA - Hospital Beneficência Portuguesa de Porto Alegre;HOSPITAL BENEFICÊNCIA PORTUGUESA DE PORTO ALEGRE;CIRURGIA GERAL;1;Christian Bidel Schwambach
+RIO GRANDE DO SUL;HBPPA - Hospital Beneficência Portuguesa de Porto Alegre;HOSPITAL BENEFICÊNCIA PORTUGUESA DE PORTO ALEGRE;CIRURGIA GERAL;2;Amanda Prestes Valente
+RIO GRANDE DO SUL;HBPPA - Hospital Beneficência Portuguesa de Porto Alegre;HOSPITAL BENEFICÊNCIA PORTUGUESA DE PORTO ALEGRE;ORTOPEDIA E TRAUMATOLOGIA;1;Carolini Oliboni De Bairros
+RIO GRANDE DO SUL;HBPPA - Hospital Beneficência Portuguesa de Porto Alegre;HOSPITAL BENEFICÊNCIA PORTUGUESA DE PORTO ALEGRE;ORTOPEDIA E TRAUMATOLOGIA;2;Miguel Antonio Razia Fagundes
+RIO GRANDE DO SUL;HBPPA - Hospital Beneficência Portuguesa de Porto Alegre;HOSPITAL BENEFICÊNCIA PORTUGUESA DE PORTO ALEGRE;OTORRINOLARINGOLOGIA;1;Octavia Carvalhal Castagno
+RIO GRANDE DO SUL;HBPPA - Hospital Beneficência Portuguesa de Porto Alegre;HOSPITAL BENEFICÊNCIA PORTUGUESA DE PORTO ALEGRE;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Rafael Ramos Rambo
+RIO GRANDE DO SUL;HBPPA - Hospital Beneficência Portuguesa de Porto Alegre;HOSPITAL BENEFICÊNCIA PORTUGUESA DE PORTO ALEGRE;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Karen Koff Da Costa
+RIO GRANDE DO SUL;ESP RS - Escola de Saúde Pública do Rio Grande do Sul;ESCOLA DE SAÚDE PÚBLICA DO RIO GRANDE DO SUL;DERMATOLOGIA;1;Maria Emília Vieira De Souza
+RIO GRANDE DO SUL;ESP RS - Escola de Saúde Pública do Rio Grande do Sul;ESCOLA DE SAÚDE PÚBLICA DO RIO GRANDE DO SUL;DERMATOLOGIA;2;Manoella Freitas Santos
+RIO GRANDE DO SUL;ESP RS - Escola de Saúde Pública do Rio Grande do Sul;ESCOLA DE SAÚDE PÚBLICA DO RIO GRANDE DO SUL;PSIQUIATRIA;1;Felipe Radtke Becker
+RIO GRANDE DO SUL;ESP RS - Escola de Saúde Pública do Rio Grande do Sul;ESCOLA DE SAÚDE PÚBLICA DO RIO GRANDE DO SUL;PSIQUIATRIA;2;Lucas Nascimento Tavares
+RIO GRANDE DO SUL;ESP RS - Escola de Saúde Pública do Rio Grande do Sul;ESCOLA DE SAÚDE PÚBLICA DO RIO GRANDE DO SUL;PSIQUIATRIA;3;Ísis Mendes Barbosa
+RIO GRANDE DO SUL;ESP RS - Escola de Saúde Pública do Rio Grande do Sul;ESCOLA DE SAÚDE PÚBLICA DO RIO GRANDE DO SUL;PSIQUIATRIA;4;Matheus Nilton Bernardi Do Prado
+RIO GRANDE DO SUL;ESP RS - Escola de Saúde Pública do Rio Grande do Sul;ESCOLA DE SAÚDE PÚBLICA DO RIO GRANDE DO SUL;PSIQUIATRIA;5;Carla Liz Viena
+RIO GRANDE DO SUL;ESP RS - Escola de Saúde Pública do Rio Grande do Sul;ESCOLA DE SAÚDE PÚBLICA DO RIO GRANDE DO SUL;PSIQUIATRIA;6;Isadora Veronese Basso
+RIO GRANDE DO SUL;ESP RS - Escola de Saúde Pública do Rio Grande do Sul;ESCOLA DE SAÚDE PÚBLICA DO RIO GRANDE DO SUL;PSIQUIATRIA;7;Luiza Silveira Lucas
+RIO GRANDE DO SUL;ESP RS - Escola de Saúde Pública do Rio Grande do Sul;ESCOLA DE SAÚDE PÚBLICA DO RIO GRANDE DO SUL;PSIQUIATRIA;8;Mariana Parcianello Roehrs
+RIO GRANDE DO SUL;ESP RS - Escola de Saúde Pública do Rio Grande do Sul;ESCOLA DE SAÚDE PÚBLICA DO RIO GRANDE DO SUL;PSIQUIATRIA DA INFÂNCIA E ADOLESCÊNCIA;1;Jairo Vinicius Merege De Melo Cruz Pinto
+RIO GRANDE DO SUL;ESP RS - Escola de Saúde Pública do Rio Grande do Sul;ESCOLA DE SAÚDE PÚBLICA DO RIO GRANDE DO SUL;PSIQUIATRIA DA INFÂNCIA E ADOLESCÊNCIA;2;Silvia Marchesan De Prá
+RIO GRANDE DO SUL;ESP RS - Escola de Saúde Pública do Rio Grande do Sul;ESCOLA DE SAÚDE PÚBLICA DO RIO GRANDE DO SUL;PSIQUIATRIA DA INFÂNCIA E ADOLESCÊNCIA;3;Georgia Maria Viero
+RIO GRANDE DO SUL;ESP RS - Escola de Saúde Pública do Rio Grande do Sul;ESCOLA DE SAÚDE PÚBLICA DO RIO GRANDE DO SUL;PSIQUIATRIA DA INFÂNCIA E ADOLESCÊNCIA;4;Caroline De Menezes Krebs
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;ANESTESIOLOGIA;;Karoline Mallmann
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;ANESTESIOLOGIA;;Matheus Ugalde De Araújo Goes
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;ANESTESIOLOGIA;;Alexandre José Ceolin
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CIRURGIA GERAL;;Paula De Oliveira Marchiori
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CIRURGIA GERAL;;Rafael Netto Soares
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CIRURGIA GERAL;.
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CIRURGIA GERAL;;Mariana Mello De Souza
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CIRURGIA GERAL;;Claudio Francisco Rodigheri
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CIRURGIA GERAL;.
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CIRURGIA GERAL;;Amanda Prestes Valente
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CIRURGIA GERAL;;Alexandre Leite
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CLÍNICA MÉDICA;;Elisa Azevedo De Souza
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CLÍNICA MÉDICA;;Letícia De Jesus Rossato
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CLÍNICA MÉDICA;;Gabriela Teixeira Andrade
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CLÍNICA MÉDICA;.
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CLÍNICA MÉDICA;;Caroline Machado Rotta Dornelles
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CLÍNICA MÉDICA;;Raissa Velasques De Figueiredo
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CLÍNICA MÉDICA;;Rafael Back Schumacher
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CLÍNICA MÉDICA;;Carolina Barbosa Da Costa
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CLÍNICA MÉDICA;.
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CLÍNICA MÉDICA;;Roberto Vieira Moraes
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CLÍNICA MÉDICA;;Deiner Paulo Martins Resende
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CLÍNICA MÉDICA;;Thaís Coutinho Nicola
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;CLÍNICA MÉDICA;;Aridiany Rafaely Silva Aibara
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;ENDOCRINOLOGIA E METABOLOGIA;;Danieli Fernanda Dolvitsch
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;GASTROENTEROLOGIA;;Claudio Alves Rodrigues
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;OBSTETRÍCIA E GINECOLOGIA;;Carolina Lage Taketomi
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;OBSTETRÍCIA E GINECOLOGIA;;Pedro Henrique De Castro Haical
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;OBSTETRÍCIA E GINECOLOGIA;.
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;OBSTETRÍCIA E GINECOLOGIA;;Betina De Almeida Artus
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;GASTROENTEROLOGIA (2º CONCURSO);;Valeska Valiati
+RIO GRANDE DO SUL;UFPEL - Universidade Federal de Pelotas;UNIVERSIDADE FEDERAL DE PELOTAS;GASTROENTEROLOGIA (2º CONCURSO);;Rafaela Carlise Savariz
+RIO GRANDE DO SUL;SCPEL - Santa Casa de Misericórdia de Pelotas;SANTA CASA DE MISERICÓRDIA DE PELOTAS;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Claudir Antonio Da Silva Junior
+RIO GRANDE DO SUL;SCPEL - Santa Casa de Misericórdia de Pelotas;SANTA CASA DE MISERICÓRDIA DE PELOTAS;ORTOPEDIA E TRAUMATOLOGIA;1;Jonas Rubin Facco
+RIO GRANDE DO SUL;SCPEL - Santa Casa de Misericórdia de Pelotas;SANTA CASA DE MISERICÓRDIA DE PELOTAS;ORTOPEDIA E TRAUMATOLOGIA;2.
+RIO GRANDE DO SUL;SCPEL - Santa Casa de Misericórdia de Pelotas;SANTA CASA DE MISERICÓRDIA DE PELOTAS;ORTOPEDIA E TRAUMATOLOGIA;3;Marina Comba Contieri
+RIO GRANDE DO SUL;SCPEL - Santa Casa de Misericórdia de Pelotas;SANTA CASA DE MISERICÓRDIA DE PELOTAS;MEDICINA INTENSIVA;1;Leonardo Antunes Fuentes
+RIO GRANDE DO SUL;SCPEL - Santa Casa de Misericórdia de Pelotas;SANTA CASA DE MISERICÓRDIA DE PELOTAS;MEDICINA INTENSIVA;2;Vinícius Furtado
+RIO GRANDE DO SUL;SCPEL - Santa Casa de Misericórdia de Pelotas;SANTA CASA DE MISERICÓRDIA DE PELOTAS;MEDICINA INTENSIVA (2º CONCURSO);1;Diether Villegas Calle
+RIO GRANDE DO SUL;HBB - Hospital Bruno Born;HOSPITAL BRUNO BORN;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Fernanda Ten Caten Fenner
+RIO GRANDE DO SUL;HBB - Hospital Bruno Born;HOSPITAL BRUNO BORN;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Lukas Ogorodnik
+RIO GRANDE DO SUL;HBB - Hospital Bruno Born;HOSPITAL BRUNO BORN;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;3;Larissa Baracuhy Nóbrega Pereira
+RIO GRANDE DO SUL;HBB - Hospital Bruno Born;HOSPITAL BRUNO BORN;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;4;Léo Max Feuerschuette Neto
+RIO GRANDE DO SUL;HBB - Hospital Bruno Born;HOSPITAL BRUNO BORN;CLÍNICA MÉDICA (2º CONCURSO);1;Robson Antônio Gonçalves
+RIO GRANDE DO SUL;HBB - Hospital Bruno Born;HOSPITAL BRUNO BORN;PSIQUIATRIA;1;Vitória Steffenello Avancini
+RIO GRANDE DO SUL;HBB - Hospital Bruno Born;HOSPITAL BRUNO BORN;PSIQUIATRIA;2.
+RIO GRANDE DO SUL;HBB - Hospital Bruno Born;HOSPITAL BRUNO BORN;CLÍNICA MÉDICA (3º CONCURSO);1;Lucas Kunrath
+RIO GRANDE DO SUL;HMIPV - Hospital Materno Infantil Presidente Vargas;HOSPITAL MATERNO INFANTIL PRESIDENTE VARGAS;ENDOSCOPIA GINECOLÓGICA;1;Bryan Pellegrin Ansuj
+RIO GRANDE DO SUL;HMIPV - Hospital Materno Infantil Presidente Vargas;HOSPITAL MATERNO INFANTIL PRESIDENTE VARGAS;MEDICINA FETAL;1;Raquel Ronconi Tomaz
+RIO GRANDE DO SUL;HMIPV - Hospital Materno Infantil Presidente Vargas;HOSPITAL MATERNO INFANTIL PRESIDENTE VARGAS;MEDICINA FETAL;2;Mariana De Leon Ferreira Lupchinski
+RIO GRANDE DO SUL;FHSTE - Fundação Hospitalar Santa Terezinha de Erechim;FUNDAÇÃO HOSPITALAR SANTA TEREZINHA DE ERECHIM;CLÍNICA MÉDICA;1;Cintia Valandro
+RIO GRANDE DO SUL;HNSP - Hospital Pompéia;HOSPITAL POMPÉIA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Fernanda Ten Caten Fenner
+RIO GRANDE DO SUL;HNSP - Hospital Pompéia;HOSPITAL POMPÉIA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Lukas Ogorodnik
+RIO GRANDE DO SUL;HNSP - Hospital Pompéia;HOSPITAL POMPÉIA;CIRURGIA GERAL;1;Luiza Rossi Pettinelli
+RIO GRANDE DO SUL;HNSP - Hospital Pompéia;HOSPITAL POMPÉIA;CIRURGIA GERAL;2;Douglas Da Costa Vanni
+RIO GRANDE DO SUL;HNSP - Hospital Pompéia;HOSPITAL POMPÉIA;ORTOPEDIA E TRAUMATOLOGIA;1;Afonso Poyer Bongiolo
+RIO GRANDE DO SUL;HNSP - Hospital Pompéia;HOSPITAL POMPÉIA;ORTOPEDIA E TRAUMATOLOGIA;2;Rafael Filippini Carraro
+RIO GRANDE DO SUL;HNSP - Hospital Pompéia;HOSPITAL POMPÉIA;ORTOPEDIA E TRAUMATOLOGIA;3;Marthina Alice Gressler
+RIO GRANDE DO SUL;HNSP - Hospital Pompéia;HOSPITAL POMPÉIA;NEUROCIRURGIA;1;Elisa Braun Rizkalla
+RIO GRANDE DO SUL;HNSP - Hospital Pompéia;HOSPITAL POMPÉIA;MEDICINA INTENSIVA;1;Caroline Morais Viezzer
+RIO GRANDE DO SUL;HNSP - Hospital Pompéia;HOSPITAL POMPÉIA;MEDICINA INTENSIVA;2;Laís Da Silva
+RIO GRANDE DO SUL;HNSP - Hospital Pompéia;HOSPITAL POMPÉIA;CLÍNICA MÉDICA;1;Virgínia Rech Comis
+RIO GRANDE DO SUL;HNSP - Hospital Pompéia;HOSPITAL POMPÉIA;CLÍNICA MÉDICA;2;Eduardo Comazzetto Dos Reis
+RIO GRANDE DO SUL;HNSP - Hospital Pompéia;HOSPITAL POMPÉIA;CLÍNICA MÉDICA;3.
+RIO GRANDE DO SUL;HNSP - Hospital Pompéia;HOSPITAL POMPÉIA;CLÍNICA MÉDICA;4;Mariana Crespo Pires
+RIO GRANDE DO SUL;HNSP - Hospital Pompéia;HOSPITAL POMPÉIA;CLÍNICA MÉDICA;5;Luís Henrique Klafke
+RIO GRANDE DO SUL;HNSP - Hospital Pompéia;HOSPITAL POMPÉIA;CLÍNICA MÉDICA;6;Ariele Didomenico
+RIO GRANDE DO SUL;HNSP - Hospital Pompéia;HOSPITAL POMPÉIA;CLÍNICA MÉDICA;7.
+RIO GRANDE DO SUL;HNSP - Hospital Pompéia;HOSPITAL POMPÉIA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM - R4;1;Thassiana Dettoni
+RIO GRANDE DO SUL;FSP - Fundação Saint Pastous;FUNDAÇÃO SAINT PASTOUS;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;;Luciana Jorge Valle
+RIO GRANDE DO SUL;FSP - Fundação Saint Pastous;FUNDAÇÃO SAINT PASTOUS;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;;Luciana Seifriz Lima
+RIO GRANDE DO SUL;UNISC - Universidade de Santa Cruz do Sul;UNIVERSIDADE DE SANTA CRUZ DO SUL;CIRURGIA GERAL;1;Davi Carlos Brun
+RIO GRANDE DO SUL;UNISC - Universidade de Santa Cruz do Sul;UNIVERSIDADE DE SANTA CRUZ DO SUL;CIRURGIA GERAL;2;Yuri Peruffo De Avila
+RIO GRANDE DO SUL;UNISC - Universidade de Santa Cruz do Sul;UNIVERSIDADE DE SANTA CRUZ DO SUL;CIRURGIA GERAL;3;Augusto Faller
+RIO GRANDE DO SUL;UNISC - Universidade de Santa Cruz do Sul;UNIVERSIDADE DE SANTA CRUZ DO SUL;PEDIATRIA;1;Jenifer Grotto De Souza
+RIO GRANDE DO SUL;UNISC - Universidade de Santa Cruz do Sul;UNIVERSIDADE DE SANTA CRUZ DO SUL;PEDIATRIA;2.
+RIO GRANDE DO SUL;UNISC - Universidade de Santa Cruz do Sul;UNIVERSIDADE DE SANTA CRUZ DO SUL;PEDIATRIA;3;Lisandra Aline Martinelli
+RIO GRANDE DO SUL;UNISC - Universidade de Santa Cruz do Sul;UNIVERSIDADE DE SANTA CRUZ DO SUL;PEDIATRIA;4;Anna Carolina De Almeida Nogueira
+RIO GRANDE DO SUL;UNISC - Universidade de Santa Cruz do Sul;UNIVERSIDADE DE SANTA CRUZ DO SUL;GINECOLOGIA E OBSTETRÍCIA;1;Nicholas Dewes Specht
+RIO GRANDE DO SUL;UNISC - Universidade de Santa Cruz do Sul;UNIVERSIDADE DE SANTA CRUZ DO SUL;GINECOLOGIA E OBSTETRÍCIA;2.
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;PEDIATRIA;1;Gabriela Schönhofen Santos
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;PEDIATRIA;2;Bruna Torres Ruppenthal
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;PEDIATRIA;3.
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;PEDIATRIA;4;Jéssica Tozatti
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;PEDIATRIA;5;Yasmim Gambin Antonini
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;PEDIATRIA;6;Juliana Vieira Getirana
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;PEDIATRIA;7;Camila Noronha Hasse
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;PEDIATRIA;8;Tais Gregolin
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;PEDIATRIA;9;Mariana Teixeira D'avila
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;MEDICINA INTENSIVA;1;Leonardo Antunes Fuentes
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;MEDICINA INTENSIVA;2;Vinícius Furtado
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;MEDICINA INTENSIVA;3;Rodrigo Dos Santos Constantino Martins
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;NEFROLOGIA;1;Lívia Katz Santo
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;NEFROLOGIA;2;Carla De Oliveira Alves
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;CLÍNICA MÉDICA;1;Roberto Stalla Alves Da Fonseca
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;CLÍNICA MÉDICA;2.
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;CLÍNICA MÉDICA;3;Roberta Casanova Wilhelms
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;CLÍNICA MÉDICA;4;Fábio Barlem Hohmann
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;CLÍNICA MÉDICA;5;Elisa Azevedo De Souza
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;CLÍNICA MÉDICA;6.
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;CLÍNICA MÉDICA;7;Beatriz Garcia De Morais
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;CLÍNICA MÉDICA;8;Caroline Ronsoni Schneider
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;CLÍNICA MÉDICA;9;Vanessa Elizabeth Soares De Oliveira Lafayette De Sa Lima
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;CLÍNICA MÉDICA;10;Laisa Tamborlim Altrão
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;CLÍNICA MÉDICA;11;Jamerson Henrique Novais Santos
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;CLÍNICA MÉDICA;12.
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;CLÍNICA MÉDICA;13;Akell Menezes Dimas
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;CLÍNICA MÉDICA;14;Viviane Elisa Timm
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;CIRURGIA GERAL;1.
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;CIRURGIA GERAL;2;Matheus Vinícius Knack
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;CIRURGIA GERAL;3.
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;CIRURGIA GERAL;4;Rafael Netto Soares
+RIO GRANDE DO SUL;UCPEL - Universidade Católica de Pelotas;UNIVERSIDADE CATÓLICA DE PELOTAS;CIRURGIA GERAL;5;Yuri Peruffo De Avila
+RIO GRANDE DO SUL;HNSG RS - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;CLÍNICA MÉDICA;1;Renata Celso Mendes
+RIO GRANDE DO SUL;HNSG RS - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;CLÍNICA MÉDICA;2;Mariana Buhler
+RIO GRANDE DO SUL;HNSG RS - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;ORTOPEDIA E TRAUMATOLOGIA;1;Flavio Augusto Gava
+RIO GRANDE DO SUL;HNSG RS - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;OFTALMOLOGIA;1;Mariana Antunes Nunes
+RIO GRANDE DO SUL;HNSG RS - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;UROLOGIA;1;Ezequiel Rocha Mattos
+RIO GRANDE DO SUL;HNSG RS - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;UROLOGIA;2;Sherly Cabral Silva
+RIO GRANDE DO SUL;HNSG RS - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;CIRURGIA GERAL;1.
+RIO GRANDE DO SUL;HNSG RS - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;CIRURGIA GERAL;2;Livia Rodrigues
+RIO GRANDE DO SUL;HNSG RS - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;CIRURGIA GERAL;3;Bruna Brasil Carneiro
+RIO GRANDE DO SUL;PMA - Prefeitura Municipal de Alegrete;PREFEITURA MUNICIPAL DE ALEGRETE;PSIQUIATRIA;1;Lucas Nascimento Tavares
+RIO GRANDE DO SUL;PMA - Prefeitura Municipal de Alegrete;PREFEITURA MUNICIPAL DE ALEGRETE;PSIQUIATRIA;2;Carla Liz Viena
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;OBSTETRÍCIA E GINECOLOGIA;1;Bianca Bez Batti De Pellegrin
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;OBSTETRÍCIA E GINECOLOGIA;2;Kalinka Detogni Branco
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;OBSTETRÍCIA E GINECOLOGIA;3;Ana Clara Back De Luca
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;OBSTETRÍCIA E GINECOLOGIA;4;Juana Naspolini Coral
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;OBSTETRÍCIA E GINECOLOGIA;5;Marieli Wobeto Rohrig
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;OBSTETRÍCIA E GINECOLOGIA;6;Aline Verzignassi Silveira
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;OFTALMOLOGIA;1;Matheus Dallagasperina Pedro
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;OFTALMOLOGIA;2;Gabriela Rosa Lopes
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;OTORRINOLARINGOLOGIA;1;Mariele Bressan
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;PSIQUIATRIA;1;Carla Liz Viena
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;PSIQUIATRIA;2;Matheus Ramos Da Silva
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;PSIQUIATRIA;3;Josias Piaia
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;PSIQUIATRIA;4;Caroline Gewehr Tisott
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;MASTOLOGIA;1;Juliane Dal Vesco
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;MASTOLOGIA;2;Anita Schertel Cassiano
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;UROLOGIA;1;Arthur José Ghissi
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;UROLOGIA;2;Ricardo Segabinazzi Dotto
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;UROLOGIA;3;Artur De Oliveira Paludo
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;RADIOLOGIA;1;Elenisa Predebon Zanella
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CIRURGIA GERAL;1;Dirceu Felipe Valentini Junior
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CIRURGIA GERAL;2;Pedro Caetano Edler Zandoná
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CIRURGIA GERAL;3;Joao Victor Vecchi Ferri
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CIRURGIA GERAL;4.
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CIRURGIA GERAL;5;Carolina De Vargas Kives
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CIRURGIA GERAL;6;Luiza Rossi Pettinelli
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CIRURGIA GERAL;7;Felipe Maroneze Garcia
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CIRURGIA GERAL;8.
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CIRURGIA GERAL;9;Edgar Santin
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CIRURGIA GERAL;10;Douglas Da Costa Vanni
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CIRURGIA GERAL;11.
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;INFECTOLOGIA;1;Beatriz Arns
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;INFECTOLOGIA;2;Murillo Machado Cipolatt
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;INFECTOLOGIA;3.
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;NEUROLOGIA;1;Marina Coutinho Augustin
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;PEDIATRIA;1;Bruna Azario De Holanda
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;PEDIATRIA;2.
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;PEDIATRIA;3;Marcos Vinícios Razera
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;PEDIATRIA;4;Mariana Martins Denicol
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;PEDIATRIA;5;Fernanda De Oliveira Chiaradia
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;PEDIATRIA;6.
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;PEDIATRIA;7;Estefani Toledo Ortiz
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;PEDIATRIA;8.
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;PEDIATRIA;9;Fernanda Kupka Dias Da Silva
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;PEDIATRIA;10;Bruna Torres Ruppenthal
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CANCEROLOGIA CIRÚRGICA;1;Michele Morales Dos Santos
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CIRURGIA DO APARELHO DIGESTIVO;1;Rafael Nicola Branchi
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CIRURGIA TORÁCICA;1;Edson Ricardo Brambate Júnior
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CIRURGIA VASCULAR;1;Ricardo Henrique Cechinatto
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CIRURGIA VASCULAR;2;Marco Antonio Tiscoski Nesi
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;COLOPROCTOLOGIA;1;Marcos Paulo Barreto Saturnino
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CARDIOLOGIA;1;Osvaldo Fritzen De Lima
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CARDIOLOGIA;2;Marcelo Nicola Branchi
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CARDIOLOGIA;3;Kauan Roessler Mohr
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CARDIOLOGIA;4.
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CARDIOLOGIA;5;Heloisa Dagustin Poli
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CANCEROLOGIA CLÍNICA;1;Rui D´avila
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CANCEROLOGIA CLÍNICA;2.
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;ENDOCRINOLOGIA E METABOLOGIA;1;Camila Jardim De Almeida
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;ENDOCRINOLOGIA E METABOLOGIA;2;Julia De Luca Maccarini
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;GASTROENTEROLOGIA;1;Bruno Salomão Hirsch
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;GASTROENTEROLOGIA;2;Bianca Boff Sandi
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;HEMATOLOGIA E HEMOTERAPIA;1;Alice Lucena Nunes
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;HEMATOLOGIA E HEMOTERAPIA;2;Nicole Dozza Teixeira De Carvalho
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;MEDICINA INTENSIVA;1;Pedro Henrique Comerlato
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;MEDICINA INTENSIVA;2;Matheus Golenia Dos Passos
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;MEDICINA INTENSIVA;3;Gregory Saraiva Medeiros
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;MEDICINA INTENSIVA;4;José Abruzzi Júnior
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;REUMATOLOGIA;1;Vanessa Barrili Busato
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;REUMATOLOGIA;2;Guilherme Leví Tres
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;PNEUMOLOGIA;1;Rafaela Manzoni Bernardi
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;PNEUMOLOGIA;2.
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;ANGIORRADIOLOGIA E CIRURGIA ENDOVASCULAR;1;Lara Rech Poltronieri
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;ANGIORRADIOLOGIA E CIRURGIA ENDOVASCULAR;2;Marcos Maraskin Fonseca
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CLÍNICA MÉDICA R3;1;Sofia Dalpian Kuhn
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CLÍNICA MÉDICA R3;2;Gabriele Heinen Schuster
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CLÍNICA MÉDICA R3;3;Jane Elizabeth Malheiros De Souza
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CLÍNICA MÉDICA R3;4;Karina Lima Ferrari
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CLÍNICA MÉDICA R3;5;Fernando Castilho Venero
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;MEDICINA FETAL;1;Raquel Ronconi Tomaz
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CLÍNICA MÉDICA R3 (2º CONCURSO);1;Gustavo Paglioli Dannenhauer
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;ANESTESIOLOGIA;1;Lucas Pires Klassmann
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;ANESTESIOLOGIA;2;Luiza Alexi Freitas
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;ANESTESIOLOGIA;3;Vinícius Prieto Herman Reinehr
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;CIRURGIA GERAL R3;1;Rafael Cardoso Pires
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;ENDOCRINOLOGIA PEDIÁTRICA;1;Bruna Troian Camassola
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;NEUROLOGIA PEDIÁTRICA;1;Lais Merzoni
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;MEDICINA PALIATIVA;1;Roman Orzechowski
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL NOSSA SENHORA DA CONCEIÇÃO;DOR;1;Bruno Nunes Bristot
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL FÊMINA;NEONATOLOGIA;1;Cristina Rossi
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL FÊMINA;NEONATOLOGIA;2;Gabriela De Carvalho Nunes
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL FÊMINA;NEONATOLOGIA;3;Valeska Signor Debastiani
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL FÊMINA;ENDOSCOPIA GINECOLÓGICA;1;Rafaela Colle Donato
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL CRISTO REDENTOR;CIRURGIA PLÁSTICA;1;Maurício Milani
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL CRISTO REDENTOR;CIRURGIA PLÁSTICA;2;Larissa Dalla Costa Kusano
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL CRISTO REDENTOR;MEDICINA FÍSICA E REABILITAÇÃO;1;Tiago Silva De Almeida
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL CRISTO REDENTOR;NEUROCIRURGIA;1;Olavo Haas De Souza Gastal
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL CRISTO REDENTOR;NEUROCIRURGIA;2;Wanderson Willian Dos Santos
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL CRISTO REDENTOR;CIRURGIA DO TRAUMA;1;Marcos Paulo Barreto Saturnino
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL CRISTO REDENTOR;CIRURGIA DO TRAUMA;2;Romulo Cesar Costa Barbosa Filho
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL CRISTO REDENTOR;CIRURGIA DO TRAUMA;3;Henrique Rasia Bosi
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL CRISTO REDENTOR;CIRURGIA DO TRAUMA (2º CONCURSO);1;Camila Araujo Assad
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL DA CRIANÇA CONCEIÇÃO;NEONATOLOGIA;1;Martina Righi Alves
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL DA CRIANÇA CONCEIÇÃO;NEONATOLOGIA;2;Sheila Yuri Kawamoto
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL DA CRIANÇA CONCEIÇÃO;NEONATOLOGIA;3;Dhianny Francynny Souza Ribeiro
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL DA CRIANÇA CONCEIÇÃO;NEONATOLOGIA;4;Andiara De Souza Limberger
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL DA CRIANÇA CONCEIÇÃO;NEONATOLOGIA;5;Carine Lucena Rech
+RIO GRANDE DO SUL;GHC - Grupo Hospitalar Conceição;HOSPITAL DA CRIANÇA CONCEIÇÃO;CIRURGIA PEDIÁTRICA;1;Bruna Borlani
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Matheus Dorigatti Soldatelli
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Guilherme Thome Garcia
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;3;Karla Schoen
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;4;Elenisa Predebon Zanella
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;5;Bruna Da Silveira Arruda
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CIRURGIA GERAL;1;Dirceu Felipe Valentini Junior
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CIRURGIA GERAL;2;João Victor Vecchi Ferri
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CIRURGIA GERAL;3;Felipe Ferreira Laranjeira
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CIRURGIA GERAL;4;Tuane Colles
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CIRURGIA GERAL;5;Matheus Vinícius Knack
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CIRURGIA GERAL;6;Augusto Luiz Giongo
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CIRURGIA GERAL;7;Pedro Caetano Edler Zandoná
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CIRURGIA GERAL;8;Douglas Da Costa Vanni
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;NEUROLOGIA;1;Daniel Monte Freire Camelo
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;NEUROLOGIA;2;Marina Coutinho Augustin
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;NEUROLOGIA;3;Victor De Britto Gadelha
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;NEUROLOGIA;4;Matheus Zschornack Strelow
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;NEUROLOGIA;5;Leandro Silva Costa
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;NEUROLOGIA;6;Renan Flávio De França Nunes
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;OBSTETRÍCIA E GINECOLOGIA;1;Betina Oderich Da Costa
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;OBSTETRÍCIA E GINECOLOGIA;2;Luiza Machado Kobe
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;OBSTETRÍCIA E GINECOLOGIA;3;Marcela Siliprandi Lorentz
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;OBSTETRÍCIA E GINECOLOGIA;4;Gabriela Souza De Oliveira Freitas
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;OBSTETRÍCIA E GINECOLOGIA;5;Isis Mendes Barbosa
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;OBSTETRÍCIA E GINECOLOGIA;6;Lauren Marquardt Burmann
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;OFTALMOLOGIA;1;Lúcio Falavigna
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;OFTALMOLOGIA;2;Daniel De Souza Costa
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;OFTALMOLOGIA;3;Larissa Pinos Da Silva
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;OFTALMOLOGIA;4;Bruna Schmitt De Lacerda
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;OFTALMOLOGIA;5;Gabriel Dos Santos Gatti
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;OTORRINOLARINGOLOGIA;1;Larissa Petermann Jung
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;OTORRINOLARINGOLOGIA;2;Franciane Gonçalves Lima
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;OTORRINOLARINGOLOGIA;3;Maurício Fontoura Ferrão
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;OTORRINOLARINGOLOGIA;4;Matheus Nardi Rios
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CARDIOLOGIA;1;Eduardo Gatti Pianca
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CARDIOLOGIA;2;Guilherme Poyane Peixoto
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CARDIOLOGIA;3;Guilherme Dagostin De Carvalho
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CARDIOLOGIA;4;Rafael Coimbra Ferreira Beltrame
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CARDIOLOGIA;5;Aline Rosa Machado
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CARDIOLOGIA;6;Maurício Pérez Zeni
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;ANESTESIOLOGIA;1;Lucas Freitas De Oliveira
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;ANESTESIOLOGIA;2;André Dajori Ronchi
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;ANESTESIOLOGIA;3;Lucas Pires Klassmann
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;ANESTESIOLOGIA;4;Giuliano Machado Danesi
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;ANESTESIOLOGIA;5;Maurício Lizott
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;ANESTESIOLOGIA;6;Eduardo Schuch Reimann
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;ANESTESIOLOGIA;7;Katherine Coelho Gonçalves
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;ANESTESIOLOGIA;8;Renata Sberse Bernardi
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;ANESTESIOLOGIA;9;Carlos Maestri Castilhos
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;ANESTESIOLOGIA;10;Andreas Hörner
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;ANESTESIOLOGIA;11;Artur Piccaro De Oliveira
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;ANESTESIOLOGIA;12.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CLÍNICA MÉDICA;1;Ricardo Dahmer Tiecher
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CLÍNICA MÉDICA;2.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CLÍNICA MÉDICA;3;Rafael Junges Spada
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CLÍNICA MÉDICA;4;Filipe Alves Souza
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CLÍNICA MÉDICA;5;Lucas Carlini Ogliari
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CLÍNICA MÉDICA;6;Daniel Trevisan Jost
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CLÍNICA MÉDICA;7;Marcos Frata Rihl
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CLÍNICA MÉDICA;8.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CLÍNICA MÉDICA;9;Ana Laura Fischer Kunzler
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CLÍNICA MÉDICA;10;Priscila Silva
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CLÍNICA MÉDICA;11;Rafaela Bernardo Gerson
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CLÍNICA MÉDICA;12;Valéria Rossato
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CLÍNICA MÉDICA;13;Roberto Stalla Alves Da Fonseca
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CLÍNICA MÉDICA;14;Marina Butzke
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CLÍNICA MÉDICA;15.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CLÍNICA MÉDICA;16;Thiago Talamini De Andrade
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CLÍNICA MÉDICA;17;Fabiane Marson
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;DERMATOLOGIA;1;Cintia Junia Masson
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;DERMATOLOGIA;2;Renata Bolzan Gindri
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;DERMATOLOGIA;3;Shaiane Gazzi
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;DERMATOLOGIA;4.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;DERMATOLOGIA;5;Fernanda Joner Mattias
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;DERMATOLOGIA;6;Beatriz Da Silva Souza
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;INFECTOLOGIA;1;Murillo Machado Cipolatt
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;INFECTOLOGIA;2;Beatriz Arns
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;MEDICINA DO TRABALHO;1;Renata Coelho Pucci
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;MEDICINA DO TRABALHO;2;Fabiane Brados Farias
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;MEDICINA DO TRABALHO;3;Norberto Pisacco Foster
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;MEDICINA FÍSICA E REABILITAÇÃO;1;Tabita Smarzaro Wachholz
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;MEDICINA FÍSICA E REABILITAÇÃO;2;Xaari Wani Medina
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;MEDICINA NUCLEAR;1;Yannah Moura Araújo Cardoso Pontes
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;NEUROCIRURGIA;1;Olavo Haas De Souza Gastal
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA;1;Felipe Rossatto Franceschi
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA;2;Arthur Caye
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA;3.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA;4;Luiza Silveira Lucas
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA;5;Caio Gibaile Soares Silva
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA;6;Paola Bell Felix De Oliveira
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA;7;André Liedtke
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA;8;Luiz Eduardo Moraes Osorio
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA;9;Alexandre Bacelar Almeida
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA;10;Felipe Radtke Becker
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA;11;Manuela Lucas De Mélo
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA;12.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA (ANO OPCIONAL);1;Guilherme Loureiro Fracasso
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA (ANO OPCIONAL);2;Diego Rico França Dos Santos
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CANCEROLOGIA CIRÚRGICA;1;Paola Barros Morsch
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CANCEROLOGIA CLÍNICA;1.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CANCEROLOGIA CLÍNICA;2;Rafaela Kirchner Piccoli
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CANCEROLOGIA CLÍNICA;3;Rui D´avila
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CANCEROLOGIA CLÍNICA;4.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CANCEROLOGIA CLÍNICA;5;Matheus De Aquino Moreira Guimaraes
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CANCEROLOGIA PEDIÁTRICA;1;Bárbara Sandi Pozzer
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CANCEROLOGIA PEDIÁTRICA;2.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CIRURGIA CARDIOVASCULAR;1;Vinícius Franchini Torres
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CIRURGIA DO APARELHO DIGESTIVO;1;Henrique Rasia Bosi
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CIRURGIA DO APARELHO DIGESTIVO;2;Lucas Ernani
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CIRURGIA DO APARELHO DIGESTIVO;3.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CIRURGIA DO APARELHO DIGESTIVO;4;Rafael Nicola Branchi
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CIRURGIA PLÁSTICA;1;Carlo Mognon Mattiello
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CIRURGIA TORÁCICA;1;Caroline Losekann
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;COLOPROCTOLOGIA;1;Laura Foresti Jiménez
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;GERIATRIA;1.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;GERIATRIA;2;Mariane Jodar Cavalheiro
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;GERIATRIA;3;Thadeu Jairo Guerra Silva
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;MASTOLOGIA;1;Anita Schertel Cassiano
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;MEDICINA INTENSIVA;1;Pedro Henrique Comerlato
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;MEDICINA INTENSIVA;2;Gregory Saraiva Medeiros
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;MEDICINA INTENSIVA;3;Fernanda Pires Costa
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;MEDICINA INTENSIVA;4;Matheus Golenia Dos Passos
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;MEDICINA INTENSIVA;5;Gabriela Nonticuri Bianchi
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;MEDICINA INTENSIVA;6;José Abruzzi Júnior
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;MEDICINA INTENSIVA;7.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;NEFROLOGIA;1;Alexandre Curi Jorge Vargas
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;NEFROLOGIA;2;Carolina Lotfi Saab
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;NEFROLOGIA;3;Fernanda Bresciani
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;NEFROLOGIA;4;Saulo Roberto Martins Beiruth
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;NUTROLOGIA;1;Francine Lopes Petry
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;NUTROLOGIA;2;Ana Paula Anklam
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PNEUMOLOGIA;1;Lísia Cunha Cé
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PNEUMOLOGIA;2;Rafaela Manzoni Bernardi
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PNEUMOLOGIA;3.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PNEUMOLOGIA;4;Ana Luiza Pagani Fonseca
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;REUMATOLOGIA;1.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;REUMATOLOGIA;2;Guilherme Leví Tres
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;REUMATOLOGIA;3;Diego Ustárroz Cantali
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;UROLOGIA;1;Artur De Oliveira Paludo
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;UROLOGIA;2.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;UROLOGIA;3;Arthur José Ghissi
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;UROLOGIA;4;Aline Gularte Teixeira Da Silva
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;ECOCARDIOGRAFIA;1;Filipe Cirne
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;ECOCARDIOGRAFIA;2;Ana Carolina Martins Mazzuca
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;ELETROFISIOLOGIA CLÍNICA INVASIVA;1;Gabriela Bem
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;HEMODINÂMICA E CARDIOLOGIA INTERVENCIONISTA;1;Felipe Pereira Lima Marques
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;ANGIORRADIOLOGIA E CIRURGIA ENDOVASCULAR;1;Arthur Anselmi
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;ANGIORRADIOLOGIA E CIRURGIA ENDOVASCULAR;2;Lucas Guazzelli Paim Paniz
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;NEUROFISIOLOGIA CLÍNICA;1;Leonardo Cordenonzi Pedroso De Albuquerque
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;ENDOSCOPIA GINECOLÓGICA;1;Camila Karsburg Bessow
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;MEDICINA FETAL;1;Sarah Louise De Araujo Cabral
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CITOPATOLOGIA;1;Vitor Barreto Santana
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;EMERGÊNCIA PEDIÁTRICA;1;Bianca Zandoná
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;EMERGÊNCIA PEDIÁTRICA;2;Milton Gross Júnior
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;GASTROENTEROLOGIA PEDIÁTRICA;1.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;GASTROENTEROLOGIA PEDIÁTRICA;2;Luiza Nader
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;GASTROENTEROLOGIA PEDIÁTRICA;3;Karoline Bigolin Stiegemaier
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;HEMATOLOGIA E HEMOTERAPIA PEDIÁTRICA;1;Luciana Marquardt Da Silveira
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;HEMATOLOGIA E HEMOTERAPIA PEDIÁTRICA;2;Roberta Horlle Lahude
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;NEONATOLOGIA;1.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;NEONATOLOGIA;2;Fernanda Scalzilli Tannhauser
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;NEONATOLOGIA;3;Gabriela De Carvalho Nunes
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;NEONATOLOGIA;4;Valeska Signor Debastiani
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;NEONATOLOGIA;5;Andiara De Souza Limberger
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PNEUMOLOGIA PEDIÁTRICA;1;Bruna Freire Accorsi
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PNEUMOLOGIA PEDIÁTRICA;2.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PNEUMOLOGIA PEDIÁTRICA;3;Gustavo De Oliveira Bernardo
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;MEDICINA DO SONO;1;Karina Sandini De Souza
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;MEDICINA DO SONO;2;Gustavo Picolotto
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSICOTERAPIA;1;Grasiela Marcon
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA DA INFÂNCIA E ADOLESCÊNCIA;1;Jairo Vinicius Merege De Melo Cruz Pinto
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA DA INFÂNCIA E ADOLESCÊNCIA;2;Silvia Marchesan De Pra
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA DA INFÂNCIA E ADOLESCÊNCIA;3.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA DA INFÂNCIA E ADOLESCÊNCIA;4;Mariana La Bella Costa
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA DA INFÂNCIA E ADOLESCÊNCIA;5;José Alberto Orrego Junior
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA FORENSE;1;Diones Cavali
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;DOR;1;Larissa De Oliveira Cruz
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;DOR;2;Guilherme De Oliveira Venturini
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;TRANSPLANTE DE CORAÇÃO;1;Fernanda Scussel
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;TRANSPLANTE DE RIM;1;Bruno Fontes Lichtenfels
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;TRANSPLANTE DE RIM;2.
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;TRANSPLANTE DE CÓRNEA;1;Gabriela Maria Zambon
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;TRANSPLANTE DE CÓRNEA;2;Jayme Pichler Von Tennenberg Wendhausen
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PATOLOGIA CLÍNICA/MEDICINA LABORATORIAL;1;Bibiana Tiellet
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;TRANSPLANTE DE CORAÇÃO (2º CONCURSO);1;Ana Paula Chedid Mendes
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;CIRURGIA CRANIOMAXILOFACIAL;1;Laurício Cassol Argenta
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;TRANSPLANTE DE MEDULA ÓSSEA;1;Mariana Pinto Pereira
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;TRANSPLANTE DE MEDULA ÓSSEA;2;Ana Claudia Dalloglio
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;ADMINISTRAÇÃO EM SAÚDE;1;Mauricio Godinho Kolling
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;ADMINISTRAÇÃO EM SAÚDE;2;Juliana Rosito Pinto Kruel
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;OBSTETRÍCIA E GINECOLOGIA (ANO OPCIONAL);1;Samanta Schneider
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;OBSTETRÍCIA E GINECOLOGIA (ANO OPCIONAL);2;Giovana Fontes Rosin
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;MEDICINA INTENSIVA PEDIÁTRICA (2º CONCURSO);1;Natasha Santos Mata
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSICOTERAPIA (2º CONCURSO);1;Vitor Marcelo Blazius
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSICOTERAPIA (2º CONCURSO);2;Luis Francisco Ramos Lima
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA DA INFÂNCIA E ADOLESCÊNCIA (2º CONCURSO);1;Fabiane Berti Schmidt
+RIO GRANDE DO SUL;HCPA - Hospital de Clínicas de Porto Alegre;HOSPITAL DE CLÍNICAS DE PORTO ALEGRE;PSIQUIATRIA DA INFÂNCIA E ADOLESCÊNCIA (2º CONCURSO);2.
+RIO GRANDE DO SUL;HMV - Hospital Moinhos de Ventos;HOSPITAL MOINHOS DE VENTOS;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Elenisa Predebon Zanella
+RIO GRANDE DO SUL;HMV - Hospital Moinhos de Ventos;HOSPITAL MOINHOS DE VENTOS;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Martina Zaguini Francisco
+RIO GRANDE DO SUL;HMV - Hospital Moinhos de Ventos;HOSPITAL MOINHOS DE VENTOS;CLÍNICA MÉDICA;1;Michele Janaina Gracioli
+RIO GRANDE DO SUL;HMV - Hospital Moinhos de Ventos;HOSPITAL MOINHOS DE VENTOS;CLÍNICA MÉDICA;2;Ana Laura Fischer Kunzler
+RIO GRANDE DO SUL;HMV - Hospital Moinhos de Ventos;HOSPITAL MOINHOS DE VENTOS;NEUROLOGIA;1;Thaís Leite Secchi
+RIO GRANDE DO SUL;HMV - Hospital Moinhos de Ventos;HOSPITAL MOINHOS DE VENTOS;NEUROLOGIA;2;Bruna Caroline Bastida De Andrade
+RIO GRANDE DO SUL;HMV - Hospital Moinhos de Ventos;HOSPITAL MOINHOS DE VENTOS;MEDICINA INTENSIVA;1;Gregory Saraiva Medeiros
+RIO GRANDE DO SUL;HMV - Hospital Moinhos de Ventos;HOSPITAL MOINHOS DE VENTOS;MEDICINA INTENSIVA;2;Vitória Homem Machado
+RIO GRANDE DO SUL;HMV - Hospital Moinhos de Ventos;HOSPITAL MOINHOS DE VENTOS;MASTOLOGIA;1;Isabela Albuquerque Severo De Miranda
+RIO GRANDE DO SUL;HMV - Hospital Moinhos de Ventos;HOSPITAL MOINHOS DE VENTOS;CLÍNICA MÉDICA (2º CONCURSO);1;Fábio Barlem Hohmann
+RIO GRANDE DO SUL;HMV - Hospital Moinhos de Ventos;HOSPITAL MOINHOS DE VENTOS;CARDIOLOGIA;1;Heloisa Dagustin Poli
+RIO GRANDE DO SUL;HMV - Hospital Moinhos de Ventos;HOSPITAL MOINHOS DE VENTOS;CARDIOLOGIA;2;Grace Huscher
+RIO GRANDE DO SUL;HMV - Hospital Moinhos de Ventos;HOSPITAL MOINHOS DE VENTOS;CANCEROLOGIA CLÍNICA;1;Rui D´avila
+RIO GRANDE DO SUL;ACCVR - Associação Cultural e Científica Virvi Ramos;ASSOCIAÇÃO CULTURAL E CIENTÍFICA VIRVI RAMOS;CIRURGIA GERAL;1;Mateus Antunes Masotti
+RIO GRANDE DO SUL;ACCVR - Associação Cultural e Científica Virvi Ramos;ASSOCIAÇÃO CULTURAL E CIENTÍFICA VIRVI RAMOS;CLÍNICA MÉDICA;1;Niala Porto Franca
+RIO GRANDE DO SUL;ACCVR - Associação Cultural e Científica Virvi Ramos;ASSOCIAÇÃO CULTURAL E CIENTÍFICA VIRVI RAMOS;CLÍNICA MÉDICA;2;Geniffer Curtinaz Cardoso
+RIO GRANDE DO SUL;ACCVR - Associação Cultural e Científica Virvi Ramos;ASSOCIAÇÃO CULTURAL E CIENTÍFICA VIRVI RAMOS;CLÍNICA MÉDICA;3;Mariana Buhler
+RIO GRANDE DO SUL;ACSCRG - Associação de Caridade Santa Casa do Rio Grande;ASSOCIAÇÃO DE CARIDADE SANTA CASA DO RIO GRANDE;CIRURGIA GERAL;;Bruna Brasil Carneiro
+RIO GRANDE DO SUL;ACSCRG - Associação de Caridade Santa Casa do Rio Grande;ASSOCIAÇÃO DE CARIDADE SANTA CASA DO RIO GRANDE;CIRURGIA GERAL;;Gustavo Romeiro De Souza
+RIO GRANDE DO SUL;ACSCRG - Associação de Caridade Santa Casa do Rio Grande;ASSOCIAÇÃO DE CARIDADE SANTA CASA DO RIO GRANDE;CLÍNICA MÉDICA;;Anelise Nehls
+RIO GRANDE DO SUL;ACSCRG - Associação de Caridade Santa Casa do Rio Grande;ASSOCIAÇÃO DE CARIDADE SANTA CASA DO RIO GRANDE;CLÍNICA MÉDICA;;Bruna Freire Luna
+RIO GRANDE DO SUL;ACSCRG - Associação de Caridade Santa Casa do Rio Grande;ASSOCIAÇÃO DE CARIDADE SANTA CASA DO RIO GRANDE;CLÍNICA MÉDICA;;Gustavo Fernandes Garbui
+RIO GRANDE DO SUL;ACSCRG - Associação de Caridade Santa Casa do Rio Grande;ASSOCIAÇÃO DE CARIDADE SANTA CASA DO RIO GRANDE;CLÍNICA MÉDICA;;Manoel Bastos Ribeiro Neto
+RIO GRANDE DO SUL;ACSCRG - Associação de Caridade Santa Casa do Rio Grande;ASSOCIAÇÃO DE CARIDADE SANTA CASA DO RIO GRANDE;CLÍNICA MÉDICA;;Nader Abd Ali
+RIO GRANDE DO SUL;ACSCRG - Associação de Caridade Santa Casa do Rio Grande;ASSOCIAÇÃO DE CARIDADE SANTA CASA DO RIO GRANDE;CLÍNICA MÉDICA;;Rachel Pillar
+RIO GRANDE DO SUL;ACSCRG - Associação de Caridade Santa Casa do Rio Grande;ASSOCIAÇÃO DE CARIDADE SANTA CASA DO RIO GRANDE;CLÍNICA MÉDICA;;Victoria Schmidt Ramos
+RIO GRANDE DO SUL;ACSCRG - Associação de Caridade Santa Casa do Rio Grande;ASSOCIAÇÃO DE CARIDADE SANTA CASA DO RIO GRANDE;PSIQUIATRIA;;Vanessa Feo Da Silva
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;PEDIATRIA;1;Jaqueline De Lima Paim
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;PEDIATRIA;2;Carolina Vianna Gerber
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;PEDIATRIA;3;Caterina Augusta Mossi Frizzo
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;PEDIATRIA;4;Jalusa Mantovani
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;PEDIATRIA;5;João Lucas Garcia Liranco
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Manoella Balbinotti Ferreira
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Egon Lutkemeier Junior
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;3;Luísa Assoni Santin
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;CANCEROLOGIA;1;Samara Piccoli
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;CANCEROLOGIA;2;Mahira De Oliveira Lopes Da Rosa
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;NEONATOLOGIA;1;Catherine Wendling Gotardo
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;NEONATOLOGIA;2;Marina Helena Capra
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;GINECOLOGIA E OBSTETRÍCIA;1;Fernanda Giacomello
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;GINECOLOGIA E OBSTETRÍCIA;2;Iriana Maria Lorandi Bertin
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;GINECOLOGIA E OBSTETRÍCIA;3.
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;GINECOLOGIA E OBSTETRÍCIA;4;Fernanda Regina Becker
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;CLÍNICA MÉDICA;1;Bruna Berno Motke
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;CLÍNICA MÉDICA;2;Leandro Gazziero Rech
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;CLÍNICA MÉDICA;3;Diogo Warpechowski Da Silva
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;CLÍNICA MÉDICA;4;Virginia Rech Comis
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;CLÍNICA MÉDICA;5;Luiz Alfredo Zappe Fiori
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;CLÍNICA MÉDICA;6.
+RIO GRANDE DO SUL;UCS - Universidade Caxias do Sul;UNIVERSIDADE CAXIAS DO SUL;CLÍNICA MÉDICA;7;Geniffer Curtinaz Cardoso
+RIO GRANDE DO SUL;HBO - Hospital Banco de Olhos;HOSPITAL BANCO DE OLHOS;OFTALMOLOGIA;1;Gabriela Rosa Lopes
+RIO GRANDE DO SUL;HBO - Hospital Banco de Olhos;HOSPITAL BANCO DE OLHOS;OFTALMOLOGIA;2;Lúcio Falavigna
+RIO GRANDE DO SUL;HBO - Hospital Banco de Olhos;HOSPITAL BANCO DE OLHOS;OFTALMOLOGIA;3;Gabriel Dos Santos Gatti
+RIO GRANDE DO SUL;HBO - Hospital Banco de Olhos;HOSPITAL BANCO DE OLHOS;OFTALMOLOGIA;4;Fernando Fleck
+RIO GRANDE DO SUL;HBO - Hospital Banco de Olhos;HOSPITAL BANCO DE OLHOS;OFTALMOLOGIA;5;Gabriela Lucateli Zanata
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;ANESTESIOLOGIA;1;Lucas Venturini Zottele
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;ANESTESIOLOGIA;2;Camila Burger Pozzebon
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;ANESTESIOLOGIA;3;Andrei Rodrigo Haesbaert
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;ANESTESIOLOGIA;4;Leonardo Jose Scarton Forgiarini
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;ANESTESIOLOGIA;5;Matheus Bolzan Beria
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;CIRURGIA GERAL;1;Mateus Gabriel Dropa
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;CIRURGIA GERAL;2;Daniel Perin Nunes
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;OTORRINOLARINGOLOGIA;1;Iazmim Samih Hamed Mohd Houdali
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;OTORRINOLARINGOLOGIA;2;Araê Rigão De Oliveira
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;PEDIATRIA;1;Fernanda Kupka Dias Da Silva
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;PEDIATRIA;2;Monica Basso Zanotto
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;PEDIATRIA;3;Debora Stefanello Golart
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;PEDIATRIA;4;Yasmim Gambin Antonini
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;PEDIATRIA;5;Fernanda Do Nascimento
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;PEDIATRIA;6;Dionéia Tatsch Bonatto
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;PEDIATRIA;7;Maria Fernanda Mandarino Coppi
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;PEDIATRIA;8.
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;PEDIATRIA;9;Júlia Drebes Wouters
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;PEDIATRIA;10;Iryann Karla Souza Morandini
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;CLÍNICA MÉDICA;1;Bruna Santos Da Cunha
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;CLÍNICA MÉDICA;2;Giulia Bevilacqua Schmitz
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;CLÍNICA MÉDICA;3.
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;CLÍNICA MÉDICA;4;Rodrigo Moraes Reis
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;CLÍNICA MÉDICA;5;Renan Chaves Custódio
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;CLÍNICA MÉDICA;6;Amadeu Antonio Bertuol Filho
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;CLÍNICA MÉDICA;7;Tiago Cancian
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;CLÍNICA MÉDICA;8;Quelen Martins Braga
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;CLÍNICA MÉDICA;9;Letícia De Jesus Rossato
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;DERMATOLOGIA;1;Eduardo Batista Schneider
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;DERMATOLOGIA;2;Luiza Metzdorf
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Milene Da Silva Antunes
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Karen Koff Da Costa
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;PSIQUIATRIA;1;Pedro Henrique Canova Mosele
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;PSIQUIATRIA;2;Érica Dayanne Meireles Leite
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;PSIQUIATRIA;3.
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;PSICOTERAPIA;1;Felipe Salles De Salles
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;CIRURGIA DE CABEÇA E PESCOÇO;1;Rafael Cardoso Pires
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;CIRURGIA TORÁCICA;1;Vinicius Antonio Bareta
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;GASTROENTEROLOGIA;1;Alessandro Theisen Fischer
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;GASTROENTEROLOGIA;2.
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;MASTOLOGIA;1;Adriano Imperatori
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;MEDICINA INTENSIVA;1;Vanessa Nunes Mazzucco
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;MEDICINA INTENSIVA;2;Bianca Rodrigues Dos Santos
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;CANCEROLOGIA PEDIÁTRICA;1;Kaliandra De Almeida
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;CANCEROLOGIA PEDIÁTRICA;2;Camila Voos Soares
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;CIRURGIA DO APARELHO DIGESTIVO;1;Joao Paulo Seibel
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;CIRURGIA DO TRAUMA;1;Rafael Simon Ribeiro Townsend
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;ENDOSCOPIA DIGESTIVA;1;Juliano Almeida Loitzenbauer
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;MEDICINA FETAL;1;Sarah Louise De Araujo Cabral
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;MEDICINA FETAL;2.
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;INFECTOLOGIA;1;Beatriz Arns
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;INFECTOLOGIA;2.
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;OBSTETRÍCIA E GINECOLOGIA;1;Kelly Campara
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;OBSTETRÍCIA E GINECOLOGIA;2;Carolina Saling
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;OBSTETRÍCIA E GINECOLOGIA;3.
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;OBSTETRÍCIA E GINECOLOGIA;4;Marcel Mocellin Bernardi
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;OBSTETRÍCIA E GINECOLOGIA;5;Marieli Wobeto Rohrig
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;OBSTETRÍCIA E GINECOLOGIA;6;Pauline Cureau Miechuanski
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;CANCEROLOGIA CLÍNICA;1;Guilherme Schunke Brondani
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;CANCEROLOGIA CLÍNICA;2;Mahira De Oliveira Lopes Da Rosa
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;CIRURGIA VASCULAR;1;Alex Mengue Wojcicki
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;HEMATOLOGIA E HEMOTERAPIA;1;Rui Fernando Cardoso
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;HEMATOLOGIA E HEMOTERAPIA;2.
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;PNEUMOLOGIA;1;Gabriela De Castro Alonso
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;PNEUMOLOGIA;2.
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;UROLOGIA;1;Ezequiel Rocha Mattos
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;RADIOTERAPIA;1;Valnir Silveira Gonçalves Junior
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;COLOPROCTOLOGIA;1;Guilherme Fantoni Tasquetto
+RIO GRANDE DO SUL;UFSM - Universidade Federal de Santa Maria;UNIVERSIDADE FEDERAL DE SANTA MARIA;MEDICINA FETAL (2º CONCURSO);1;Vanessa Cristina Grolli Klein
+RIO GRANDE DO SUL;FSNH - Fundação de Saúde Pública de Novo Hamburgo;FUNDAÇÃO DE SAÚDE PÚBLICA DE NOVO HAMBURGO;CLÍNICA MÉDICA;1;Leandro Silveira Marmitt
+RIO GRANDE DO SUL;FSNH - Fundação de Saúde Pública de Novo Hamburgo;FUNDAÇÃO DE SAÚDE PÚBLICA DE NOVO HAMBURGO;CLÍNICA MÉDICA;2.
+RIO GRANDE DO SUL;FSNH - Fundação de Saúde Pública de Novo Hamburgo;FUNDAÇÃO DE SAÚDE PÚBLICA DE NOVO HAMBURGO;MEDICINA INTENSIVA;1;Viviane Gehlen
