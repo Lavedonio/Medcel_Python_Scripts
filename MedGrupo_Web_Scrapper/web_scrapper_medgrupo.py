@@ -1,5 +1,6 @@
 import os
 import sys
+import platform
 import time
 import logging
 import logging.config
@@ -19,9 +20,10 @@ logging.config.dictConfig({
 
 
 def notify(title, text):
-    os.system("""
-              osascript -e 'display notification "{}" with title "{}"'
-              """.format(text, title))
+    if platform.system() == "Darwin":
+        os.system("""
+                  osascript -e 'display notification "{}" with title "{}"'
+                  """.format(text, title))
 
 
 # <------------------- File Handler ------------------>
@@ -343,7 +345,7 @@ def coletar_aprovados_instituicao_DEPRICATED():
     driver.quit()
 
 
-def coletar_aprovados_instituicao(confirmar_dados=True, abrir_driver=True, driver=None, coletar_todos_aprovados=False):
+def coletar_aprovados_instituicao(confirmar_dados=True, notificar=False, abrir_driver=True, driver=None, coletar_todos_aprovados=False):
     logging.debug("abrir_driver = {}".format(abrir_driver))
     if abrir_driver:
         logging.info("Inicializando driver.")
@@ -482,6 +484,11 @@ def coletar_aprovados_instituicao(confirmar_dados=True, abrir_driver=True, drive
                 driver.quit()
                 raise e
 
+    if notificar:
+        if erro_referencia:
+            notify("Instituição concluída (com erros)", "Retirada de dados da instituição {} concluída com erro de referência. Verifique arquivo gerado.".format(instituicao_text_sigla))
+        else:
+            notify("Instituição concluída", "Retirada de dados da instituição {} concluída sem erros".format(instituicao_text))
     logging.info("Fim da leitura da instituição.")
     return driver, erro_referencia
 
@@ -511,7 +518,7 @@ def file_handling(ano_text, estado_text, instituicao_text_sigla):
     return os.path.join(os.getcwd(), file_path, file_name)
 
 
-def coletar_aprovados_estado(confirmar_dados=True, abrir_driver=True, enable_skipping=False, driver=None):
+def coletar_aprovados_estado(confirmar_dados=True, notificar=False, abrir_driver=True, enable_skipping=False, driver=None):
     if abrir_driver:
         my_url = "https://site.medgrupo.com.br/#/aprovacoes"
 
@@ -584,6 +591,12 @@ def coletar_aprovados_estado(confirmar_dados=True, abrir_driver=True, enable_ski
         else:
             logging.info("Pulou estado {}".format(estado_text))
 
+    if notificar:
+        if len(instituicoes_erros_referencia) > 0:
+            notify("Estado concluído (com erros)", "Retirada de dados do Estado {} concluído com {} erros de referência. Verifique arquivos gerados.".format(estado_text, len(instituicoes_erros_referencia)))
+        else:
+            notify("Estado concluído", "Retirada de dados do Estado {} concluído sem erros de referência.".format(estado_text))
+
     if len(instituicoes_erros_referencia) > 0:
         logging.warning("------ {} erros de referência ao coletar as instituições. Instituições afetadas:".format(len(instituicoes_erros_referencia)))
         for erro_referencia in instituicoes_erros_referencia:
@@ -596,7 +609,7 @@ def coletar_aprovados_estado(confirmar_dados=True, abrir_driver=True, enable_ski
     return driver, estado_erros_referencia
 
 
-def coletar_aprovados_ano(confirmar_dados=True, enable_skipping=False, enable_skipping_instituicoes=False):
+def coletar_aprovados_ano(confirmar_dados=True, notificar=False, enable_skipping=False, enable_skipping_instituicoes=False):
     my_url = "https://site.medgrupo.com.br/#/aprovacoes"
 
     all_erros_referencia = {}
@@ -692,6 +705,12 @@ def coletar_aprovados_ano(confirmar_dados=True, enable_skipping=False, enable_sk
         if skip.lower() != "s":
             _, erros_referencia = coletar_aprovados_estado(confirmar_dados=confirmar_dados, abrir_driver=False, enable_skipping=enable_skipping_instituicoes, driver=driver)
 
+            if notificar:
+                if len(erros_referencia[estado_text]) > 0:
+                    notify("Estado concluído (com erros)", "Retirada de dados do Estado {} concluído com {} erros de referência. Verifique arquivos gerados.".format(estado_text, len(erros_referencia[estado_text])))
+                else:
+                    notify("Estado concluído", "Retirada de dados do Estado {} concluído sem erros de referência.".format(estado_text))
+
             if len(erros_referencia) > 0:
                 all_erros_referencia.update(erros_referencia)
         else:
@@ -709,6 +728,12 @@ def coletar_aprovados_ano(confirmar_dados=True, enable_skipping=False, enable_sk
                 logging.warning(">>> {}".format(instituicao))
     else:
         logging.info("------ {} erros de referência ao coletar as instituições.".format(len(instituicoes_erros_referencia)))
+
+    if notificar:
+        if len(all_erros_referencia) > 0:
+            notify("Aprovados de {} concluído (com erros)", "Retirada de dados de {} Estados com erros de referência. Verifique arquivos gerados.".format(ano, len(all_erros_referencia)))
+        else:
+            notify("Aprovados de {} concluído", "Retirada de dados concluída sem erros de referência.".format(ano))
 
     return driver
 
@@ -784,6 +809,7 @@ def main():
 
     # Valores default
     DEBUG = False
+    notificar = False
     skip = False
     skip_all = False
     concatenar = False
@@ -802,6 +828,10 @@ def main():
                 if arg.lower() == "-d" or arg.lower() == "--debug":
                     DEBUG = True
                     logging.info("Modo debug ativado.")
+
+                if platform.sistem() == "Darwin" and (arg.lower() == "-n" or arg.lower() == "--notify"):
+                    notificar = True
+                    logging.info("Ativando notificações do MacOS.")
 
                 if arg.lower() == "-s" or arg.lower() == "--skip":
                     skip = True
@@ -878,6 +908,20 @@ def main():
             DEBUG = True
             logging.info("Modo debug ativado.")
 
+        if platform.system() == "Darwin":
+            print("\nAtivar notificações de input e fim de execução?\n")
+            print("1. Sim")
+            print("2. Não\n")
+            notificar_opcao = input("Digite a opção: ")
+            logging.debug("notificar = %s" % (notificar_opcao))
+
+            if notificar_opcao == '1':
+                notificar = True
+                logging.info("Notificações ativadas.")
+            else:
+                notificar = False
+                logging.info("Notificações desativadas.")
+
         print("\nAtivar opção de pular estado/instituição?\n")
         print("1. Sim, apenas estado.")
         print("2. Sim, estado e instituição.")
@@ -906,10 +950,10 @@ def main():
 
         if concat_option == '2':
             concatenar = False
-            logging.info("Modo debug desativado.")
+            logging.info("Notificações desativadas.")
         else:
             concatenar = True
-            logging.info("Modo debug ativado.")
+            logging.info("Ativando notificações do MacOS.")
 
     # if len(sys.argv) > 1:
     #     opcao = str(sys.argv[1])
@@ -960,10 +1004,10 @@ def main():
     if not somente_concatenar:
         if opcao == '1':
             logging.info("Selecionado: coletar_aprovados_ano()")
-            driver = coletar_aprovados_ano(confirmar_dados=DEBUG, enable_skipping=skip, enable_skipping_instituicoes=skip_all)
+            driver = coletar_aprovados_ano(confirmar_dados=DEBUG, notificar=notificar, enable_skipping=skip, enable_skipping_instituicoes=skip_all)
         elif opcao == '2':
             logging.info("Selecionado: coletar_aprovados_estado()")
-            driver, _ = coletar_aprovados_estado(confirmar_dados=DEBUG, enable_skipping=skip)
+            driver, _ = coletar_aprovados_estado(confirmar_dados=DEBUG, notificar=notificar, enable_skipping=skip)
         elif opcao == '3':
             logging.info("Selecionado: coletar_aprovados_instituicao()")
 
@@ -986,10 +1030,11 @@ def main():
                     print("Coletando apenas os nomes destacados de uma instituição\n")
                     logging.info("[Sub-Menu] Selecionado: Coletar somente nomes marcados como aprovados.")
 
-            driver, _ = coletar_aprovados_instituicao(confirmar_dados=DEBUG, coletar_todos_aprovados=opcao_coleta)
+            driver, _ = coletar_aprovados_instituicao(confirmar_dados=DEBUG, notificar=notificar, coletar_todos_aprovados=opcao_coleta)
         else:
             logging.info("Nenhuma opção válida selecionada. Abortando operação...")
             logging.info("Fim da execução. <<<<<<<<<<<<<<<<<<<<<\n\n\n\n\n\n")
+            print("Nenhuma opção válida selecionada.")
             print("Abortando...")
             sys.exit()
 
@@ -1007,17 +1052,36 @@ def main():
 def help():
     print("\n>>>>>> HELP: Ajuda do Web Scrapper.")
     print("")
+    print("Uso: python web_scrapper_medgrupo.py [-h | --Help] [-d | --Debug]")
+    print("         [-n | --Notify] [-s | --Skip] [-sa | --Skip_All]")
+    print("         [-c | --Concatenar] [-sc | --Somente_Concatenar]")
+    print("       * [-a | --Ano] * [-e | --Estado]")
+    print("       * [-ia | --Instituicao_Aprovados]")
+    print("       * [-it | --Instituicao_Todos]")
+    print("")
+    print("    Atenção: usar apenas um dos que tem *")
+    print("")
     print("Lista de comandos:")
     print("")
-    print("-h  ou --Help:                   abrir menu de ajuda")
-    print("-d  ou --Debug:                  ativar modo de confirmação de dados")
-    print("-s  ou --Skip:                   ativar possibilidade de pular um estado na varredura de ano ou instituição na varredura de estado")
-    print("-sa ou --Skip_All:               ativar possibilidade de pular um estado e uma instituição na varredura de ano ou instituição na varredura de estado")
-    print("-c  ou --Concatenar:             concatenar arquivos CSV ao final da varredura")
-    print("-sc ou --Somente_Concatenar:     pular varredura e somente concatenar arquivos CSV")
-    print("-a  ou --Ano:                    coletar todos os estados e instituições de determinado ano")
-    print("-e  ou --Estado:                 coletar todas as instituições de determinado estado")
-    print("-ia ou --Instituicao_Aprovados:  coletar de uma instituição os nomes que estejam com tag de aprovado")
+    print("Comandos gerais:")
+    print("-h  ou --Help:                   abrir menu de ajuda;")
+    print("-d  ou --Debug:                  ativar modo de confirmação de dados;")
+    print("-n  ou --Notify:                 ativar notificação de final de execução ou espera de input")
+    print("                                 (Disponível somente para MacOS);")
+    print("-s  ou --Skip:                   ativar possibilidade de pular um estado na varredura de ano")
+    print("                                 ou instituição na varredura de estado;")
+    print("-sa ou --Skip_All:               ativar possibilidade de pular um estado e uma instituição")
+    print("                                 na varredura de ano ou instituição na varredura de estado;")
+    print("")
+    print("Função Concatenar:")
+    print("-c  ou --Concatenar:             concatenar arquivos CSV ao final da varredura;")
+    print("-sc ou --Somente_Concatenar:     pular varredura e somente concatenar arquivos CSV;")
+    print("")
+    print("Tipo de coleta de dados:")
+    print("-a  ou --Ano:                    coletar todos os estados e instituições de determinado ano;")
+    print("-e  ou --Estado:                 coletar todas as instituições de determinado estado;")
+    print("-ia ou --Instituicao_Aprovados:  coletar de uma instituição os nomes que estejam com a tag")
+    print("                                 de aprovado;")
     print("-it ou --Instituicao_Todos:      coletar de uma instituição todos os nomes, independente da tag")
     print("")
     print("Obs: não utilizar opções de coletar ano, estado e instituição na mesma série de comandos.")
@@ -1025,7 +1089,9 @@ def help():
 
 
 if __name__ == '__main__':
-    if "-h" in [x.lower() for x in sys.argv] or "--help" in [x.lower() for x in sys.argv]:
+    # https://stackoverflow.com/questions/740287/how-to-check-if-one-of-the-following-items-is-in-a-list
+    if [x for x in sys.argv if x.lower() in ["-h", "--help"]]:
         help()
+        logging.info("Função help() acionada.")
     else:
         main()
