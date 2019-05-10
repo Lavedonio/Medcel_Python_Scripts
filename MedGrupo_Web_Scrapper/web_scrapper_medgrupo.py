@@ -706,8 +706,8 @@ def coletar_aprovados_ano(confirmar_dados=True, notificar=False, enable_skipping
             _, erros_referencia = coletar_aprovados_estado(confirmar_dados=confirmar_dados, abrir_driver=False, enable_skipping=enable_skipping_instituicoes, driver=driver)
 
             if notificar:
-                if len(erros_referencia[estado_text]) > 0:
-                    notify("Estado concluído (com erros)", "Retirada de dados do Estado {} concluído com {} erros de referência. Verifique arquivos gerados.".format(estado_text, len(erros_referencia[estado_text])))
+                if len(erros_referencia[estado_text.upper()]) > 0:
+                    notify("Estado concluído (com erros)", "Retirada de dados do Estado {} concluído com {} erros de referência. Verifique arquivos gerados.".format(estado_text, len(erros_referencia[estado_text.upper()])))
                 else:
                     notify("Estado concluído", "Retirada de dados do Estado {} concluído sem erros de referência.".format(estado_text))
 
@@ -731,9 +731,9 @@ def coletar_aprovados_ano(confirmar_dados=True, notificar=False, enable_skipping
 
     if notificar:
         if len(all_erros_referencia) > 0:
-            notify("Aprovados de {} concluído (com erros)", "Retirada de dados de {} Estados com erros de referência. Verifique arquivos gerados.".format(ano, len(all_erros_referencia)))
+            notify("Aprovados de {} concluído (com erros)", "Retirada de dados de {} Estados com erros de referência. Verifique arquivos gerados.".format(ano_text, len(all_erros_referencia)))
         else:
-            notify("Aprovados de {} concluído", "Retirada de dados concluída sem erros de referência.".format(ano))
+            notify("Aprovados de {} concluído", "Retirada de dados concluída sem erros de referência.".format(ano_text))
 
     return driver
 
@@ -829,7 +829,7 @@ def main():
                     DEBUG = True
                     logging.info("Modo debug ativado.")
 
-                if platform.sistem() == "Darwin" and (arg.lower() == "-n" or arg.lower() == "--notify"):
+                if platform.system() == "Darwin" and (arg.lower() == "-n" or arg.lower() == "--notify"):
                     notificar = True
                     logging.info("Ativando notificações do MacOS.")
 
@@ -1038,13 +1038,16 @@ def main():
             print("Abortando...")
             sys.exit()
 
-    driver.quit()
+        driver.quit()
 
     if concatenar or somente_concatenar:
         print("\n")
         ano = int(input("Digite ano para concatenar: "))
         logging.info("Concatenando arquivos do ano {}".format(ano))
         concatenador(ano)
+        print("Arquivos do ano de {} concatenados com sucesso.".format(ano))
+        if notificar:
+            notify("Concatenação concluída", "Confira os arquivos gerados.")
 
     logging.info("Fim da execução. <<<<<<<<<<<<<<<<<<<<<\n\n\n\n\n\n")
 
@@ -1052,7 +1055,7 @@ def main():
 def help():
     print("\n>>>>>> HELP: Ajuda do Web Scrapper.")
     print("")
-    print("Uso: python web_scrapper_medgrupo.py [-h | --Help] [-d | --Debug]")
+    print(">>Uso: python {} [-h | --Help] [-d | --Debug]".format(sys.argv[0]))
     print("         [-n | --Notify] [-s | --Skip] [-sa | --Skip_All]")
     print("         [-c | --Concatenar] [-sc | --Somente_Concatenar]")
     print("       * [-a | --Ano] * [-e | --Estado]")
@@ -1061,7 +1064,7 @@ def help():
     print("")
     print("    Atenção: usar apenas um dos que tem *")
     print("")
-    print("Lista de comandos:")
+    print(">>Lista de comandos:")
     print("")
     print("Comandos gerais:")
     print("-h  ou --Help:                   abrir menu de ajuda;")
