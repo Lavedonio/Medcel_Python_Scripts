@@ -1,0 +1,829 @@
+Estado;Instituição;Hospital;Curso;Colocação;Nome_Aprovado
+PARANÁ;ISSAL - Instituto de Saúde São Lucas de Pato Branco;INSTITUTO DE SAÚDE SÃO LUCAS DE PATO BRANCO;GINECOLOGIA E OBSTETRÍCIA;1;Ariane Carla Horiuchi
+PARANÁ;ISSAL - Instituto de Saúde São Lucas de Pato Branco;INSTITUTO DE SAÚDE SÃO LUCAS DE PATO BRANCO;GINECOLOGIA E OBSTETRÍCIA;2;Polyana Fernandes Flores Pereira
+PARANÁ;HSVC - Hospital São Vicente Curitiba;HOSPITAL SÃO VICENTE CURITIBA;CIRURGIA GERAL;1;Carlos Humberto Guilman Tanizawa
+PARANÁ;HSVC - Hospital São Vicente Curitiba;HOSPITAL SÃO VICENTE CURITIBA;CIRURGIA GERAL;2;Odilon Henrique Bento Gonçalves
+PARANÁ;HSVC - Hospital São Vicente Curitiba;HOSPITAL SÃO VICENTE CURITIBA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Beatriz Bandeira De Andrade
+PARANÁ;HSVC - Hospital São Vicente Curitiba;HOSPITAL SÃO VICENTE CURITIBA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;João Paulo Michaelis Ribeiro
+PARANÁ;HSVC - Hospital São Vicente Curitiba;HOSPITAL SÃO VICENTE CURITIBA;CANCEROLOGIA CIRÚRGICA;1;Sílvio Ivo Testa
+PARANÁ;HRJF - Hospital Regional João de Freitas;HOSPITAL REGIONAL JOÃO DE FREITAS;CIRURGIA GERAL;1;Tarsisio Caetano Dos Santos
+PARANÁ;HRJF - Hospital Regional João de Freitas;HOSPITAL REGIONAL JOÃO DE FREITAS;CIRURGIA GERAL;2;Jenifer Dias Palacio
+PARANÁ;HRJF - Hospital Regional João de Freitas;HOSPITAL REGIONAL JOÃO DE FREITAS;CIRURGIA GERAL;3;Vinícius Pereira Perassol
+PARANÁ;HRJF - Hospital Regional João de Freitas;HOSPITAL REGIONAL JOÃO DE FREITAS;CIRURGIA GERAL;4;André Vasconcellos Fuganti
+PARANÁ;HRJF - Hospital Regional João de Freitas;HOSPITAL REGIONAL JOÃO DE FREITAS;CIRURGIA GERAL;5;Geovana Gonzales Storti
+PARANÁ;HRJF - Hospital Regional João de Freitas;HOSPITAL REGIONAL JOÃO DE FREITAS;CIRURGIA GERAL;6;Odilon Henrique Bento Gonçalves
+PARANÁ;HRJF - Hospital Regional João de Freitas;HOSPITAL REGIONAL JOÃO DE FREITAS;CLÍNICA MÉDICA;1;Amanda Alves Volse
+PARANÁ;HRJF - Hospital Regional João de Freitas;HOSPITAL REGIONAL JOÃO DE FREITAS;CLÍNICA MÉDICA;2;Alan Felcar Soares
+PARANÁ;HRJF - Hospital Regional João de Freitas;HOSPITAL REGIONAL JOÃO DE FREITAS;CLÍNICA MÉDICA;3;Marcel Augusto Magri
+PARANÁ;HRJF - Hospital Regional João de Freitas;HOSPITAL REGIONAL JOÃO DE FREITAS;CLÍNICA MÉDICA;4;Sabrina Chaves Lima
+PARANÁ;HRJF - Hospital Regional João de Freitas;HOSPITAL REGIONAL JOÃO DE FREITAS;CLÍNICA MÉDICA;5;Ana Gabriela De Matos Martins
+PARANÁ;HRJF - Hospital Regional João de Freitas;HOSPITAL REGIONAL JOÃO DE FREITAS;CLÍNICA MÉDICA;6;Luciana Pereira Mesquita
+PARANÁ;HRJF - Hospital Regional João de Freitas;HOSPITAL REGIONAL JOÃO DE FREITAS;ORTOPEDIA E TRAUMATOLOGIA;1;Eduardo Yukio Kuwaki
+PARANÁ;HRJF - Hospital Regional João de Freitas;HOSPITAL REGIONAL JOÃO DE FREITAS;ORTOPEDIA E TRAUMATOLOGIA;2;Marcelo Minasse Yanaze
+PARANÁ;HRJF - Hospital Regional João de Freitas;HOSPITAL REGIONAL JOÃO DE FREITAS;ANESTESIOLOGIA;1;Carlos Alexandre Zanzin Manrique
+PARANÁ;HRJF - Hospital Regional João de Freitas;HOSPITAL REGIONAL JOÃO DE FREITAS;ANESTESIOLOGIA;2;Marcela Heloise Fantim Prado
+PARANÁ;HRJF - Hospital Regional João de Freitas;HOSPITAL REGIONAL JOÃO DE FREITAS;ANESTESIOLOGIA;3.
+PARANÁ;HRJF - Hospital Regional João de Freitas;HOSPITAL REGIONAL JOÃO DE FREITAS;ANESTESIOLOGIA;4;Bruno Francisco Dias
+PARANÁ;HRJF - Hospital Regional João de Freitas;HOSPITAL REGIONAL JOÃO DE FREITAS;CIRURGIA VASCULAR;1;Luiz Miguel Mateus Sandin
+PARANÁ;HRJF - Hospital Regional João de Freitas;HOSPITAL REGIONAL JOÃO DE FREITAS;CIRURGIA VASCULAR;2;Fabio Toth Franco
+PARANÁ;INC - Instituto de Neurologia de Curitiba;INSTITUTO DE NEUROLOGIA DE CURITIBA;ANESTESIOLOGIA;1;Cristiane De Pauli Bernardin
+PARANÁ;INC - Instituto de Neurologia de Curitiba;INSTITUTO DE NEUROLOGIA DE CURITIBA;ANESTESIOLOGIA;2;Gabrielle Paggi Montemezzo
+PARANÁ;INC - Instituto de Neurologia de Curitiba;INSTITUTO DE NEUROLOGIA DE CURITIBA;NEUROCIRURGIA;1;Afonso Henrique De Aragão
+PARANÁ;INC - Instituto de Neurologia de Curitiba;INSTITUTO DE NEUROLOGIA DE CURITIBA;NEUROLOGIA;1;Vanessa Scalco Da Gama
+PARANÁ;INC - Instituto de Neurologia de Curitiba;INSTITUTO DE NEUROLOGIA DE CURITIBA;NEUROLOGIA;2;Dafne Luana Bayer
+PARANÁ;INC - Instituto de Neurologia de Curitiba;INSTITUTO DE NEUROLOGIA DE CURITIBA;CARDIOLOGIA;1;Danielly Marisa Wagner
+PARANÁ;INC - Instituto de Neurologia de Curitiba;INSTITUTO DE NEUROLOGIA DE CURITIBA;CARDIOLOGIA;2.
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Stephanie Yuka Matwijszyn Nagano
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Meliane Moleta
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;3;Anna Luisa Aranha Nunes
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;ANESTESIOLOGIA;1;Lucas Vasconcelos Sanvido
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;ANESTESIOLOGIA;2;Rafael Mahnic Villa
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;ANESTESIOLOGIA;3;Bruno Eduardo Scheffer
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;ORTOPEDIA E TRAUMATOLOGIA;1;Isabelle Mariah Campestrini Collett
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;ORTOPEDIA E TRAUMATOLOGIA;2;Caio Cesar Secci
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;CIRURGIA GERAL;1;Caio Satoru Ramos Saito
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;CIRURGIA GERAL;2;Vitor Holmo Figueira
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;CLÍNICA MÉDICA;1;Valeria Rodrigues Celloto
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;CLÍNICA MÉDICA;2;Marilia Burdini Borghi
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;CLÍNICA MÉDICA;3;Gabriel Caetano Pereira
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;CIRURGIA VASCULAR;1;Thiago Felippe Reck
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;GINECOLOGIA E OBSTETRÍCIA;1;Marco Aurélio Ornellas
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;GINECOLOGIA E OBSTETRÍCIA;2.
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;NEFROLOGIA;1;Valmor Issii Giavarina
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;NEFROLOGIA;2;Leticia Nicoletti Silva
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;NEUROCIRURGIA;1;Sandrieli Afornali
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;NEUROLOGIA;1;Cesar Castello Branco Lopes
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;MEDICINA INTENSIVA;1;Gustavo Ferreira Dias
+PARANÁ;HEL - Hospital Evangélico de Londrina;HOSPITAL EVANGÉLICO DE LONDRINA;NEUROLOGIA (2º CONCURSO);1;Mohamad Ali Hussein
+PARANÁ;UNICENTRO - Universidade Estadual do Centro-Oeste;UNIVERSIDADE ESTADUAL DO CENTRO-OESTE;CLÍNICA MÉDICA;1;Eduardo Augusto Borba
+PARANÁ;UNICENTRO - Universidade Estadual do Centro-Oeste;UNIVERSIDADE ESTADUAL DO CENTRO-OESTE;CLÍNICA MÉDICA;2.
+PARANÁ;UNICENTRO - Universidade Estadual do Centro-Oeste;UNIVERSIDADE ESTADUAL DO CENTRO-OESTE;CLÍNICA MÉDICA;3;Rodrigo Augusto De Miranda Bertin
+PARANÁ;UNICENTRO - Universidade Estadual do Centro-Oeste;UNIVERSIDADE ESTADUAL DO CENTRO-OESTE;CLÍNICA MÉDICA;4;Danilo Toaldo Neto
+PARANÁ;UNICENTRO - Universidade Estadual do Centro-Oeste;UNIVERSIDADE ESTADUAL DO CENTRO-OESTE;CLÍNICA MÉDICA;5;Amanda Mei Pacha Wang
+PARANÁ;HSCP - Hospital Santa Casa de Paranavaí;HOSPITAL SANTA CASA DE PARANAVAÍ;ANESTESIOLOGIA;1;Lais Rafaela Possa Cristofolli
+PARANÁ;HSCP - Hospital Santa Casa de Paranavaí;HOSPITAL SANTA CASA DE PARANAVAÍ;CIRURGIA GERAL;1;Isabella Maria Martins Favero
+PARANÁ;HSCP - Hospital Santa Casa de Paranavaí;HOSPITAL SANTA CASA DE PARANAVAÍ;CIRURGIA GERAL;2;Thiago Tadeu Amancio
+PARANÁ;HSCP - Hospital Santa Casa de Paranavaí;HOSPITAL SANTA CASA DE PARANAVAÍ;CIRURGIA GERAL;3;Isabela Yones Nogara
+PARANÁ;HSCP - Hospital Santa Casa de Paranavaí;HOSPITAL SANTA CASA DE PARANAVAÍ;CLÍNICA MÉDICA;1;Fernanda Da Silva Miliorini
+PARANÁ;HSCP - Hospital Santa Casa de Paranavaí;HOSPITAL SANTA CASA DE PARANAVAÍ;CLÍNICA MÉDICA;2;Camila Roberta Sala
+PARANÁ;HSCP - Hospital Santa Casa de Paranavaí;HOSPITAL SANTA CASA DE PARANAVAÍ;GINECOLOGIA E OBSTETRÍCIA;1;Ricardson Rolim Ricarte Junior
+PARANÁ;HSCP - Hospital Santa Casa de Paranavaí;HOSPITAL SANTA CASA DE PARANAVAÍ;GINECOLOGIA E OBSTETRÍCIA;2;João Guilherme Tonon Magnani
+PARANÁ;HSCP - Hospital Santa Casa de Paranavaí;HOSPITAL SANTA CASA DE PARANAVAÍ;OFTALMOLOGIA;1;Heloisa Helena Viera Olyntho Tokunaga
+PARANÁ;HSCP - Hospital Santa Casa de Paranavaí;HOSPITAL SANTA CASA DE PARANAVAÍ;OFTALMOLOGIA;2;Carolina Franchini Da Costa
+PARANÁ;HSCP - Hospital Santa Casa de Paranavaí;HOSPITAL SANTA CASA DE PARANAVAÍ;PEDIATRIA;1;Valeria Ingrid Moreno Ricarte
+PARANÁ;HSCP - Hospital Santa Casa de Paranavaí;HOSPITAL SANTA CASA DE PARANAVAÍ;PEDIATRIA;2.
+PARANÁ;HOSPITAL XV - Hospital XV de Curitiba;HOSPITAL XV DE CURITIBA;ORTOPEDIA E TRAUMATOLOGIA;1;Ricardo Sprenger Falavinha Jr.
+PARANÁ;HOSPITAL XV - Hospital XV de Curitiba;HOSPITAL XV DE CURITIBA;ORTOPEDIA E TRAUMATOLOGIA;2;Marcos Vinícius Henrique De Andrade
+PARANÁ;HOSPITAL XV - Hospital XV de Curitiba;HOSPITAL XV DE CURITIBA;ORTOPEDIA E TRAUMATOLOGIA;3;Patrick Willian Padoani
+PARANÁ;CH - Clínica Heidelberg;CLÍNICA HEIDELBERG;PSIQUIATRIA;1;Gláuber Fernando Ratzkob
+PARANÁ;CH - Clínica Heidelberg;CLÍNICA HEIDELBERG;PSIQUIATRIA;2;Thiago Luciano Cruz
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;CLÍNICA MÉDICA;1;Guilherme Aron Perine
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;CLÍNICA MÉDICA;2;Mariana Guimaraes Valim
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;CLÍNICA MÉDICA;3;Isabela Pizzatto Teixeira
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;CLÍNICA MÉDICA;4;Ariane Carla Horiuchi
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;CLÍNICA MÉDICA;5;Otavio Augusto Noschang Moreira
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;ANESTESIOLOGIA;1;Jessica Luisa Nogueira Meinert
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;ANESTESIOLOGIA;2;Marselle Ribas
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;ANESTESIOLOGIA;3;Henrique Nogueira Rasera
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;CIRURGIA GERAL;1;Paula Almeida Pamponet Moura
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;CIRURGIA GERAL;2;Gustavo Alves Schaitza
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;CIRURGIA GERAL;3;Svenja Lopez Kramer
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;CIRURGIA GERAL;4.
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;NEUROCIRURGIA;1;Felipe Salvagni Pereira
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;NEUROLOGIA;1;Bruna Grando Kroeff
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;OBSTETRÍCIA E GINECOLOGIA;1.
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;OBSTETRÍCIA E GINECOLOGIA;2;Heloisa Amaral Junqueira Nobrega
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;OBSTETRÍCIA E GINECOLOGIA;3;Danieli De Campos Feil
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;OFTALMOLOGIA;1;Jaqueline Pozzolo Ogeda
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;OFTALMOLOGIA;2.
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;ORTOPEDIA E TRUMATOLOGIA;1;Rodolff Nunes Da Silva
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;ORTOPEDIA E TRUMATOLOGIA;2;Carlos Augusto Nunes Martini
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;OTORRINOLARINGOLOGIA;1;Victor Carvalho Dos Santos
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;PEDIATRIA;1;Francielly Lucavei
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;PEDIATRIA;2.
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;PEDIATRIA;3;Aline Yukari Yamanishi
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;PEDIATRIA;4;Anne Caroline Becker
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;RADIOTERAPIA;1;Guilherme Amando De Carvalho
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;CANCEROLOGIA CIRÚRGICA;1;Silvio Ivo Testa
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;CANCEROLOGIA CIRÚRGICA;2;Lucas Simoes Tavares
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;CANCEROLOGIA CLÍNICA;1;Pablo Zanatta
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;CARDIOLOGIA;1;Rodrigo Rodrigues Da Silva
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;CIRURGIA VASCULAR;1;Afonso Henrique Venco Teixeira Da Cunha
+PARANÁ;HAC - Hospital Angelina Caron;HOSPITAL ANGELINA CARON;CIRURGIA VASCULAR;2;Filipe Cezar Bertassoni De Souza
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;ORTOPEDIA E TRAUMATOLOGIA;;Leonardo Wustro
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;ORTOPEDIA E TRAUMATOLOGIA;;Eduardo Yukio Kuwaki
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;OTORRINOLARINGOLOGIA;;Tatiane Viana Golinelli
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;OTORRINOLARINGOLOGIA;;Ana Carolina Fernandes Neves
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;RADIOLOGIA;;Cristina Guimarães Bianchi
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;RADIOLOGIA;;Vinícius Anzolin
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;CLÍNICA MÉDICA;;Victor Carvalho Dos Santos
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;CLÍNICA MÉDICA;;Monise Dechechi Dias
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;CLÍNICA MÉDICA;;Ana Claudia Janiszewski Goes
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;CLÍNICA MÉDICA;;Ana Cristina Boni Brandão
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;CLÍNICA MÉDICA;;Mariana De Andrade
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;CLÍNICA MÉDICA;;Hemuara Grasiela Pestana De Souza
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;CIRURGIA GERAL;;Vitor Alves Garcia Bortoluzzi Daniel
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;CIRURGIA GERAL;;Carla Renata Zacachuka
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;CIRURGIA GERAL;;Lucas Mansano Sarquis
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;CIRURGIA GERAL;;Igor Furlan Cella
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;CIRURGIA GERAL;;Lucas Vasconcelos Sanvido
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;NEUROCIRURGIA;;Vinícius Nicolelli Coelho
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;NEUROCIRURGIA;;Nick Dorneli De Carvalho
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;OFTALMOLOGIA;;Raphael Wagner Teixeira
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;OFTALMOLOGIA;;Miguel Razera Simoes De Assis
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;ANESTESIOLOGIA;;Stephan Sbizera Saab
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;ANESTESIOLOGIA;;Emanuele Melânia Stedille Bringhentti
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;ANESTESIOLOGIA;;Daniel Da Silva Moraes Junior
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;GINECOLOGIA E OBSTETRÍCIA;;Ariane Carla Horiuchi
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;GINECOLOGIA E OBSTETRÍCIA;;Felipe Takayuki Ida Nakatani
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;GINECOLOGIA E OBSTETRÍCIA;;Amanda Farah Ribeiro
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;GINECOLOGIA E OBSTETRÍCIA;;Andressa Florenzano Maeda
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;PEDIATRIA;;Lislaine Cruz Batista
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;PEDIATRIA;;Mariana Dal Prá
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;PEDIATRIA;;Larissa Camargo Boaron
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;PEDIATRIA;;Ana Clarice Bartosievicz Prestes
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;PEDIATRIA;;Carolina Tabata Costa
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;UROLOGIA;;Bianca Carvalho Moreira
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;UROLOGIA;;Raphael Flavio Fachini Cipriani
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;CIRURGIA TORÁCICA;;Leandro Simão
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;CIRURGIA PLÁSTICA;;Jônatas Merlin Maschietto
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;CIRURGIA DO APARELHO DIGESTIVO;;Alexandre Pina Rodrigues Isleb
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;CIRURGIA DO APARELHO DIGESTIVO;;Vitor Emmanuel Nogueira
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;COLOPROCTOLOGIA;;Rodnei Bertazzi Sampietro
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;DERMATOLOGIA;;Caroline Orso
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;ENDOCRINOLOGIA E METABOLOGIA;;Tamila Sohn Fagundes
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;NEFROLOGIA;;Heitor Parente Monteiro De Castro
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;NEFROLOGIA;;Valmor Issii Giavarina
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;NEFROLOGIA;;Rodrigo Zamprogna
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;NEFROLOGIA;;Leticia Nicoletti Silva
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;REUMATOLOGIA;;Juliana Delfino
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;NEONATOLOGIA;;Kássia Lorena Dias Machado
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;NEONATOLOGIA (2º CONCURSO);;Rafaella De Souza Andri
+PARANÁ;HUEC - Hospital Universitário Evangélico de Curitiba;HOSPITAL UNIVERSITÁRIO EVANGÉLICO DE CURITIBA;PATOLOGIA;;Julia De Freitas Azzolini
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;CIRURGIA PEDIÁTRICA;1;Amanda Ginani Antunes
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;CIRURGIA PEDIÁTRICA;2;Aluisio Augusto Belmino Gadelha
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;PEDIATRIA;1;Felipe Augusto Moreschi
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;PEDIATRIA;2;Larissa Camargo Boaron
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;PEDIATRIA;3;Rafaela Fabri Rosenstein
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;PEDIATRIA;4;Gabrielly De Araújo
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;PEDIATRIA;5;Jessé Vinicius Lana
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;PEDIATRIA;6;Renan Guimarães Santana
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;PEDIATRIA;7.
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;PEDIATRIA;8;Aline Fernanda Monteiro
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;PEDIATRIA;9;Bruna Nogueira Rechia
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;PEDIATRIA;10;Ariadne Becker
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;PEDIATRIA;11;Amanda Lopes Pereira Reto
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;PEDIATRIA;12;Paulo Castelli Canal
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;PEDIATRIA;13;Camila Sabbag Camargo Penteado
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;PEDIATRIA;14.
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;PEDIATRIA;15;Patrícia Basso Moreira
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;CANCEROLOGIA PEDIÁTRICA;1;Analiz Marchini Rodrigues
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;CANCEROLOGIA PEDIÁTRICA;2;Alejandra Adriana Cardoso De Castro
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;ORTOPEDIA E TRAUMATOLOGIA;1;Matheus Weihermann Guesser
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;ORTOPEDIA E TRAUMATOLOGIA;2.
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;ORTOPEDIA E TRAUMATOLOGIA;3;Lucas Tavares Conceicao
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;ORTOPEDIA E TRAUMATOLOGIA;4;Heloisa Zimmermann Faggion
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;PSIQUIATRIA DA INFÂNCIA E ADOLESCÊNCIA;1;Fernando Brum Batista
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;PSIQUIATRIA DA INFÂNCIA E ADOLESCÊNCIA;2;Enzo Vicente Bertholdo
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;MEDICINA DE FAMÍLIA E COMUNIDADE;1;Kamilla Zandonadi Medeiros
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;MEDICINA DE FAMÍLIA E COMUNIDADE;2;Cristina Zaia Nogueira Ramos
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;MEDICINA DE FAMÍLIA E COMUNIDADE;3.
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;MEDICINA DE FAMÍLIA E COMUNIDADE;4;Lia Melero Dos Anjos
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;MEDICINA DE FAMÍLIA E COMUNIDADE;5.
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;MEDICINA DE FAMÍLIA E COMUNIDADE;6;Cassim De Souza Anderle
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;MEDICINA DE FAMÍLIA E COMUNIDADE;7;Bruna Chagas De Azevedo
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;MEDICINA DE FAMÍLIA E COMUNIDADE;8.
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;MEDICINA DE FAMÍLIA E COMUNIDADE;9.
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;MEDICINA DE FAMÍLIA E COMUNIDADE;10;Mirella Pessine
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;MEDICINA DE FAMÍLIA E COMUNIDADE;11;Gabriel Andreghetto Ribeiro
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;MEDICINA DE FAMÍLIA E COMUNIDADE;12;Luiz Gustavo Brandão De Proença
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;CARDIOLOGIA PEDIÁTRICA;1;Amanda Louise Feitosa Nascimento
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;CARDIOLOGIA PEDIÁTRICA;2;Talita Cardoso Coelho
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;CARDIOLOGIA PEDIÁTRICA;3;Leticia Negreiros Alcantara
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;CARDIOLOGIA PEDIÁTRICA;4.
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;NEUROLOGIA PEDIÁTRICA;1;Vanessa Catarine Silva Abreu Ribeiro Dos Santos
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;NEUROLOGIA PEDIÁTRICA;2;Samira Costa Clark
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;NEUROLOGIA PEDIÁTRICA;3;Ronete Lourena Rodrigues Martins
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;NEONATOLOGIA;1;Larissa Martins Mourao Oliveira
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;NEONATOLOGIA;2;Jéssica Sydrião Dos Santos
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;NEFROLOGIA PEDIÁTRICA;1;Sarita Pinheiro Santos
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;NEFROLOGIA PEDIÁTRICA;2;Vanessa Vitorino
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;NEFROLOGIA PEDIÁTRICA;3.
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;GASTROENTEROLOGIA PEDIÁTRICA;1;Pamella Daline Fonseca Rodrigues
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;NUTROLOGIA PEDIÁTRICA;1;Gabriela Foresti Fezer
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;PNEUMOLOGIA PEDIÁTRICA;1;Raísa Elena Tavares Pinheiro
+PARANÁ;HPP - Hospital Pequeno Príncipe;HOSPITAL PEQUENO PRÍNCIPE;REUMATOLOGIA PEDIÁTRICA;1;Luana Ribeiro Carlos
+PARANÁ;SCMPG - Santa Casa de Misericórdia de Ponta Grossa;SANTA CASA DE MISERICÓRDIA DE PONTA GROSSA;ANESTESIOLOGIA;1;Henrique Nogueira Rasera
+PARANÁ;SCMPG - Santa Casa de Misericórdia de Ponta Grossa;SANTA CASA DE MISERICÓRDIA DE PONTA GROSSA;ANESTESIOLOGIA;2;Mirnna Lopes De Aquino
+PARANÁ;SCMPG - Santa Casa de Misericórdia de Ponta Grossa;SANTA CASA DE MISERICÓRDIA DE PONTA GROSSA;CANCEROLOGIA CIRÚRGICA;1;Amanda Caroline Masiero
+PARANÁ;SCMPG - Santa Casa de Misericórdia de Ponta Grossa;SANTA CASA DE MISERICÓRDIA DE PONTA GROSSA;CANCEROLOGIA CLÍNICA;1;Marcos Rezende De Jesus Teixeira
+PARANÁ;SCMPG - Santa Casa de Misericórdia de Ponta Grossa;SANTA CASA DE MISERICÓRDIA DE PONTA GROSSA;CIRURGIA GERAL;1;Marcella Regina Ganho Souza
+PARANÁ;SCMPG - Santa Casa de Misericórdia de Ponta Grossa;SANTA CASA DE MISERICÓRDIA DE PONTA GROSSA;CIRURGIA GERAL;2;Theodor Beck
+PARANÁ;SCMPG - Santa Casa de Misericórdia de Ponta Grossa;SANTA CASA DE MISERICÓRDIA DE PONTA GROSSA;CIRURGIA GERAL;3;Odilon Henrique Bento Gonçalves
+PARANÁ;SCMPG - Santa Casa de Misericórdia de Ponta Grossa;SANTA CASA DE MISERICÓRDIA DE PONTA GROSSA;CIRURGIA GERAL;4;Larissa Renata Kleina
+PARANÁ;SCMPG - Santa Casa de Misericórdia de Ponta Grossa;SANTA CASA DE MISERICÓRDIA DE PONTA GROSSA;CLÍNICA MÉDICA;1;Ariane Carla Horiuchi
+PARANÁ;SCMPG - Santa Casa de Misericórdia de Ponta Grossa;SANTA CASA DE MISERICÓRDIA DE PONTA GROSSA;CLÍNICA MÉDICA;2;Rafaela Galli
+PARANÁ;SCMPG - Santa Casa de Misericórdia de Ponta Grossa;SANTA CASA DE MISERICÓRDIA DE PONTA GROSSA;CLÍNICA MÉDICA;3;Bruno Mendes Soares
+PARANÁ;SCMPG - Santa Casa de Misericórdia de Ponta Grossa;SANTA CASA DE MISERICÓRDIA DE PONTA GROSSA;CLÍNICA MÉDICA;4;Ana Claudia Janiszewski Goes
+PARANÁ;SCMPG - Santa Casa de Misericórdia de Ponta Grossa;SANTA CASA DE MISERICÓRDIA DE PONTA GROSSA;CLÍNICA MÉDICA;5;Eduardo Augusto Borba
+PARANÁ;SCMPG - Santa Casa de Misericórdia de Ponta Grossa;SANTA CASA DE MISERICÓRDIA DE PONTA GROSSA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Beatriz Bandeira De Andrade
+PARANÁ;SCMPG - Santa Casa de Misericórdia de Ponta Grossa;SANTA CASA DE MISERICÓRDIA DE PONTA GROSSA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Yoram Balderrama Da Frota
+PARANÁ;SCMPG - Santa Casa de Misericórdia de Ponta Grossa;SANTA CASA DE MISERICÓRDIA DE PONTA GROSSA;NEFROLOGIA;1;Valmor Issii Giavarina
+PARANÁ;INSRA - Instituto Nossa Senha Aparecida;INSTITUTO NOSSA SENHORA APARECIDA;CIRURGIA GERAL;1;Lucas Danillo Moreira De Jesus
+PARANÁ;INSRA - Instituto Nossa Senha Aparecida;INSTITUTO NOSSA SENHORA APARECIDA;CIRURGIA GERAL;2;Arthur Rocha Barros
+PARANÁ;INSRA - Instituto Nossa Senha Aparecida;INSTITUTO NOSSA SENHORA APARECIDA;ANESTESIOLOGIA;1;Pedro Gianello Labatut
+PARANÁ;INSRA - Instituto Nossa Senha Aparecida;INSTITUTO NOSSA SENHORA APARECIDA;ANESTESIOLOGIA;2;Bruno Eduardo Scheffer
+PARANÁ;NOROSPAR - Associação Beneficente de Saúde do Noroeste do Paraná;ASSOCIAÇÃO BENEFICENTE DE SAÚDE DO NOROESTE DO PARANÁ;ANESTESIOLOGIA;1;Pedro Gianello Labatut
+PARANÁ;NOROSPAR - Associação Beneficente de Saúde do Noroeste do Paraná;ASSOCIAÇÃO BENEFICENTE DE SAÚDE DO NOROESTE DO PARANÁ;ANESTESIOLOGIA;2;Luiz Gustavo Alebrandt
+PARANÁ;NOROSPAR - Associação Beneficente de Saúde do Noroeste do Paraná;ASSOCIAÇÃO BENEFICENTE DE SAÚDE DO NOROESTE DO PARANÁ;CIRURGIA GERAL;1;Arthur Rocha Barros
+PARANÁ;NOROSPAR - Associação Beneficente de Saúde do Noroeste do Paraná;ASSOCIAÇÃO BENEFICENTE DE SAÚDE DO NOROESTE DO PARANÁ;CIRURGIA GERAL;2;Lucas Danillo Moreira De Jesus
+PARANÁ;NOROSPAR - Associação Beneficente de Saúde do Noroeste do Paraná;ASSOCIAÇÃO BENEFICENTE DE SAÚDE DO NOROESTE DO PARANÁ;PEDIATRIA;1;Maria Luiza Bom Ami Barros
+PARANÁ;NOROSPAR - Associação Beneficente de Saúde do Noroeste do Paraná;ASSOCIAÇÃO BENEFICENTE DE SAÚDE DO NOROESTE DO PARANÁ;PEDIATRIA;2.
+PARANÁ;NOROSPAR - Associação Beneficente de Saúde do Noroeste do Paraná;ASSOCIAÇÃO BENEFICENTE DE SAÚDE DO NOROESTE DO PARANÁ;MEDICINA DE FAMÍLIA E COMUNIDADE;1;Stela Artioli De Moraes E Souza
+PARANÁ;NOROSPAR - Associação Beneficente de Saúde do Noroeste do Paraná;ASSOCIAÇÃO BENEFICENTE DE SAÚDE DO NOROESTE DO PARANÁ;NEONATOLOGIA;1;Raphael Satin De Oliveira
+PARANÁ;NOROSPAR - Associação Beneficente de Saúde do Noroeste do Paraná;ASSOCIAÇÃO BENEFICENTE DE SAÚDE DO NOROESTE DO PARANÁ;NEONATOLOGIA;2.
+PARANÁ;NOROSPAR - Associação Beneficente de Saúde do Noroeste do Paraná;ASSOCIAÇÃO BENEFICENTE DE SAÚDE DO NOROESTE DO PARANÁ;GINECOLOGIA E OBSTETRÍCIA;1.
+PARANÁ;NOROSPAR - Associação Beneficente de Saúde do Noroeste do Paraná;ASSOCIAÇÃO BENEFICENTE DE SAÚDE DO NOROESTE DO PARANÁ;GINECOLOGIA E OBSTETRÍCIA;2;Giovanna Brandolim De Oliveira
+PARANÁ;RASM - Rede de Assistência à Saúde Metropolitana;REDE DE ASSISTÊNCIA À SAUDE METROPOLITANA;ANESTESIOLOGIA;1;Bruno Eduardo Scheffer
+PARANÁ;RASM - Rede de Assistência à Saúde Metropolitana;REDE DE ASSISTÊNCIA À SAUDE METROPOLITANA;ANESTESIOLOGIA;2;Lucas Mezari Carbajal
+PARANÁ;RASM - Rede de Assistência à Saúde Metropolitana;REDE DE ASSISTÊNCIA À SAUDE METROPOLITANA;CIRURGIA GERAL;1;Kristoffer Andreas Wendel Ribas
+PARANÁ;RASM - Rede de Assistência à Saúde Metropolitana;REDE DE ASSISTÊNCIA À SAUDE METROPOLITANA;CIRURGIA GERAL;2;João Victor Fuzeta Peres
+PARANÁ;RASM - Rede de Assistência à Saúde Metropolitana;REDE DE ASSISTÊNCIA À SAUDE METROPOLITANA;PEDIATRIA;1;Aline Raquel Souza Dutra
+PARANÁ;RASM - Rede de Assistência à Saúde Metropolitana;REDE DE ASSISTÊNCIA À SAUDE METROPOLITANA;PEDIATRIA;2;Joao Luis De Freitas
+PARANÁ;RASM - Rede de Assistência à Saúde Metropolitana;REDE DE ASSISTÊNCIA À SAUDE METROPOLITANA;CLÍNICA MÉDICA;1.
+PARANÁ;RASM - Rede de Assistência à Saúde Metropolitana;REDE DE ASSISTÊNCIA À SAUDE METROPOLITANA;CLÍNICA MÉDICA;2;Diandra Flavia Manfroi
+PARANÁ;RASM - Rede de Assistência à Saúde Metropolitana;REDE DE ASSISTÊNCIA À SAUDE METROPOLITANA;CLÍNICA MÉDICA;3;Bruna Karla Manfroi
+PARANÁ;RASM - Rede de Assistência à Saúde Metropolitana;REDE DE ASSISTÊNCIA À SAUDE METROPOLITANA;CLÍNICA MÉDICA;4;Alan Felcar Soares
+PARANÁ;RASM - Rede de Assistência à Saúde Metropolitana;REDE DE ASSISTÊNCIA À SAUDE METROPOLITANA;GINECOLOGIA E OBSTETRÍCIA;1;Hilario Parise Junior
+PARANÁ;RASM - Rede de Assistência à Saúde Metropolitana;REDE DE ASSISTÊNCIA À SAUDE METROPOLITANA;GINECOLOGIA E OBSTETRÍCIA;2.
+PARANÁ;RASM - Rede de Assistência à Saúde Metropolitana;REDE DE ASSISTÊNCIA À SAUDE METROPOLITANA;MEDICINA DE FAMÍLIA E COMUNIDADE;1;Dandreia Cristiane Pires Galvao
+PARANÁ;RASM - Rede de Assistência à Saúde Metropolitana;REDE DE ASSISTÊNCIA À SAUDE METROPOLITANA;MEDICINA DE FAMÍLIA E COMUNIDADE;2.
+PARANÁ;RASM - Rede de Assistência à Saúde Metropolitana;REDE DE ASSISTÊNCIA À SAUDE METROPOLITANA;NEONATOLOGIA;1;Ana Clara De Albuquerque Botura
+PARANÁ;RASM - Rede de Assistência à Saúde Metropolitana;REDE DE ASSISTÊNCIA À SAUDE METROPOLITANA;NEONATOLOGIA;2;Carolina Sartini Stocco
+PARANÁ;RASM - Rede de Assistência à Saúde Metropolitana;REDE DE ASSISTÊNCIA À SAUDE METROPOLITANA;ORTOPEDIA E TRAUMATOLOGIA;1;Marcelo Minasse Yanaze
+PARANÁ;RASM - Rede de Assistência à Saúde Metropolitana;REDE DE ASSISTÊNCIA À SAUDE METROPOLITANA;ORTOPEDIA E TRAUMATOLOGIA;2.
+PARANÁ;HCV PR - HOSPITAL DA CRUZ VERMELHA;HOSPITAL DA CRUZ VERMELHA;CIRURGIA GERAL;;Marcella Regina Ganho Souza
+PARANÁ;HCV PR - HOSPITAL DA CRUZ VERMELHA;HOSPITAL DA CRUZ VERMELHA;CIRURGIA GERAL;;Talita Ribeiro Da Silva
+PARANÁ;HCV PR - HOSPITAL DA CRUZ VERMELHA;HOSPITAL DA CRUZ VERMELHA;CIRURGIA GERAL;;Theodor Beck
+PARANÁ;HCV PR - HOSPITAL DA CRUZ VERMELHA;HOSPITAL DA CRUZ VERMELHA;CLÍNICA MÉDICA;;Nicholas Kenzo Kishida Dias
+PARANÁ;HCV PR - HOSPITAL DA CRUZ VERMELHA;HOSPITAL DA CRUZ VERMELHA;CLÍNICA MÉDICA;;Monise Dechechi Dias
+PARANÁ;HCV PR - HOSPITAL DA CRUZ VERMELHA;HOSPITAL DA CRUZ VERMELHA;RADIOLOGIA;;João Paulo Michaelis Ribeiro
+PARANÁ;HCV PR - HOSPITAL DA CRUZ VERMELHA;HOSPITAL DA CRUZ VERMELHA;RADIOLOGIA;;Yoram Balderrama Da Frota
+PARANÁ;HCV PR - HOSPITAL DA CRUZ VERMELHA;HOSPITAL DA CRUZ VERMELHA;CARDIOLOGIA;;Pedro Henrique Barbosa Daniel
+PARANÁ;HCV PR - HOSPITAL DA CRUZ VERMELHA;HOSPITAL DA CRUZ VERMELHA;CARDIOLOGIA;;Juliana Da Silva Geraldino
+PARANÁ;HCV PR - HOSPITAL DA CRUZ VERMELHA;HOSPITAL DA CRUZ VERMELHA;CIRURGIA DO APARELHO DIGESTIVO;;Alexandre Pina Rodrigues Isleb
+PARANÁ;HCV PR - HOSPITAL DA CRUZ VERMELHA;HOSPITAL DA CRUZ VERMELHA;MEDICINA INTENSIVA;;Alana Bianchini Dias
+PARANÁ;HCV PR - HOSPITAL DA CRUZ VERMELHA;HOSPITAL DA CRUZ VERMELHA;UROLOGIA;;Carlos Augusto Woidello
+PARANÁ;HCV PR - HOSPITAL DA CRUZ VERMELHA;HOSPITAL DA CRUZ VERMELHA;MEDICINA INTENSIVA (2º CONCURSO);;Natalia Pellissari Zardo
+PARANÁ;HCV PR - HOSPITAL DA CRUZ VERMELHA;HOSPITAL DA CRUZ VERMELHA;MEDICINA DE FAMÍLIA E COMUNIDADE;;Larissa Aparecida Busatto Reis
+PARANÁ;HCV PR - HOSPITAL DA CRUZ VERMELHA;HOSPITAL DA CRUZ VERMELHA;MEDICINA DE FAMÍLIA E COMUNIDADE;;Larissa Beatriz Volski
+PARANÁ;HCV PR - HOSPITAL DA CRUZ VERMELHA;HOSPITAL DA CRUZ VERMELHA;MEDICINA DE FAMÍLIA E COMUNIDADE;;Rodrigo Sell Poletto
+PARANÁ;UNICESUMAR - Centro Universitário de Maringá;CENTRO UNIVERSITÁRIO DE MARINGÁ;CIRURGIA GERAL;1;Jenifer Dias Palacio
+PARANÁ;UNICESUMAR - Centro Universitário de Maringá;CENTRO UNIVERSITÁRIO DE MARINGÁ;CIRURGIA GERAL;2;José Antonio Pereira Netto
+PARANÁ;UNICESUMAR - Centro Universitário de Maringá;CENTRO UNIVERSITÁRIO DE MARINGÁ;CLÍNICA MÉDICA;1;Flávio Augusto Mai
+PARANÁ;UNICESUMAR - Centro Universitário de Maringá;CENTRO UNIVERSITÁRIO DE MARINGÁ;CLÍNICA MÉDICA;2;Tawine Guimaraes Dal Bello
+PARANÁ;UNICESUMAR - Centro Universitário de Maringá;CENTRO UNIVERSITÁRIO DE MARINGÁ;PEDIATRIA;1;Augusto Braun Dias
+PARANÁ;UNICESUMAR - Centro Universitário de Maringá;CENTRO UNIVERSITÁRIO DE MARINGÁ;PEDIATRIA;2;Hariell Antonini Dias
+PARANÁ;UNICESUMAR - Centro Universitário de Maringá;CENTRO UNIVERSITÁRIO DE MARINGÁ;MEDICINA DE FAMÍLIA E COMUNIDADE;1;Cassiana T S Paula
+PARANÁ;UNICESUMAR - Centro Universitário de Maringá;CENTRO UNIVERSITÁRIO DE MARINGÁ;MEDICINA DE FAMÍLIA E COMUNIDADE;2.
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;CIRURGIA GERAL;1;Jackson Vinícius De Lima Bertuol
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;CIRURGIA GERAL;2;Natasha Lure Bueno De Camargo
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;CIRURGIA GERAL;3;João Francisco Petry
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;CIRURGIA GERAL;4;Daniele Rezende Ximenez
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;CLÍNICA MÉDICA;1;Luiza Dalfovo Esteves Santos
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;CLÍNICA MÉDICA;2;Maykon Martins De Souza
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;CLÍNICA MÉDICA;3;Gabriella França Pogorzelski
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;CLÍNICA MÉDICA;4;Alessandro Kenji Yassue
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;CLÍNICA MÉDICA;5;Carlos Henrique Romancini
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;CLÍNICA MÉDICA;6;Maurício Littieri
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;DERMATOLOGIA;1;Paula Hitomi Sakiyama
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;NEUROCIRURGIA;1;Beatriz Sartori
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;OBSTETRÍCIA E GINECOLOGIA;1;Polyana Fernandes Flores Pereira
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;OBSTETRÍCIA E GINECOLOGIA;2;Ailyn Pereira Farah Saliba
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;OBSTETRÍCIA E GINECOLOGIA;3.
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;OBSTETRÍCIA E GINECOLOGIA;4;Maria Tereza Favero
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;PEDIATRIA;1;Marina Fabiola Rodoy Bertol
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;PEDIATRIA;2;Caroline De Paula Cassanego
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;PEDIATRIA;3;Marina Kottwitz De Lima
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;PEDIATRIA;4;Ana Ruth Devilla Debiasi
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;PEDIATRIA;5;Natalia Natale Gasparello
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;PEDIATRIA;6;Daniel Albiero Pielak
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;CARDIOLOGIA;1;José Andrés Hidalgo Aranda
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;CARDIOLOGIA;2;Raissa De Oliveira Neves
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;ORTOPEDIA E TRAUMATOLOGIA;1.
+PARANÁ;UNIOESTE - Universidade Estadual do Oeste do Paraná;UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ;ORTOPEDIA E TRAUMATOLOGIA;2;Isabelle Carolina Gaião Da Costa
+PARANÁ;HCL - Hospital do Câncer de Londrina;HOSPITAL DO CÂNCER DE LONDRINA;CANCEROLOGIA CIRÚRGICA;;Cristiano Ontivero Pereira
+PARANÁ;HCL - Hospital do Câncer de Londrina;HOSPITAL DO CÂNCER DE LONDRINA;CANCEROLOGIA CIRÚRGICA;;Renan Cesar Menolli
+PARANÁ;HCL - Hospital do Câncer de Londrina;HOSPITAL DO CÂNCER DE LONDRINA;CANCEROLOGIA CLÍNICA;;Marcos Rezende De Jesus Teixeira
+PARANÁ;HCL - Hospital do Câncer de Londrina;HOSPITAL DO CÂNCER DE LONDRINA;CANCEROLOGIA CLÍNICA;;Mariana Miyasaki Piovesana
+PARANÁ;HNSG CURITIBA - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;ANESTESIOLOGIA;1;Guilherme Pandolfo
+PARANÁ;HNSG CURITIBA - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;ANESTESIOLOGIA;2;Diogo Rodrigues Da Silva Cunha
+PARANÁ;HNSG CURITIBA - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;CIRURGIA GERAL;1;Rebeca De Oliveira Camargo
+PARANÁ;HNSG CURITIBA - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;CIRURGIA GERAL;2;Felipe Guilherme Gonçalves Da Rosa
+PARANÁ;HNSG CURITIBA - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Bruno Grande Da Cunha
+PARANÁ;HNSG CURITIBA - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;David Caetano Bastos
+PARANÁ;HNSG CURITIBA - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;CARDIOLOGIA;1;Pedro Henrique Barbosa Daniel
+PARANÁ;HNSG CURITIBA - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;CARDIOLOGIA;2;Sandra Mara Caetano Moraes
+PARANÁ;HNSG CURITIBA - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;CANCEROLOGIA CIRÚRGICA;1;Brenno Giovanni Hernando Vidotti
+PARANÁ;HNSG CURITIBA - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;CANCEROLOGIA CLÍNICA;1;Eduardo Kulak Nardolny
+PARANÁ;HNSG CURITIBA - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;NEUROLOGIA;1;Samuel Cândido Freres
+PARANÁ;HNSG CURITIBA - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;CLÍNICA MÉDICA;1;Mariana Guimarães Valim
+PARANÁ;HNSG CURITIBA - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;CLÍNICA MÉDICA;2.
+PARANÁ;HNSG CURITIBA - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;CIRURGIA DO APARELHO DIGESTIVO;1;Luiz Francisco Cravo Bettini
+PARANÁ;HNSG CURITIBA - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;UROLOGIA;1;Bruno Bertoni Ferraz
+PARANÁ;HNSG CURITIBA - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;UROLOGIA;2;Carlos Augusto Woidello
+PARANÁ;HNSG CURITIBA - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;CIRURGIA VASCULAR;1;Patrícia Moraes
+PARANÁ;HNSG CURITIBA - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;CIRURGIA TORÁCICA;1;Rafael Werner Tschoeke
+PARANÁ;HNSG CURITIBA - Hospital Nossa Senhora das Graças;HOSPITAL NOSSA SENHORA DAS GRAÇAS;ENDOSCOPIA;1;André Marussi Morsoletto
+PARANÁ;HT - Hospital do Trabalhador;HOSPITAL DO TRABALHADOR;CIRURGIA GERAL;1;Melissa Mello Mazepa
+PARANÁ;HT - Hospital do Trabalhador;HOSPITAL DO TRABALHADOR;CIRURGIA GERAL;2;Joao Otavio Varaschin Zeni
+PARANÁ;HT - Hospital do Trabalhador;HOSPITAL DO TRABALHADOR;CIRURGIA GERAL;3;Rodrigo Krieger Martins
+PARANÁ;HT - Hospital do Trabalhador;HOSPITAL DO TRABALHADOR;CIRURGIA GERAL;4;Gustavo Guerchon
+PARANÁ;HT - Hospital do Trabalhador;HOSPITAL DO TRABALHADOR;CIRURGIA GERAL;5;Felipe Salvagni Pereira
+PARANÁ;HT - Hospital do Trabalhador;HOSPITAL DO TRABALHADOR;ANESTESIOLOGIA;1;Thiago Linck Pazeto
+PARANÁ;HT - Hospital do Trabalhador;HOSPITAL DO TRABALHADOR;ANESTESIOLOGIA;2;Henrique Nogueira Rasera
+PARANÁ;HT - Hospital do Trabalhador;HOSPITAL DO TRABALHADOR;MEDICINA DO TRABALHO;1;Erick Do Prado Uchida
+PARANÁ;HT - Hospital do Trabalhador;HOSPITAL DO TRABALHADOR;MEDICINA DO TRABALHO;2;Gisele Finato Pires
+PARANÁ;HT - Hospital do Trabalhador;HOSPITAL DO TRABALHADOR;MEDICINA INTENSIVA;1;Bruno Alcantara Gabardo
+PARANÁ;HT - Hospital do Trabalhador;HOSPITAL DO TRABALHADOR;MEDICINA INTENSIVA;2;Mauricio Mascarenhas Boaventura
+PARANÁ;HT - Hospital do Trabalhador;HOSPITAL DO TRABALHADOR;CIRURGIA VASCULAR;1;Joaquim Lorenzetti Andrade
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;ANESTESIOLOGIA;1;Rafael Mahnic Villa
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;ANESTESIOLOGIA;2;Lucas De Freitas Santos
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;ANESTESIOLOGIA;3;Guilherme Picinin Navarini
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;CARDIOLOGIA;1;Luara De Aragão Miguita
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;CARDIOLOGIA;2;Eddio Pedro Leveck Guimaraes
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;CARDIOLOGIA;3;Giulianna Maran Andrade
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;CIRURGIA GERAL;1;Caio Satoru Ramos Saito
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;CIRURGIA GERAL;2;Odilon Henrique Bento Gonçalves
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;CIRURGIA GERAL;3;Thayla Valderrama Bicheri
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;CIRURGIA GERAL;4;Larissa Yuri Hara
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;CIRURGIA GERAL;5;Victor Hugo Souza Hortense
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;ORTOPEDIA E TRAUMATOLOGIA;1;Isabelle Mariah Campestrini Collett
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;ORTOPEDIA E TRAUMATOLOGIA;2;Cassiano Roberto De Abreu Chaves Da Silva
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;ORTOPEDIA E TRAUMATOLOGIA;3;Caio De Almeida Toledo Pires
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;CIRURGIA VASCULAR;1;Tiago Francisco Meleiro Zubiolo
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;CLÍNICA MÉDICA;1;Valeria Rodrigues Celloto
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;CLÍNICA MÉDICA;2;Marilia Burdini Borghi
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;CLÍNICA MÉDICA;3;Camila Avila Megda Cabianca
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;CLÍNICA MÉDICA;4;Gabriel Caetano Pereira
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;CLÍNICA MÉDICA;5;Marcel Augusto Magri
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;CLÍNICA MÉDICA;6.
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;MEDICINA DE FAMÍLIA E COMUNIDADE;1;Paulo Henrique Mai
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;MEDICINA DE FAMÍLIA E COMUNIDADE;2;Denise Franqui Belato
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;NEFROLOGIA;1;Valmor Issii Giavarina
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;NEFROLOGIA;2;Marcella Augusta Rocha Gomes
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;ENDOSCOPIA;1;Rodnei Bertazzi Sampietro
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;ENDOSCOPIA;2.
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;NEUROCIRURGIA;1;Hugo Akio Hasegawa
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;NEUROLOGIA;1.
+PARANÁ;ISCAL - IRMANDADADE DA SANTA CASA DE LONDRINA;IRMANDADE DA SANTA CASA DE LONDRINA;NEUROLOGIA;2;Isabela Zanellato Marques
+PARANÁ;UOPECCAN - União Oeste Paranaense de Estudos e Combate ao Câncer;UNIÃO OESTE PARANAENSE DE ESTUDOS E COMBATE AO CÂNCER;CANCEROLOGIA CIRÚRGICA;1;Guilherme Luiz Lenzi Pupulim
+PARANÁ;UOPECCAN - União Oeste Paranaense de Estudos e Combate ao Câncer;UNIÃO OESTE PARANAENSE DE ESTUDOS E COMBATE AO CÂNCER;CANCEROLOGIA CIRÚRGICA;2;Mariana Juliato Becker
+PARANÁ;HCC - Hospital Cardiológico Costantini;HOSPITAL CARDIOLÓGICO COSTANTINI;CARDIOLOGIA;;Mariana Cristina São Miguel
+PARANÁ;HCC - Hospital Cardiológico Costantini;HOSPITAL CARDIOLÓGICO COSTANTINI;CARDIOLOGIA;;Caroline Cantalejo Mazzaro
+PARANÁ;HCC - Hospital Cardiológico Costantini;HOSPITAL CARDIOLÓGICO COSTANTINI;CARDIOLOGIA;;Mariana Yuri Nakamura
+PARANÁ;HCC - Hospital Cardiológico Costantini;HOSPITAL CARDIOLÓGICO COSTANTINI;CARDIOLOGIA;;Felipe Augusto De Paiva Dias
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;ANESTESIOLOGIA;1;Ivo Estevao Luft Neto
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;ANESTESIOLOGIA;2;Henrique Nogueira Rasera
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;ANESTESIOLOGIA;3;Jessica Pereira Sauer
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;ANESTESIOLOGIA;4;Fabiano De Mattos Urquiza
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;DERMATOLOGIA;1;Silvia Irla Alfaro Yabar
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;DERMATOLOGIA;2;Joane Nathache Hatsbach De Paula
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;DERMATOLOGIA;3;Murilo Perin Da Silva
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;ENDOCRINOLOGIA E METABOLOGIA;1;Erica Navarro Scaliante
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;ENDOCRINOLOGIA E METABOLOGIA;2;Maicon Cesar Canuto
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;INFECTOLOGIA;1;Rafael Martins Viana
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;INFECTOLOGIA;2;Ingrid Emily Alencar Bento
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;PEDIATRIA;1;Maria Julia Da Silva Mattos
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;PEDIATRIA;2;Mario Kamil Abizaid
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;PEDIATRIA;3.
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;PEDIATRIA;4;Maria Eduarda Giglini Peixoto
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;PEDIATRIA;5;Camila Sabbag Camargo Penteado
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;PEDIATRIA;6;Fabiola Caroline Da Silva
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;PEDIATRIA;7;Gabrielly De Araujo
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;PEDIATRIA;8;Patricia Basso Moreira
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;PEDIATRIA;9;Ana Louise Groenwold
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;PEDIATRIA;10;Juliana Ferreira Martelozzo
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;MEDICINA INTENSIVA PEDIÁTRICA;1;Fernando Perazolo De Lima
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;MEDICINA INTENSIVA PEDIÁTRICA;2;Paula Tammy Nakamura Moriya
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;NEONATOLOGIA;1;Marcelle De Oliveira Peripolli
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;NEONATOLOGIA;2;Maristela Pivetta
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;NEONATOLOGIA;3;Carolina Sartini Stocco
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;OBSTETRÍCIA E GINECOLOGIA;1;Emiliane Martinez Favoreto
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;OBSTETRÍCIA E GINECOLOGIA;2;Eduarda Garcia Grande
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;OBSTETRÍCIA E GINECOLOGIA;3;Polyana Fernandes Flores Pereira
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;OBSTETRÍCIA E GINECOLOGIA;4;Amanda Homse Netto
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;OBSTETRÍCIA E GINECOLOGIA;5;Roberta Tranchina
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;OBSTETRÍCIA E GINECOLOGIA;6;Wellinthon Verginelli
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;OBSTETRÍCIA E GINECOLOGIA;7;Rafaela Rossi Assmann
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;OBSTETRÍCIA E GINECOLOGIA;8;Michelly Terziotti De Oliveira
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;ORTOPEDIA E TRAUMATOLOGIA;1;Carlos Augusto Nunes Martini
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;ORTOPEDIA E TRAUMATOLOGIA;2;Rene Hobi
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;ORTOPEDIA E TRAUMATOLOGIA;3;Caio Cesar Secci
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;OTORRINOLARINGOLOGIA;1;Dayane Botini
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;OTORRINOLARINGOLOGIA;2;Thiago Sasso Carmona De Souza
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CIRURGIA GERAL;1;Vinicio Manella Pimentel
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CIRURGIA GERAL;2;Luiz Paulo Junqueira Rigolon
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CIRURGIA GERAL;3;Lucas Vasconcelos Sanvido
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CIRURGIA GERAL;4;Helder De Moura Villela Junior
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CIRURGIA GERAL;5;Lucas Mansano Sarquis
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CIRURGIA GERAL;6;Igor Furlan Cella
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CIRURGIA GERAL;7.
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CIRURGIA GERAL;8;Agnaldo Sergio Vivan Filho
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CLÍNICA MÉDICA;1;Luana Felcar Soares
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CLÍNICA MÉDICA;2;Andressa Higa Shinzato
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CLÍNICA MÉDICA;3;Joao Lucas Martins Gorzoni
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CLÍNICA MÉDICA;4.
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CLÍNICA MÉDICA;5;Maykon Martins De Souza
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CLÍNICA MÉDICA;6;Mariane Higa Shinzato
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CLÍNICA MÉDICA;7;Luiza Dalfovo Esteves Santos
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CLÍNICA MÉDICA;8;Gabriella Franca Pogorzelski
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CLÍNICA MÉDICA;9;Ricardo Neif Vieira Musse
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CLÍNICA MÉDICA;10;Isadora Medina
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CLÍNICA MÉDICA;11;Gustavo Benassi Turrissi
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CLÍNICA MÉDICA;12;Maria Laura De Araujo Falcao Sento Se Valverde
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CLÍNICA MÉDICA;13;Marcel Augusto Magri
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CLÍNICA MÉDICA;14;Gabriela Martini Raitz
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CLÍNICA MÉDICA;15.
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;NEUROCIRURGIA;1;Jaqueline Leotte
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;NEUROLOGIA;1;Jean Paulo Coelho Leal
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;NEUROLOGIA;2;Leo Coutinho
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;OFTALMOLOGIA;1;Bernardo Bolzani Bach
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;PATOLOGIA;1;Mayara Jackeline Cordaco
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;PNEUMOLOGIA;1;Taysa Antonia Felix Da Silva
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;PNEUMOLOGIA;2;Bruna Gheller
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;PSIQUIATRIA;1;Lucas Romagnolli
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;PSIQUIATRIA;2;Eduardo Luiz Frassato
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;PSIQUIATRIA;3;Guilherme Vargas De Azevedo
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;ANGIORRADIOLOGIA E CIRURGIA ENDOVASCULAR;1;Guilherme Da Silva Silvestre
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CARDIOLOGIA;1;Natalia Marcusso Massoni
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CARDIOLOGIA;2;Luis Henrique Crispin Leite
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CARDIOLOGIA;3;Rafael Goulart Araujo
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;REUMATOLOGIA;1;Leticia Pastorelli Bonjorno
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;REUMATOLOGIA;2;Edgar Baldi Castro
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;TRANSPLANTE DE CÓRNEA;1;Cristina Sandri Rossato
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;UROLOGIA;1;Andre Fernando Tannouri Garbin
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CIRURGIA PEDIÁTRICA;1;Heloisa De Carvalho Mota Menezes
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;CIRURGIA VASCULAR;1;Daniel Miguel Mauro
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;INFECTOLOGIA PEDIÁTRICA;1;Carina Luiza Martins Jock
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;INFECTOLOGIA PEDIÁTRICA;2.
+PARANÁ;UEL - Universidade Estadual de Londrina;UNIVERSIDADE ESTADUAL DE LONDRINA;MEDICINA INTENSIVA;1;Carolina Caires Amorese
+PARANÁ;HPPB - Hospital São Lucas de Pato Branco;HOSPITAL SÃO LUCAS DE PATO BRANCO;CIRURGIA GERAL;1;Jéssica Scherer Dagostini
+PARANÁ;HPPB - Hospital São Lucas de Pato Branco;HOSPITAL SÃO LUCAS DE PATO BRANCO;CIRURGIA GERAL;2;Danilo Toaldo Neto
+PARANÁ;HPPB - Hospital São Lucas de Pato Branco;HOSPITAL SÃO LUCAS DE PATO BRANCO;PEDIATRIA;1;Ana Bárbara Sousa Fiedler
+PARANÁ;HPPB - Hospital São Lucas de Pato Branco;HOSPITAL SÃO LUCAS DE PATO BRANCO;PEDIATRIA;2;Giliana Spilere Peruchi
+PARANÁ;HPPB - Hospital São Lucas de Pato Branco;HOSPITAL SÃO LUCAS DE PATO BRANCO;ORTOPEDIA E TRAUMATOLOGIA;1;Michel Henrique Zung De Andrade
+PARANÁ;HPPB - Hospital São Lucas de Pato Branco;HOSPITAL SÃO LUCAS DE PATO BRANCO;ORTOPEDIA E TRAUMATOLOGIA;2.
+PARANÁ;SCM - Santa Casa de Misericórdia de Maringá;SANTA CASA DE MISERICÓRDIA DE MARINGÁ;CLÍNICA MÉDICA;1;Diandra Flávia Manfroi
+PARANÁ;SCM - Santa Casa de Misericórdia de Maringá;SANTA CASA DE MISERICÓRDIA DE MARINGÁ;CLÍNICA MÉDICA;2;Samara Siqueira Emerich
+PARANÁ;SCM - Santa Casa de Misericórdia de Maringá;SANTA CASA DE MISERICÓRDIA DE MARINGÁ;CLÍNICA MÉDICA;3;Felipe Ranieri Mocellin
+PARANÁ;SCM - Santa Casa de Misericórdia de Maringá;SANTA CASA DE MISERICÓRDIA DE MARINGÁ;CLÍNICA MÉDICA;4;Daniel Catto De Marchi
+PARANÁ;SCM - Santa Casa de Misericórdia de Maringá;SANTA CASA DE MISERICÓRDIA DE MARINGÁ;OBSTETRÍCIA E GINECOLOGIA;1;Nathália Martins Lopes
+PARANÁ;SCM - Santa Casa de Misericórdia de Maringá;SANTA CASA DE MISERICÓRDIA DE MARINGÁ;OBSTETRÍCIA E GINECOLOGIA;2;Fernanda Alves Monteiro
+PARANÁ;SCM - Santa Casa de Misericórdia de Maringá;SANTA CASA DE MISERICÓRDIA DE MARINGÁ;NEFROLOGIA;1;Fabio Morbin Torres
+PARANÁ;SCM - Santa Casa de Misericórdia de Maringá;SANTA CASA DE MISERICÓRDIA DE MARINGÁ;NEFROLOGIA;2;Liciane Arpini Zeni
+PARANÁ;SCM - Santa Casa de Misericórdia de Maringá;SANTA CASA DE MISERICÓRDIA DE MARINGÁ;MEDICINA INTENSIVA;1;Daniela Fernandes
+PARANÁ;SCM - Santa Casa de Misericórdia de Maringá;SANTA CASA DE MISERICÓRDIA DE MARINGÁ;MEDICINA INTENSIVA;2.
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;ANESTESIOLOGIA;1;Carlos Alexandre Zanzin Manrique
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;ANESTESIOLOGIA;2;Thiago Vinicius Froes Laurindo
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;CIRURGIA GERAL;1;Lucas Zenni Salomão
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;CIRURGIA GERAL;2;Lucas Danillo Moreira De Jesus
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;CLÍNICA MÉDICA;1;Michel Lima Moro Alves
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;CLÍNICA MÉDICA;2;Gabriel Caetano Pereira
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;CLÍNICA MÉDICA;3;Paola Lobo Muniz
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;CLÍNICA MÉDICA;4;Diandra Flavia Manfroi
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;MEDICINA DE FAMÍLIA E COMUNIDADE;1;Rafael Prizon Tronco
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;MEDICINA DE FAMÍLIA E COMUNIDADE;2;Paulo Henrique Mai
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;OBSTETRÍCIA E GINECOLOGIA;1;Ariadine Pereira De Oliveira
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;OBSTETRÍCIA E GINECOLOGIA;2.
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;OBSTETRÍCIA E GINECOLOGIA;3;Audria Taiane Souza Dos Santos
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;PEDIATRIA;1;Maria Julia Da Silva Mattos
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;PEDIATRIA;2;Thayse Packo Campos
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;PEDIATRIA;3;Giliana Spilere Peruchi
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;PEDIATRIA;4;Arthur De Andrade Oliveira
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;PSIQUIATRIA;1;Rony Franco Santos Pedroso
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;PSIQUIATRIA;2;Caroline Yaciko De Oliveira Kanegusuku
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;PSIQUIATRIA;3;Lis Osaku
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;PSIQUIATRIA;4.
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;MEDICINA INTENSIVA PEDIÁTRICA;1;Ana Clara De Albuquerque Botura
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;MEDICINA INTENSIVA PEDIÁTRICA;2;Ana Luiza Gomes De Souza
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;NEONATOLOGIA;1;Germana Lopes De Andrade
+PARANÁ;UEM - Universidade Estadual de Maringá;UNIVERSIDADE ESTADUAL DE MARINGÁ;REUMATOLOGIA;1;Sueny De Paula Monarin
+PARANÁ;HRPG - Hospital Universitário Regional dos Campos Gerais;HOSPITAL UNIVERSITÁRIO REGIONAL DOS CAMPOS GERAIS;CLÍNICA MÉDICA;1;Ariane Carla Horiuchi
+PARANÁ;HRPG - Hospital Universitário Regional dos Campos Gerais;HOSPITAL UNIVERSITÁRIO REGIONAL DOS CAMPOS GERAIS;CLÍNICA MÉDICA;2;Rafaela Galli
+PARANÁ;HRPG - Hospital Universitário Regional dos Campos Gerais;HOSPITAL UNIVERSITÁRIO REGIONAL DOS CAMPOS GERAIS;CIRURGIA GERAL;1;Tarsisio Caetano Dos Santos
+PARANÁ;HRPG - Hospital Universitário Regional dos Campos Gerais;HOSPITAL UNIVERSITÁRIO REGIONAL DOS CAMPOS GERAIS;CIRURGIA GERAL;2;Lucas Mansano Sarquis
+PARANÁ;HRPG - Hospital Universitário Regional dos Campos Gerais;HOSPITAL UNIVERSITÁRIO REGIONAL DOS CAMPOS GERAIS;CIRURGIA GERAL;3;Theodor Beck
+PARANÁ;HRPG - Hospital Universitário Regional dos Campos Gerais;HOSPITAL UNIVERSITÁRIO REGIONAL DOS CAMPOS GERAIS;CIRURGIA GERAL;4;Odilon Henrique Bento Gonçalves
+PARANÁ;HRPG - Hospital Universitário Regional dos Campos Gerais;HOSPITAL UNIVERSITÁRIO REGIONAL DOS CAMPOS GERAIS;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Beatriz Bandeira De Andrade
+PARANÁ;HRPG - Hospital Universitário Regional dos Campos Gerais;HOSPITAL UNIVERSITÁRIO REGIONAL DOS CAMPOS GERAIS;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Yoram Balderrama Da Frota
+PARANÁ;HRPG - Hospital Universitário Regional dos Campos Gerais;HOSPITAL UNIVERSITÁRIO REGIONAL DOS CAMPOS GERAIS;ORTOPEDIA E TRAUMATOLOGIA;1;Leonardo Wustro
+PARANÁ;HRPG - Hospital Universitário Regional dos Campos Gerais;HOSPITAL UNIVERSITÁRIO REGIONAL DOS CAMPOS GERAIS;OTORRINOLARINGOLOGIA;1;Thiago Sasso Carmona De Souza
+PARANÁ;HRPG - Hospital Universitário Regional dos Campos Gerais;HOSPITAL UNIVERSITÁRIO REGIONAL DOS CAMPOS GERAIS;ANESTESIOLOGIA;1;Henrique Nogueira Rasera
+PARANÁ;HRPG - Hospital Universitário Regional dos Campos Gerais;HOSPITAL UNIVERSITÁRIO REGIONAL DOS CAMPOS GERAIS;MEDICINA DE FAMÍLIA E COMUNIDADE;1;Evelyn Medina Ortiz
+PARANÁ;HRPG - Hospital Universitário Regional dos Campos Gerais;HOSPITAL UNIVERSITÁRIO REGIONAL DOS CAMPOS GERAIS;MEDICINA DE FAMÍLIA E COMUNIDADE;2.
+PARANÁ;HRPG - Hospital Universitário Regional dos Campos Gerais;HOSPITAL UNIVERSITÁRIO REGIONAL DOS CAMPOS GERAIS;NEUROLOGIA;1;Pedro Paulo Cheroto De Rezende
+PARANÁ;HRPG - Hospital Universitário Regional dos Campos Gerais;HOSPITAL UNIVERSITÁRIO REGIONAL DOS CAMPOS GERAIS;NEUROLOGIA;2.
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;ANESTESIOLOGIA;1;Guilherme Amando De Carvalho
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;ANESTESIOLOGIA;2;Diogo Rodrigues Da Silva Cunha
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;CIRURGIA GERAL;1;Laísa Brandão Carvalho
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;CIRURGIA GERAL;2;Thyago De Almeida Barbosa
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;CIRURGIA GERAL;3;Taynara Dantas De Souza
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;CLÍNICA MÉDICA;1;Danieli Cristina Pigozzo
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;CLÍNICA MÉDICA;2.
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;CLÍNICA MÉDICA;3;Monise Dechechi Dias
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;CLÍNICA MÉDICA;4.
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;CLÍNICA MÉDICA;5;Otavio Augusto Noschang Moreira
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;CLÍNICA MÉDICA;6;Mauren Beatriz Frazon Carbonar
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;MEDICINA DE FAMÍLIA E COMUNIDADE;1;Oquesana Silva
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;MEDICINA DE FAMÍLIA E COMUNIDADE;2;Danielle Pereira Pires
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;MEDICINA DE FAMÍLIA E COMUNIDADE;3;Denise Cristina Pires De Amorim
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;OBSTETRÍCIA E GINECOLOGIA;1;Heloisa Amaral Junqueira Nobrega
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;OBSTETRÍCIA E GINECOLOGIA;2.
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;OBSTETRÍCIA E GINECOLOGIA;3;Danieli De Campos Feil
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;OBSTETRÍCIA E GINECOLOGIA;4;Heloisa Zimmermann Rocha
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;OBSTETRÍCIA E GINECOLOGIA;5.
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;ORTOPEDIA E TRAUMATOLOGIA;1;Pedro Henrique De Sá Neves
+PARANÁ;SMS SJP - Secretaria Municipal de Saúde de São José dos Pinhais;SECRETARIA MUNICIPAL DA SAÚDE DE SÃO JOSÉ DOS PINHAIS;ORTOPEDIA E TRAUMATOLOGIA;2;Eduardo Alexandre Da Silva
+PARANÁ;HSLC - HOSPITAL SÃO LUCAS DE CASCAVEL;HOSPITAL SÃO LUCAS DE CASCAVEL;CLÍNICA MÉDICA;1;Felipe Rodrigues Dias
+PARANÁ;HSLC - HOSPITAL SÃO LUCAS DE CASCAVEL;HOSPITAL SÃO LUCAS DE CASCAVEL;CLÍNICA MÉDICA;2;Douglas Turim
+PARANÁ;HSLC - HOSPITAL SÃO LUCAS DE CASCAVEL;HOSPITAL SÃO LUCAS DE CASCAVEL;CIRURGIA GERAL;1;Murilo Masanobu Tomiyoshi
+PARANÁ;HSLC - HOSPITAL SÃO LUCAS DE CASCAVEL;HOSPITAL SÃO LUCAS DE CASCAVEL;CIRURGIA GERAL;2;Barbara Anahy Vinhas Bazzano
+PARANÁ;HSLC - HOSPITAL SÃO LUCAS DE CASCAVEL;HOSPITAL SÃO LUCAS DE CASCAVEL;GINECOLOGIA E OBSTETRÍCIA;1;Amanda Gabriela Giusti Bandeira
+PARANÁ;HSLC - HOSPITAL SÃO LUCAS DE CASCAVEL;HOSPITAL SÃO LUCAS DE CASCAVEL;GINECOLOGIA E OBSTETRÍCIA;2;Bruna Martini Borbolato
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;ANESTESIOLOGIA;1;Thiago Linck Pazeto
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;ANESTESIOLOGIA;2;Henrique Nogueira Rasera
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA GERAL;1;Melissa Mello Mazepa
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA GERAL;2;Joao Otavio Varaschin Zeni
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA GERAL;3;Rodrigo Krieger Martins
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA GERAL;4;Gustavo Guerchon
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA GERAL;5;Felipe Salvagni Pereira
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA GERAL;6;Lucas Mansano Sarquis
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA GERAL;7;Luiz Paulo Junqueira Rigolon
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA GERAL;8;Carlos Humberto Guilman Tanizawa
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;1.
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;2;Pamela Camara Maciel
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;3;Matheus Silva Koike
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;4;Hygor Trombetta
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;5;Paulo Henrique Lazzaris Coelho
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;6;Luiza De Martino Cruvinel Borges
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;7;Gabriela Piovezani Ramos
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;8;Pedro Gabriel Lorencetti
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;9;Victor Jose Dornelas Melo
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;10.
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;11;Luis Felipe Izycki
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;12;Rafaela Galli
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;13;Carlos Arthur Hansel Diniz Da Costa
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;14;Thais Miranda Da Silva Andrade
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;15;Lisie Cristini Bicalho
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;16;Stella Bozza Kapp
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;17;Luciana Souza De Oliveira
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;18;Nicholas Kenzo Kishida Dias
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;19;Bruno Mendes Soares
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;20;Maria Amelia Santilli
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA;21;Luiz Gustavo De Matos
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;DERMATOLOGIA;1;Joane Nathache Hatsbach De Paula
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;DERMATOLOGIA;2;Caroline Orso
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;OFTALMOLOGIA;1;Bernardo Bolzani Bach
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;OFTALMOLOGIA;2;Maria Julia Philippi Silveira
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;OFTALMOLOGIA;3;Daiane Bergamim
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;OTORRINOLARINGOLOGIA;1;Marcelly Botelho Soares
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;OTORRINOLARINGOLOGIA;2;Isadora Moscardini Fabiani
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;OTORRINOLARINGOLOGIA;3;Thiago Sasso Carmona De Souza
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PATOLOGIA;1;Mayara Arantes
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PATOLOGIA;2;Samuel Candido Freres
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PEDIATRIA;1;Ariadne Becker
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PEDIATRIA;2;Rafaela Fabri Rosenstein
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PEDIATRIA;3;Felipe Augusto Moreschi
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PEDIATRIA;4;Legiane Maria Bastos
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PEDIATRIA;5;Jessica Chaves
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PEDIATRIA;6.
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PEDIATRIA;7;Aline Torres Da Cruz
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PEDIATRIA;8;Maria Julia Da Silva Mattos
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PEDIATRIA;9;Larissa Camargo Boaron
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PEDIATRIA;10;Damaris Kener
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PEDIATRIA;11;Nathalia Lemos Steinke De Souza
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PEDIATRIA;12;Lislaine Cruz Batista
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PEDIATRIA;13;Rayana Camille Leichtweis De Oliveira
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PEDIATRIA;14;Mariana Ribeiro E Silva
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PEDIATRIA;15;Jesse Vinicius Lana
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PEDIATRIA;16;Eduardo Augusto Spies Adamy
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PSIQUIATRIA;1;Gabriel Henrique De Oliveira Garcia
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PSIQUIATRIA;2;Izabela Gomes Guarinon
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PSIQUIATRIA;3;Natalie Vieira Zanini
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PSIQUIATRIA;4;Marcelo Rafael Silva Rempel
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PSIQUIATRIA;5;Glauber Fernando Ratzkob
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;GINECOLOGIA E OBSTETRÍCIA;1;Ana Carolina Possebom
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;GINECOLOGIA E OBSTETRÍCIA;2;Vitoria Bishop Scherner
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;GINECOLOGIA E OBSTETRÍCIA;3;Barbara Milena Marciniak
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;GINECOLOGIA E OBSTETRÍCIA;4;Isabela Chaves Monteiro Soares
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;GINECOLOGIA E OBSTETRÍCIA;5;Marina Manuella Empinotti
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;GINECOLOGIA E OBSTETRÍCIA;6;Eduarda Garcia Grande
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;GINECOLOGIA E OBSTETRÍCIA;7;Jullie Anne Chiste
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;GINECOLOGIA E OBSTETRÍCIA;8;Suelen Maria Parizotto Furlan
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;NEUROCIRURGIA;1;Nick Dorneli De Carvalho
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;ORTOPEDIA E TRAUMATOLOGIA;1.
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;ORTOPEDIA E TRAUMATOLOGIA;2.
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;ORTOPEDIA E TRAUMATOLOGIA;3;Matheus Weihermann Guesser
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;ORTOPEDIA E TRAUMATOLOGIA;4;Heloisa Zimmermann Faggion
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;ORTOPEDIA E TRAUMATOLOGIA;5;Paulo Henrique Silva Meira
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;NEUROLOGIA;1.
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;NEUROLOGIA;2;Cesar Castello Branco Lopes
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;NEUROLOGIA;3;Emanuel Cassou Dos Santos
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;NEUROLOGIA;4;Dafne Luana Bayer
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;NEUROLOGIA;5;Marlon Wycliff Caeira
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Thiago Henrique Roza
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Luis Henrique Bordini
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;3.
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;4;Quezia Tizo Santos
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;5;David Caetano Bastos
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA DE MÃO;1;Manuel Agnelo Dos Santos Junior
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA DE MÃO;2;Wilson Huang
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA DO APARELHO DIGESTIVO;1;Luciano Trombini
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA DO APARELHO DIGESTIVO;2;Luiz Francisco Cravo Bettini
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA DO APARELHO DIGESTIVO;3;Ricardo Yaguishita
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA DO APARELHO DIGESTIVO;4.
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA PEDIÁTRICA;1;Ana Claudia Marchi Barros
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA PEDIÁTRICA;2;Karin Aparecida Becker
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA PLÁSTICA;1;Fabiola Grigoletto Lupion
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA PLÁSTICA;2;Silvia Helena Mandu
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;COLOPROCTOLOGIA;1;Mariane Christina Savio
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;UROLOGIA;1;Bruno Bertoni Ferraz
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;UROLOGIA;2;Joaquim Lorenzetti Andrade
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CANCEROLOGIA CLÍNICA;1;Rayana Pecharki Teixeira
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CANCEROLOGIA CLÍNICA;2;Mariana Miyasaki Piovesana
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CARDIOLOGIA;1;Robson Fernando Garcia De Lima
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CARDIOLOGIA;2;Rafael Massaharu Miyazima
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CARDIOLOGIA;3;Arthur Nascimento De Moura
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CARDIOLOGIA;4;Mariana Cristina Sao Miguel
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CARDIOLOGIA;5;Lucas Araujo Barbosa
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CARDIOLOGIA;6.
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CARDIOLOGIA;7;Vivien Ritchie Bittencourt
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CARDIOLOGIA;8;Alvaro Augusto Vedana Filho
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CLÍNICA MÉDICA R3;1;Bruna Olandoski Erbano
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;ECOCARDIOGRAFIA;1;Talita Beithum Ribeiro
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;ECOCARDIOGRAFIA;2;Danielle De Paula E Silva Carneiro
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;ENDOCRINOLOGIA E METABOLOGIA;1;Vinicius Mariotti Machado
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;ENDOCRINOLOGIA E METABOLOGIA;2;Isabela Bussolo
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;ENDOCRINOLOGIA E METABOLOGIA;3;Bianca Schulham E Silva
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;ENDOSCOPIA DIGESTIVA;1;Nelson Silveira Cathcart Jr
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;ENDOSCOPIA DIGESTIVA;2;Renata Pereira Mueller
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;GASTROENTEROLOGIA;1;Leticia Rosevics
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;GASTROENTEROLOGIA;2;Bruna Streppel Fossati
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HEMATOLOGIA E HEMOTERAPIA;1;Isabela Menezes
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HEMATOLOGIA E HEMOTERAPIA;2;Rafael Marchesini
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HEMATOLOGIA E HEMOTERAPIA;3;Giuliana Rosendo De Oliveira
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;MEDICINA INTENSIVA;1;Bruno Alcantara Gabardo
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;MEDICINA INTENSIVA;2;Mauricio Mascarenhas Boaventura
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;NEUROFISIOLOGIA CLÍNICA (EPILEPSIA);1;Paula Teixeira Marques
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;NEUROFISIOLOGIA CLÍNICA (NEUROMUSCULAR);1;Livia Pinheiro De Oliveira
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PNEUMOLOGIA;1.
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PNEUMOLOGIA;2;Rebecca Saray Marchesini Stival
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PNEUMOLOGIA;3;Camila Anton
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;REUMATOLOGIA;1;Afonso Papke
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;REUMATOLOGIA;2;Luan Felipe Lückmann
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;REUMATOLOGIA;3;Maria Eugenia Farias Teixeira
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;REUMATOLOGIA;4;Sueny De Paula Monarin
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;TRANSPLANTE DE MEDULA ÓSSEA;1;Lenisa Albanske Raboni
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;TRANSPLANTE DE MEDULA ÓSSEA;2;Alessandra Akemi Kawassaki Johann
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CANCEROLOGIA PEDIÁTRICA;1;Bruno Stinglin Madruga
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;INFECTOLOGIA PEDIÁTRICA;1;Renata Rolim Sakiyama
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;MEDICINA INTENSIVA PEDIÁTRICA;1;Mariana Ferreira Kienast
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;MEDICINA INTENSIVA PEDIÁTRICA;2;Emannuely Juliani Dos Santos Souza
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;NEONATOLOGIA;1;Fabricio Salles Rosa Solak
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;NEONATOLOGIA;2;Larissa Martins Mourao Oliveira
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;TRANSPLANTE EM CRIANÇAS E ADOLESCENTES;1;Polliany Roberta Dorini Pelegrina
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;TRANSPLANTE EM CRIANÇAS E ADOLESCENTES;2;Paula Tacla
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PSIQUIATRIA DA INFÂNCIA E ADOLESCÊNCIA;1;Fernando Brum Batista
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PSIQUIATRIA DA INFÂNCIA E ADOLESCÊNCIA;2;Leticia Pascelli Santana Santos
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA DO APARELHO DIGESTIVO (2º CONCURSO);1;Fabiana Godoy De Souza Miranda Palma
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA DO APARELHO DIGESTIVO (2º CONCURSO);2;Camila Gabriella Da Costa Belonci
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;INFECTOLOGIA HOSPITALAR;1;Raquel Bernardelli Goncalves
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;DOR;1;Olga Francis Pita Chagas
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;REUMATOLOGIA (2º CONCURSO);1;Isadora Welter Pioresan
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;REUMATOLOGIA (2º CONCURSO);2;Keoma Azevedo Sabiao
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA GERAL (2º CONCURSO);1.
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA GERAL (2º CONCURSO);2;Pedro Henrique Bragato
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA GERAL (2º CONCURSO);3;Kaue Barbosa De Carvalho
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA GERAL (2º CONCURSO);4.
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA GERAL (2º CONCURSO);5;Caroline Cunico
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;CIRURGIA GERAL (2º CONCURSO);6;Bruno Cesar Lubi Finck
+PARANÁ;HC UFPR - HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;HOSPITAL DE CLÍNICAS DA UNIVERSIDADE FEDERAL DO PARANÁ;PATOLOGIA (2º CONCURSO);1;Claudia Nami Yoda
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;ANESTESIOLOGIA;1;Mariella Bau
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;ANESTESIOLOGIA;2;Thiago Linck Pazeto
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;ANESTESIOLOGIA;3;Henrique Nogueira Rasera
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;ANESTESIOLOGIA;4;Pedro Tavares De Camargo Júnior
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;ANESTESIOLOGIA;5;Guilherme Amando De Carvalho
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CIRURGIA GERAL;1;Julielli Taques Colman
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CIRURGIA GERAL;2;Natasha Lure Bueno De Camargo
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CIRURGIA GERAL;3;Lucas Mansano Sarquis
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CIRURGIA GERAL;4;Melissa Mello Mazepa
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CIRURGIA GERAL;5;Ligia Heinrichs Freitas
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CIRURGIA GERAL;6;Lucas Vasconcelos Sanvido
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CLÍNICA MÉDICA;1;Leandro Bressianini Jurkonis
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CLÍNICA MÉDICA;2;Gabriela Martini Raitz
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CLÍNICA MÉDICA;3;Ana Claudia Janiszewski Goes
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CLÍNICA MÉDICA;4;Anna Louise Stellfeld Monteiro
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CLÍNICA MÉDICA;5.
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CLÍNICA MÉDICA;6;Luciana Souza De Oliveira
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CLÍNICA MÉDICA;7;Luiza De Martino Cruvinel Borges
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;NEUROCIRURGIA;1;Bruno Spindola Amaral Garcia De Freitas
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;NEUROCIRURGIA;2;Jessica Tamara De Oliveira
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;NEUROLOGIA;1;Emanuel Cassou Dos Santos
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;NEUROLOGIA;2;Gláuber Fernando Ratzkob
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;OFTALMOLOGIA;1;Juliana Schultz Waterloo
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;OFTALMOLOGIA;2;Rafaela Bigolin Siviero
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;ORTOPEDIA E TRAUMATOLOGIA;1;Mateus Bergamo Lomaz
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;ORTOPEDIA E TRAUMATOLOGIA;2;Lucas Tavares Conceição
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;ORTOPEDIA E TRAUMATOLOGIA;3;Felipe Santos Lima
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;ORTOPEDIA E TRAUMATOLOGIA;4;Igor Fiorese Vieira
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Julia De Freitas Azzolini
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2.
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CIRURGIA DO TRAUMA;1;Luiz Francisco Cravo Bettini
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CIRURGIA PLÁSTICA;1;Júlio César Magri
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CIRURGIA PLÁSTICA;2;Fabíola Grigoletto Lupion
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CIRURGIA TORÁCICA;1;Rafael Werner Tschoeke
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CIRURGIA TORÁCICA;2;Gustavo Falavigna Guilherme
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CIRURGIA VASCULAR;1;André Luiz Benção
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CIRURGIA VIDEOLAPAROSCÓPICA;1;Silvio Ivo Testa
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;COLOPROCTOLOGIA;1;Fernanda Da Silva Barbosa
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;PNEUMOLOGIA;1;Alana Bianchini Dias
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CIRURGIA DA MÃO;1;Ana Carolina Oliveira Da Silva
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL UNIVERSITÁRIO CAJURU;CIRURGIA DA MÃO;2;Felipe De Brito Rocha
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;ANESTESIOLOGIA;1;Mariella Bau
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;ANESTESIOLOGIA;2;Thiago Linck Pazeto
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;ANESTESIOLOGIA;3;Henrique Nogueira Rasera
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;ANESTESIOLOGIA;4;Pedro Tavares De Camargo Júnior
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;CIRURGIA GERAL;1;Julielli Taques Colman
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;CIRURGIA GERAL;2;Lucas Mansano Sarquis
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;CIRURGIA GERAL;3;Ligia Heinrichs Freitas
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;DERMATOLOGIA;1;Elisa Rohsig Dannebrock
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;DERMATOLOGIA;2;Joane Nathache Hatsbach De Paula
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;DERMATOLOGIA;3;Priscila Bossardi
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;GINECOLOGIA E OBSTETRÍCIA;1;Emiliane Martinez Favoreto
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;GINECOLOGIA E OBSTETRÍCIA;2;Isabela Chaves Monteiro Soares
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;OFTALMOLOGIA;1;Juliana Schultz Waterloo
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;OFTALMOLOGIA;2;Rafaela Bigolin Siviero
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;OFTALMOLOGIA;3;Jaqueline Pozzolo Ogeda
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;OFTALMOLOGIA;4;Angela Bocchese
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;ORTOPEDIA E TRAUMATOLOGIA;1;Mateus Bergamo Lomaz
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;ORTOPEDIA E TRAUMATOLOGIA;2;Lucas Tavares Conceição
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;ORTOPEDIA E TRAUMATOLOGIA;3;Felipe Santos Lima
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;ORTOPEDIA E TRAUMATOLOGIA;4;Igor Fiorese Vieira
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;OTORRINOLARINGOLOGIA;1;Thiago Sasso Carmona De Souza
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;OTORRINOLARINGOLOGIA;2;Patricia Cristina Scarabotto
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;CIRURGIA VASCULAR;1;André Luiz Benção
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;CIRURGIA VASCULAR;2;Lucianne Thais Alves Nogueira
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;UROLOGIA;1;Joaquim Lorenzetti Andrade
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;CARDIOLOGIA;1;Vanessa Wandeur
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;CARDIOLOGIA;2;Vivien Ritchie Bittencourt
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;CARDIOLOGIA;3;Luara De Aragão Miguita
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;CARDIOLOGIA;4;Robson Fernando Garcia De Lima
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;CARDIOLOGIA;5;Rafael Massaharu Miyazima
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;NEFROLOGIA;1;Kellen Thayanne Hangai
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;NEFROLOGIA;2;Guilherme Korting Schramm
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA;NEFROLOGIA;3;Daniela Peruzzo Da Silva
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL E MATERNIDADE SANTA BRÍGIDA;GINECOLOGIA E OBSTETRÍCIA;1;Emiliane Martinez Favoreto
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL E MATERNIDADE SANTA BRÍGIDA;GINECOLOGIA E OBSTETRÍCIA;2;Isabela Chaves Monteiro Soares
+PARANÁ;PUC PR - Pontifícia Universidade Católica do Paraná;HOSPITAL E MATERNIDADE SANTA BRÍGIDA;GINECOLOGIA E OBSTETRÍCIA;3;Ana Carolina Possebom
+PARANÁ;HMCC - Hospital Ministro Costa Cavalcanti;HOSPITAL MINISTRO COSTA CAVALCANTI;ANESTESIOLOGIA;1;Mariane Adelle Pereira De Souza
+PARANÁ;HMCC - Hospital Ministro Costa Cavalcanti;HOSPITAL MINISTRO COSTA CAVALCANTI;CARDIOLOGIA;1;Derileno Da Silva Viana
+PARANÁ;HMCC - Hospital Ministro Costa Cavalcanti;HOSPITAL MINISTRO COSTA CAVALCANTI;CARDIOLOGIA;2;Ali Samir Laila
+PARANÁ;HMCC - Hospital Ministro Costa Cavalcanti;HOSPITAL MINISTRO COSTA CAVALCANTI;GINECOLOGIA E OBSTETRÍCIA;1;Evelyn Medina Ortiz
+PARANÁ;HMCC - Hospital Ministro Costa Cavalcanti;HOSPITAL MINISTRO COSTA CAVALCANTI;GINECOLOGIA E OBSTETRÍCIA;2;Stephanie Stanger
+PARANÁ;HMCC - Hospital Ministro Costa Cavalcanti;HOSPITAL MINISTRO COSTA CAVALCANTI;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Kamila Longo Martins
+PARANÁ;HMCC - Hospital Ministro Costa Cavalcanti;HOSPITAL MINISTRO COSTA CAVALCANTI;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Emanuele Dagort
+PARANÁ;FUJICARE - Fujicare Cuidados em Saúde;FUJICARE CUIDADOS EM SAÚDE;CLÍNICA MÉDICA;1;Ana Maria Ulbricht Gomes
+PARANÁ;FUJICARE - Fujicare Cuidados em Saúde;FUJICARE CUIDADOS EM SAÚDE;CLÍNICA MÉDICA;2;Mauren Beatriz Frazon Carbonar
+PARANÁ;FUJICARE - Fujicare Cuidados em Saúde;FUJICARE CUIDADOS EM SAÚDE;CLÍNICA MÉDICA;3.
+PARANÁ;FUJICARE - Fujicare Cuidados em Saúde;FUJICARE CUIDADOS EM SAÚDE;CLÍNICA MÉDICA;4;Luisa Saemi Murasse
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;CIRURGIA VASCULAR;1;Filipe Cézar Bertassoni De Souza
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;CLÍNICA MÉDICA;1;Marcela Schmitt Santos Belleza
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;CLÍNICA MÉDICA;2;Jessica Scherer Dagostini
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;CLÍNICA MÉDICA;3;Noessa Hiromi Assano Stangler
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;CLÍNICA MÉDICA;4;Rodrigo Augusto De Miranda Bertin
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;CLÍNICA MÉDICA;5;Ana Gabriela De Matos Martins
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;CIRURGIA GERAL;1;Odilon Henrique Bento Gonçalves
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;CIRURGIA GERAL;2;Caio Satoru Ramos Saito
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;CIRURGIA GERAL;3;Kristoffer Andreas Wendel Ribas
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;CIRURGIA GERAL;4;Matheus Vieira Dos Santos
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;CIRURGIA GERAL;5;Vital Burko
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;CIRURGIA GERAL;6;Diego Ribeiro Girardello
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;ANESTESIOLOGIA;1;Diogo Rodrigues Da Silva Cunha
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;ANESTESIOLOGIA;2;Mariana Dal Prá
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;ANESTESIOLOGIA;3;Maria Fernanda Gasparoto Tonin
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;ANESTESIOLOGIA;4;Maykel Philipe Bueno
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;ANESTESIOLOGIA;5;Daniel Da Silva Moraes Junior
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;CIRURGIA CARDÍACA;1;Gustavo Caggiano
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Daniel De Vergennes Junior
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Anna Luisa Aranha Nunes
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;3;Fernando Lukenczuk
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;ORTOPEDIA E TRAUMATOLOGIA;1;Gustavo Henrique Dos Santos Silva
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;ORTOPEDIA E TRAUMATOLOGIA;2;Michel Henrique Zung De Andrade
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;NEUROLOGIA;1;Diego Silvério Gonzaga
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;NEUROLOGIA;2;Isabela Zanellato Marques
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;GINECOLOGIA E OBSTETRÍCIA;1;Ariane Carla Horiuchi
+PARANÁ;HNSR - Hospital Nossa Senhora do Rocio;HOSPITAL NOSSA SENHORA DO ROCIO;GINECOLOGIA E OBSTETRÍCIA;2.
+PARANÁ;HOFTALON - Centro de Estudo e Pesquisa da Visão;CENTRO DE ESTUDO E PESQUISA DA VISÃO;OFTALMOLOGIA;1;Amanda De Oliveira
+PARANÁ;HOFTALON - Centro de Estudo e Pesquisa da Visão;CENTRO DE ESTUDO E PESQUISA DA VISÃO;OFTALMOLOGIA;2;Willian Alexandre Ribeiro
+PARANÁ;HOFTALON - Centro de Estudo e Pesquisa da Visão;CENTRO DE ESTUDO E PESQUISA DA VISÃO;OFTALMOLOGIA;3;Nathalia Lopes Pinho

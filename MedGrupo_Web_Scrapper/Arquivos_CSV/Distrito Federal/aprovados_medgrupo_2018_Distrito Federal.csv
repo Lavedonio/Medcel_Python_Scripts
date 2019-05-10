@@ -1,0 +1,492 @@
+Estado;Instituição;Hospital;Curso;Colocação;Nome_Aprovado
+DISTRITO FEDERAL;HSM DF - Hospital Santa Marta;HOSPITAL SANTA MARTA;ANESTESIOLOGIA;1;Eduarda Schutz Martinelli
+DISTRITO FEDERAL;HSM DF - Hospital Santa Marta;HOSPITAL SANTA MARTA;CLÍNICA MÉDICA;1;Victor Chaves Reis
+DISTRITO FEDERAL;HSM DF - Hospital Santa Marta;HOSPITAL SANTA MARTA;CLÍNICA MÉDICA;2;Mylena Lucena Couto
+DISTRITO FEDERAL;HSM DF - Hospital Santa Marta;HOSPITAL SANTA MARTA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Beatriz Moura Batista
+DISTRITO FEDERAL;HSM DF - Hospital Santa Marta;HOSPITAL SANTA MARTA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Rafaela Debastiani Garcia
+DISTRITO FEDERAL;HSM DF - Hospital Santa Marta;HOSPITAL SANTA MARTA;OTORRINOLARINGOLOGIA;1;Laura Goncalves Almeida Neiva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ACUPUNTURA;1;Leomarcio Higa Shiroma
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ACUPUNTURA;2;Otavio Marhofer Dutra
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ANESTESIOLOGIA;1;Aldo Roberto Ferrini Filho
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ANESTESIOLOGIA;2;Murilo Neves De Queiroz
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ANESTESIOLOGIA;3;Alexandre Fuckner Artiaga
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ANESTESIOLOGIA;4;Carlos Eduardo De Sousa Alencar
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ANESTESIOLOGIA;5;Rafael Santos Lino
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ANESTESIOLOGIA;6;Ricardo Pinto Marinho
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CIRURGIA GERAL;1;Luiza Thomaz Araujo
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CIRURGIA GERAL;2;Gabriel Costa Monteiro
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CIRURGIA GERAL;3;Mateus Inacio Lemes De Resende
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CIRURGIA GERAL;4;Mariana Akemi De Morais
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CIRURGIA GERAL;5.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CIRURGIA GERAL;6;Victor Mateus Xavier De Santana
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CIRURGIA GERAL;7;Anderson Lopes Dos Santos
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CIRURGIA GERAL;8;Tristao Mauricio De Aquino Filho
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CIRURGIA GERAL;9;Paulo Marcos Do Nascimento
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CLÍNICA MÉDICA;1;Mylena Lucena Couto
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CLÍNICA MÉDICA;2.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CLÍNICA MÉDICA;3;Lis Maria Farias Sousa Borges
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CLÍNICA MÉDICA;4;Barbara Norberto De Souza Costa
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CLÍNICA MÉDICA;5.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CLÍNICA MÉDICA;6;Victor Chaves Reis
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CLÍNICA MÉDICA;7;Juliana Botelho Carvalho
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CLÍNICA MÉDICA;8;Natalia Gontijo Ribeiro
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CLÍNICA MÉDICA;9;Jutay Fernando Silva Louzeiro
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CLÍNICA MÉDICA;10;Fabiana Silva Dos Santos
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CLÍNICA MÉDICA;11;Aluana Marinho Rigoni
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CLÍNICA MÉDICA;12;Erika Fernandes De Melo
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CLÍNICA MÉDICA;13;Clariano Pires De Oliveira Neto
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CLÍNICA MÉDICA;14;Luiza Santos Carvalho Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;INFECTOLOGIA;1;Lucas Garcia De Souza Godoy
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;INFECTOLOGIA;2;Raquel Nascimento Matias
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;NEUROCIRURGIA;1;Marco Paulo Dutra Janino
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;NEUROLOGIA;1;Isabela Louise Caldeira Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;NEUROLOGIA;2;Erika Tavares Ferreira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;NEUROLOGIA;3;Andrey Beltrao Duarte Fernandes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;NEUROLOGIA;4;Isabel Oliveira De Araujo
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;NEUROLOGIA;5;Laise Valverde De Morais Marcondes Vieira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;OFTALMOLOGIA;1;Tiago Caetano Rodrigues
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;OFTALMOLOGIA;2;Maressa Rachel Kiselar Aguilera
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;OFTALMOLOGIA;3.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;OFTALMOLOGIA;4;Emilio De Souza Lourenco
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;OFTALMOLOGIA;5;Vinicius Gomes Ribeiro Borges
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;OFTALMOLOGIA;6;Maria Adelia Coelho Barbosa
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ORTOPEDIA E TRAUMATOLOGIA;1.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ORTOPEDIA E TRAUMATOLOGIA;2;Italo Aurelio Fernandes Leite
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ORTOPEDIA E TRAUMATOLOGIA;3;Laercio Maciel Scalco
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ORTOPEDIA E TRAUMATOLOGIA;4;Renata Martins Silva Ribeiro
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;OTORRINOLARINGOLOGIA;1;Denise Vieira Santos
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;OTORRINOLARINGOLOGIA;2;Sarah Vidal Da Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;PATOLOGIA;1;Mariana Carneiro Figueiredo
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;PATOLOGIA;2;Lucas De Medeiros Reis
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;PATOLOGIA;3;Caroline Rehem Eca Gomes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;PSIQUIATRIA;1;Jessyca Reis E Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;PSIQUIATRIA;2;Leonardo Miranda Ribeiro
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;PSIQUIATRIA;3;Luis Fernando Amarante Fernandes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Amanda Martins Rocha
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Renato Freire De Castro
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;3;Humberto Oliart Guzman
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;4;Beatriz Moura Batista
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;5.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CANCEROLOGIA PEDIÁTRICA;1;Anna Lopes Jorge
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CANCEROLOGIA PEDIÁTRICA;2;Thiessa Ribeiro Vieira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CARDIOLOGIA;1;Lucila De Jesus Almeida
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CARDIOLOGIA;2;Rafaella Pestana Guimaraes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CARDIOLOGIA;3;Lorena Taveira Amaral
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CARDIOLOGIA;4.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CARDIOLOGIA;5;Valdinei Antonio Seabra
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CARDIOLOGIA;6;Claudio Do Rego Luna Junior
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CARDIOLOGIA;7.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CARDIOLOGIA;8.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CIRURGIA VASCULAR;1;Victor Hugo Oliveira Ponciano
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CIRURGIA VASCULAR;2;Joao Paulo Oliveira Almeida
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CIRURGIA VASCULAR;3;Anwer Marques Costa Arbati
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ENDOCRINOLOGIA;1;Theodoro Ribeiro Goncalves Neto
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ENDOCRINOLOGIA;2;Guilherme Borges De Andrade
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;GASTROENTEROLOGIA;1;Fernanda Barros Viana
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;GASTROENTEROLOGIA;2;Carolina Augusta Matos De Oliveira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;GASTROENTEROLOGIA;3.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;GASTROENTEROLOGIA;4;Isadora Abrao Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;HEMATOLOGIA E HEMOTERAPIA;1;Samuel Mariani Passos Da Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;HEMATOLOGIA E HEMOTERAPIA;2.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;MASTOLOGIA;1;Rodrigo Kouzak Mayer
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;MASTOLOGIA;2;Amilcar Alves Assis
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;NEFROLOGIA;1;Igor Gabriel Nogueira De Andrade
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;NEFROLOGIA;2;Gustavo De Souza Siqueira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;NEFROLOGIA;3;Vinicius Batista Amaral
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;NEFROLOGIA;4;Morganna Sousa E Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;PNEUMOLOGIA;1;Gabriel Vieira Pontes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;PNEUMOLOGIA;2;Filipe Emanuel Fonseca Menezes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;REUMATOLOGIA;1;Ravena Fontenele Belchior Cabral
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;REUMATOLOGIA;2;Erivelton De Azevedo Lopes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;REUMATOLOGIA;3;Vanessa Fraga Mendes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;UROLOGIA;1;Renato Moreira Souto
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;UROLOGIA;2;Hilio Pires Guimaraes Neto
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ALERGIA E IMUNOLOGIA PEDIÁTRICA;1;Thales Da Silva Antunes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ALERGIA E IMUNOLOGIA PEDIÁTRICA;2;Karolline Lira Maia
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ALERGIA E IMUNOLOGIA PEDIÁTRICA;3;Icaro Tavares De Almeida
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ALERGIA E IMUNOLOGIA PEDIÁTRICA;4;Eduarda Martins Medeiros
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CIRURGIA DO TRAUMA;1;Bruno Do Nascimento Andrade
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;CIRURGIA DO TRAUMA;2.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ECOCARDIOGRAFIA;1;Adriana Abreu Resende
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ENDOCRINOLOGIA PEDIÁTRICA;1;Karla Thais Soares Alves
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ENDOCRINOLOGIA PEDIÁTRICA;2;Larissa Marrocos Fonseca
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ENDOSCOPIA DIGESTIVA;1;Giovana Ferraz Cavalcanti
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ENDOSCOPIA RESPIRATÓRIA;1;Gabriela Matos Menezes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;ENDOSCOPIA RESPIRATÓRIA;1;Talles Raniere Moreira Martins
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;GASTROENTEROLOGIA PEDIÁTRICA;1.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;GASTROENTEROLOGIA PEDIÁTRICA;2;Nathalia Dias Da Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;GASTROENTEROLOGIA PEDIÁTRICA;3;Ana Paula Ligoski Dalastra
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;HEMATOLOGIA PEDIÁTRICA;1;Hellen Crystine Vieira Branquinho
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;HEPATOLOGIA;1;Jennifer Emerick Ramos
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;NEFROLOGIA PEDIÁTRICA;1;Priscila Lessa Carnielli Villela
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;NEFROLOGIA PEDIÁTRICA;2;Elaine Renata De Holanda Campagnucio
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;NEUROFISIOLOGIA CLÍNICA;1;Pedro Sudbrack Oliveira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;NEUROFISIOLOGIA CLÍNICA;2;Diego Jose Fernandes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;NEUROFISIOLOGIA CLÍNICA;3;Talyta Cortez Grippe
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;NEUROFISIOLOGIA CLÍNICA;4;Lucas Cruz Costa Leal
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;NEUROLOGIA PEDIÁTRICA;1;Angelica Avila Miranda Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;NEUROLOGIA PEDIÁTRICA;2;Bianca Maria Ramos Dourado
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;REUMATOLOGIA PEDIÁTRICA;1;Analia Da Silva Moura
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;REUMATOLOGIA PEDIÁTRICA;2;Milena Foizer Leite
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;TRANSPLANTE RENAL;1;Andreia Queiroz Neiva Alves
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;TRANSPLANTE RENAL;2;Carla Diniz Nascimento Santos
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL DE BASE DO DISTRITO FEDERAL;REUMATOLOGIA PEDIÁTRICA (2º CONCURSO);1;Regiane Duque Minardi Neves
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;ANESTESIOLOGIA;1;Heryka Fernanda Silva Barbosa
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;ANESTESIOLOGIA;2;Fernanda Sousa Machado Borges
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;ANESTESIOLOGIA;3;Camila Palma Borba Dos Santos
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;ANESTESIOLOGIA;4;Laize Ribeiro Terra
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;GENÉTICA MÉDICA;1;Lourenco Leite Evangelista Dos Santos
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;GENÉTICA MÉDICA;2;Fabricia Araujo Advincola
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;MEDICINA DE EMERGÊNCIA;1;Raizel Castelo Branco De Oliveira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;MEDICINA DE EMERGÊNCIA;2.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;MEDICINA DE EMERGÊNCIA;3;Luiz Felipe Garcia Alberto De Souza Doria
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;MEDICINA DE EMERGÊNCIA;4.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;MEDICINA DE EMERGÊNCIA;5;Samla Moura Viana
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;MEDICINA DE EMERGÊNCIA;6;Danielle Arabi Lopes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;MEDICINA FÍSICA E REABILITAÇÃO;1;Rickella Aparecida Alves Moreira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;MEDICINA FÍSICA E REABILITAÇÃO;2;Carlos Ericson Mota
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;MEDICINA PALIATIVA;1;Dante Escorcio Tavares Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;MEDICINA PALIATIVA;2.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;CLÍNICA MÉDICA;1;Mariana Rocha Machado De Carvalho
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;CLÍNICA MÉDICA;2.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;CLÍNICA MÉDICA;3;Raisa Maia Amorim
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;CLÍNICA MÉDICA;4;Nathalia Telles Da Costa
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;MEDICINA DE FAMÍLIA E COMUNIDADE (2º CONCURSO);1.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;MEDICINA DE FAMÍLIA E COMUNIDADE (2º CONCURSO);2;Rebeca De Sousa Carvalho
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;MEDICINA DE FAMÍLIA E COMUNIDADE (2º CONCURSO);3;Evelyn De Oliveira Almeida
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;MEDICINA DE FAMÍLIA E COMUNIDADE (2º CONCURSO);4;Caique Molinari Ribeiro Pinto
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;MEDICINA DE FAMÍLIA E COMUNIDADE (2º CONCURSO);5.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;ESCOLA SUPERIOR DE CIÊNCIAS DA SAÚDE;MEDICINA DE FAMÍLIA E COMUNIDADE (2º CONCURSO);6;Monique Almeida Vaz
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;ANESTESIOLOGIA;1;Felipe Rocha Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;ANESTESIOLOGIA;2;Ana Beatriz Silva Campanholo
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;ANESTESIOLOGIA;3;Eduarda Schutz Martinelli
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;ANESTESIOLOGIA;4;Daniel Rodrigues Viana
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;ANESTESIOLOGIA;5;Nathalia Mundoco Veloso
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;CIRURGIA GERAL;1;Maycon Willian Bachiega
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;CIRURGIA GERAL;2;Joao Lucas Farias Do Nascimento Rocha
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;CIRURGIA GERAL;3;Higner Luis Costa Forastieri
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;CIRURGIA GERAL;4;Savio Arlindo Coelho Barbosa
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;CLÍNICA MÉDICA;1;Natalia Uchoa Andrade
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;CLÍNICA MÉDICA;2;Fernando Franco Lafeta Queiroz
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;CLÍNICA MÉDICA;3;Amanda Travaglia Vitoy
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;CLÍNICA MÉDICA;4;Mariana Cabral Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;CLÍNICA MÉDICA;5;Eduardo Vieira Junior
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;CLÍNICA MÉDICA;6;Jackeline Alves Felix De Freitas
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;CLÍNICA MÉDICA;7;Leticia Jordao Almeida
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;CLÍNICA MÉDICA;8.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;CLÍNICA MÉDICA;9;Tassia Camila Moreto
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;CLÍNICA MÉDICA;10;Breno Barbosa Guimaraes Carneiro
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;CLÍNICA MÉDICA;11;Victor Cordeiro Pinheiro Sampaio
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;CLÍNICA MÉDICA;12;Brunna De Sousa Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;DERMATOLOGIA;1;Eduardo Botelho Silva Mauad
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;DERMATOLOGIA;2;Natalia Lima Alves
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;DERMATOLOGIA;3;Anna Maria Machado Ganem
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;DERMATOLOGIA;4;Marcela Barbosa Souza
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;OBSTETRÍCIA E GINECOLOGIA;1;Sarah Hasimyan Ferreira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;OBSTETRÍCIA E GINECOLOGIA;2;Rafaela Debastiani Garcia
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;OBSTETRÍCIA E GINECOLOGIA;3;Bruna Vicente De Oliveira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;OBSTETRÍCIA E GINECOLOGIA;4;Daniela Vinhaes Dos Reis
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;OBSTETRÍCIA E GINECOLOGIA;5;Carla Borges Santos
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;PEDIATRIA;1;Paulo Henrique Freire Prado
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;PEDIATRIA;2;Loren Abreu Nobre
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;PEDIATRIA;3;Nathalia Silva Araujo
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;PEDIATRIA;4;Camila Pereira Muniz
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;PEDIATRIA;5;Luciana Cabral De Araujo Da Trindade
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;CIRURGIA DO APARELHO DIGESTIVO;1;Ana Carolina Andrade Canut
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;CIRURGIA PLÁSTICA;1;Danilo Lopes Castro
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;CIRURGIA PLÁSTICA;2;Nadia Cristine Nunes Cortes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;PNEUMOLOGIA;1;Arthur Henrique Da Fonseca
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;PNEUMOLOGIA;2;Marcella Paranhos Rodrigues
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA ASA NORTE;UROLOGIA;1;Rodrigo Da Silva Rocha
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;ANESTESIOLOGIA;1;Bia De Castro Villas Boas
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;ANESTESIOLOGIA;2;Mauricio Vargas De Matos
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CIRURGIA GERAL;1;Micael Cruz Santana
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CIRURGIA GERAL;2;Vitor Paiva Pires
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CIRURGIA GERAL;3;Marilia Loureiro Gois Cavalcante
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CIRURGIA GERAL;4;Bruna Baioni Sandre
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CIRURGIA GERAL;5;Mariana Magalhaes Rodrigues Dos Santos
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CIRURGIA GERAL;6;Vinicius Marciano Cardoso
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CIRURGIA GERAL;7;Gabriel Amorim De Brito
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CIRURGIA GERAL;8;Marine Gontijo Freitas
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CLÍNICA MÉDICA;1;Elisa Cardoso Bernardes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CLÍNICA MÉDICA;2;Ingrid Muniz Medeiros Da Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CLÍNICA MÉDICA;3;Matheus Henrique Da Silva Duraes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CLÍNICA MÉDICA;4;Ana Carolina Miguel Meira E Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CLÍNICA MÉDICA;5.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CLÍNICA MÉDICA;6;Camila Fernanda Brina
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CLÍNICA MÉDICA;7;Alisson Duarte Martins
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CLÍNICA MÉDICA;8;Nathalia Ferigolo Trevisan
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CLÍNICA MÉDICA;9;Ricardo Teixeira Leal
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CLÍNICA MÉDICA;10;Livia Cerqueira Mariz
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CLÍNICA MÉDICA;11;Mariana Faula Boy
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CLÍNICA MÉDICA;12;Isaac Felipe Leite Braz
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CLÍNICA MÉDICA;13.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CLÍNICA MÉDICA;14;Brenda Miranda Aidar
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;CLÍNICA MÉDICA;15.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;OBSTETRÍCIA E GINECOLOGIA;1;Leonardo Moura Medrado Santos
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;OBSTETRÍCIA E GINECOLOGIA;2;Claudia Mayara Cavalcante De Andrade
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;OBSTETRÍCIA E GINECOLOGIA;3.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;OBSTETRÍCIA E GINECOLOGIA;4;Lethicia Borges Pinheiro
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;OBSTETRÍCIA E GINECOLOGIA;5;Rogerio Vieira Lima
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;OBSTETRÍCIA E GINECOLOGIA;6;Isadora Pastrana Rabelo
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;ORTOPEDIA E TRAUMATOLOGIA;1;Luiza Da Costa Real Martins
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;ORTOPEDIA E TRAUMATOLOGIA;2;Eduardo Capelletti
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;ORTOPEDIA E TRAUMATOLOGIA;3;Gabriel Fonseca De Oliveira Costa
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;PEDIATRIA;1;Nayara Santos Soares
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;PEDIATRIA;2;Renata Mayumi Hamaoka
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;PEDIATRIA;3;Renata Fernandes Costa
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;PEDIATRIA;4.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;PEDIATRIA;5;Paula Regina Ribeiro Novaes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;PEDIATRIA;6;Leandro Aparecido Martins
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;PEDIATRIA;7.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;PEDIATRIA;8;Helena De Oliveira Melo
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;PEDIATRIA;9;Luiza Regina Dos Santos Gatto
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;PEDIATRIA;10;Ada Maria Farias Sousa Borges
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;PEDIATRIA;11;Anna Carollina Menezes Neiva Eulalio Modesto Amorim
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;PEDIATRIA;12;Nathalia Girardi Nagib
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;PEDIATRIA;13;Nathalia Roberta Lobo Botelho
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;PEDIATRIA;14;Ana Luisa Franco Moura
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Rachel Lorentino Ribeiro
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Karen Leonel Bueno
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;3.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;ENDOCRINOLOGIA;1.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;ENDOCRINOLOGIA;2;Raquel Oliveira Gomes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;ENDOCRINOLOGIA;3;Brenda Barros Leal
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;NEFROLOGIA;1;Rosana Aparecida Rodrigues Cardoso
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;NEFROLOGIA;2;Hellen Karoline Oliveira Gomes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;NEONATOLOGIA;1;Fernando Martins Pinto
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE TAGUATINGA;NEONATOLOGIA;2;Ana Carolina Oliveira Cavalcante
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;ANESTESIOLOGIA;1.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;ANESTESIOLOGIA;2;Larissa Ferreira Cunha Nascimento
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;ANESTESIOLOGIA;3;Yure Emanuel Parente Carneiro
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;CIRURGIA GERAL;1;Marcelo Cozac Moura
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;CIRURGIA GERAL;2;Eduardo Lenza Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;CIRURGIA GERAL;3.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;CIRURGIA GERAL;4.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;CIRURGIA GERAL;5;Daniel Leite Porto
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;CIRURGIA GERAL;6;Davison Rodrigues Lima Oliveira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;CIRURGIA GERAL;7;Isabela Augusta Carvalho Testi
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;CLÍNICA MÉDICA;1;Natacha Thalita Santos Amorim
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;CLÍNICA MÉDICA;2;Lara Gabriela Fonseca Martins
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;CLÍNICA MÉDICA;3;Lucas Soares Madeira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;CLÍNICA MÉDICA;4;Barbara Cristina Dos Santos Ribeiro Leite
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;CLÍNICA MÉDICA;5;Anna Paula Mendanha Da Silva Aureliano
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;CLÍNICA MÉDICA;6;Carlos Henrique Melato Gois De Britto
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;CLÍNICA MÉDICA;7;Taciana Silva Nunes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;CLÍNICA MÉDICA;8;Karla Tiemi Ohata
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;CLÍNICA MÉDICA;9;Ticianny Borges Machado
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;CLÍNICA MÉDICA;10.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;CLÍNICA MÉDICA;11;Mariana Abrantes De Pina Afonso
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;OBSTETRÍCIA E GINECOLOGIA;1;Gessica Kionara Rabelo Brandao
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;OBSTETRÍCIA E GINECOLOGIA;2.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;OBSTETRÍCIA E GINECOLOGIA;3;Izabella Figueredo Machado
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;OBSTETRÍCIA E GINECOLOGIA;4;Vanessa Caroline Pinheiro Martins Resende
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;OBSTETRÍCIA E GINECOLOGIA;5;Valdey Antonio De Oliveira Cavalcante
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;ORTOPEDIA E TRAUMATOLOGIA;1;Evelyn De Medeiros Costa
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;ORTOPEDIA E TRAUMATOLOGIA;2;Nathallie Campos Demeneghi
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;ORTOPEDIA E TRAUMATOLOGIA;3.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;ORTOPEDIA E TRAUMATOLOGIA;4;Samuel Ricardo Batista Moura
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;ORTOPEDIA E TRAUMATOLOGIA;5;Vinicius Mendes Bonfim
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO GAMA;ORTOPEDIA E TRAUMATOLOGIA;6;Felipe Fagundes De Brito
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA CEILÂNDIA;CIRURGIA GERAL;1;Idalecio Souto Fonseca Filho
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA CEILÂNDIA;CIRURGIA GERAL;2;Thais Rodrigues Magalhaes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA CEILÂNDIA;CIRURGIA GERAL;3;Barbara Stephane De Medeiros Jeronimo
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA CEILÂNDIA;CIRURGIA GERAL;4;Raissa Bergamo De Araujo Costa De Carvalho
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA CEILÂNDIA;OBSTETRÍCIA E GINECOLOGIA;1;Pedro Henrique Amaral Angelo Da Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA CEILÂNDIA;OBSTETRÍCIA E GINECOLOGIA;2;Katia Crys Moura Ogliari
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA CEILÂNDIA;OBSTETRÍCIA E GINECOLOGIA;3;Taina Vieira Nilson
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA CEILÂNDIA;OBSTETRÍCIA E GINECOLOGIA;4;Taiza Camilo Pacheco
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA CEILÂNDIA;OBSTETRÍCIA E GINECOLOGIA;5;Larissa Barbosa Dutra De Miranda
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA CEILÂNDIA;ORTOPEDIA E TRAUMATOLOGIA;1;Ana Raquel Nascimento Lawall
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA CEILÂNDIA;ORTOPEDIA E TRAUMATOLOGIA;2.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA CEILÂNDIA;ORTOPEDIA E TRAUMATOLOGIA;3;Gean Cesar Galleli
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA CEILÂNDIA;PEDIATRIA;1.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA CEILÂNDIA;PEDIATRIA;2;Dario Silva Da Silva Júnior
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA CEILÂNDIA;PEDIATRIA;3;Jessica Rodrigues Nogueira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA CEILÂNDIA;PEDIATRIA;4;Heloisa Amorim Teixeira Lopes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA CEILÂNDIA;PEDIATRIA;5;Hellen Cristina Fernandes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA CEILÂNDIA;PEDIATRIA;6;Jose Rios De Lima Junior
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DA CEILÂNDIA;PEDIATRIA;7;Carolina Rassi Da Cruz
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;CLÍNICA MÉDICA;1;Sara Cardoso Paes Rose
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;CLÍNICA MÉDICA;2;Caique Miranda Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;CLÍNICA MÉDICA;3;Luana Letiza Discacciati
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;CLÍNICA MÉDICA;4;Wanessa Lobo Matos
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;CLÍNICA MÉDICA;5;Debora Freire Ribeiro Rocha
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;CLÍNICA MÉDICA;6;Daniela Teodoro Rezende
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;CLÍNICA MÉDICA;7;Marina Da Cunha Santos
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;CLÍNICA MÉDICA;8;Maria Laise Lavor Landim
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;CLÍNICA MÉDICA;9;Bruna Miclos De Oliveira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;CLÍNICA MÉDICA;10;Luis Eduardo De Oliveira Lima
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;PEDIATRIA;1;Larissa Araujo Dutra De Carvalho
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;PEDIATRIA;2;Joao Paulo Silva Cezar
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;PEDIATRIA;3;Alan Harley Fernandes Dutra Neves
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;PEDIATRIA;4.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;PEDIATRIA;5;Gabriela Muniz Taham Carvelo
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;NEFROLOGIA;1;Patricia Rozana Farias Da Costa
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;NEFROLOGIA;2;Marcella Silva Nessralla
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;CIRURGIA GERAL;1;Iudner Braga
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;CIRURGIA GERAL;2;Yasmin Alves Caetano
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;CIRURGIA GERAL;3;Caio Eduardo Gomes Benevides
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;OBSTETRÍCIA E GINECOLOGIA;1;Glicia Caroline Andrade Ramos Araujo
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;OBSTETRÍCIA E GINECOLOGIA;2;Raissa Lopes Miranda
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;OBSTETRÍCIA E GINECOLOGIA;3;Glenda Gabriela Silva E Oliveira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;ORTOPEDIA E TRAUMATOLOGIA;1;Samuel Lopes Rabelo
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;ORTOPEDIA E TRAUMATOLOGIA;2;Ghabriel Neves Ferreira De Carvalho
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;ORTOPEDIA E TRAUMATOLOGIA;3;Amanda De Oliveira Poty
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SOBRADINHO;ORTOPEDIA E TRAUMATOLOGIA;4;Fabricio Pereira Costa E Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO PARANOÁ;CLÍNICA MÉDICA;1;Giovana Trevizani Toigo
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO PARANOÁ;CLÍNICA MÉDICA;2.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO PARANOÁ;CLÍNICA MÉDICA;3;Marcela Gondim Borges Guimaraes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO PARANOÁ;CLÍNICA MÉDICA;4;Joao Pedro Abrahao Nicoletti
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO PARANOÁ;CLÍNICA MÉDICA;5;Haytham Loaiy Ibrahim Karajah
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO PARANOÁ;CLÍNICA MÉDICA;6.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO PARANOÁ;OBSTETRÍCIA E GINECOLOGIA;1;Pedro Henrique Alves Martins Pereira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO PARANOÁ;OBSTETRÍCIA E GINECOLOGIA;2;Jessica Lopes De Oliveira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO PARANOÁ;OBSTETRÍCIA E GINECOLOGIA;3;Paula Nunes Pinto Jube
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO PARANOÁ;ORTOPEDIA E TRAUMATOLOGIA;1;Leonardo Dum Silva Morais
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO PARANOÁ;ORTOPEDIA E TRAUMATOLOGIA;2;Lelia Jordana Peres Jordao
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO PARANOÁ;ORTOPEDIA E TRAUMATOLOGIA;3;Geison Santos Machado
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO PARANOÁ;PEDIATRIA;1;Deborah Morena Santarem Da Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO PARANOÁ;PEDIATRIA;2;Beatriz Carvalho Cunha
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO PARANOÁ;PEDIATRIA;3.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DO PARANOÁ;PEDIATRIA;4;Bruna Cabral De Melo Guimaraes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;GINECOLOGIA E OBSTETRÍCIA;1;Isabela De Carvalho Almanca Lopes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;GINECOLOGIA E OBSTETRÍCIA;2;Natalia Alvares Do Amaral
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;GINECOLOGIA E OBSTETRÍCIA;3;Brenda Battestin
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;GINECOLOGIA E OBSTETRÍCIA;4;Nathalia Dell Eugenio Costa
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;GINECOLOGIA E OBSTETRÍCIA;5;Fernanda Nascimento Samara
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;GINECOLOGIA E OBSTETRÍCIA;6;Ana Luiza Martins Meyer Barros
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;PEDIATRIA;1;Haiana Madeiro De Melo Barboza
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;PEDIATRIA;2;Amanda Regia De Oliveira Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;PEDIATRIA;3;Esther De Paiva Mota
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;PEDIATRIA;4;Kamile Eller Gusmao
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;PEDIATRIA;5;Ian Campelo Da Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;PEDIATRIA;6;Lorrany Carneiro Cavalcante Zaltron
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;PEDIATRIA;7;Tamara Maria Oliveira De Moraes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;PEDIATRIA;8;Priscilla Meira Lima
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;PEDIATRIA;9;Leticia Lopes Dantas
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;PEDIATRIA;10;Mayara Soares Martin Da Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;PEDIATRIA;11;Denise Mendonca Borges
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;PEDIATRIA;12;Ana Paula De Matos Lima
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;PEDIATRIA;13;Nagila Alencar Afyoni
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;PEDIATRIA;14;Raphaela Martins Fonseca Oliveira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;PEDIATRIA;15;Carolina Beatriz Ferreira Mesquita
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;PEDIATRIA;16.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;CIRURGIA PEDIÁTRICA;1;Reinaldo Neves Junior
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;CIRURGIA PEDIÁTRICA;2;Luciana Meireles De Azeredo Coutinho
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;ALERGIA E IMUNOLOGIA PEDIÁTRICA;1;Ana Carolina Veiga Neiva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;ALERGIA E IMUNOLOGIA PEDIÁTRICA;2;Maria Rosa Rego De Oliveira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;ENDOSCOPIA GINECOLÓGICA;1;Jose Eduardo Rocha Goncalves
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;ENDOSCOPIA GINECOLÓGICA;2;Karine Kelly Frausino
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;ENDOSCOPIA GINECOLÓGICA;3;Amanda Da Mota Silveira Rodrigues
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;INFECTOLOGIA PEDIÁTRICA;1;Camille Maria Benevides
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;INFECTOLOGIA PEDIÁTRICA;2;Pedro Ribeiro Bianchini
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;MEDICINA FETAL;1;Deisiane Lima Marinho Castanho
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;MEDICINA FETAL;2;Aline Oliveira Leite Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;MEDICINA FETAL;3.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;MEDICINA FETAL;4;Roberta Silva Soares Ferreira Ghiggi
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;MEDICINA INTENSIVA PEDIÁTRICA;1;Gabriela Santos Da Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;MEDICINA INTENSIVA PEDIÁTRICA;2;Thaynara Leonel Bueno
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;MEDICINA INTENSIVA PEDIÁTRICA;3;Michelly Mendonca Alvarenga
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;NEONATOLOGIA;1;Milena Conde Nogueira Pires
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;NEONATOLOGIA;2;Daniela Megumi Ramalho Yoshimoto
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;NEONATOLOGIA;3;Ludmilla Tavares Ferreira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;NEONATOLOGIA;4;Maria Eduarda Canellas De Castro
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;NEONATOLOGIA;5;Lorena De Mello Ferreira Silva Andrade
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;NEONATOLOGIA;6;Andre Da Silva Simoes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;NEONATOLOGIA;7.
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;OBSTETRÍCIA E GINECOLOGIA R4;1;Amanda Evelyn Cruvinel Goulart
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;OBSTETRÍCIA E GINECOLOGIA R4;2;Daniely Toledo Costa
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL MATERNO INFANTIL DE BRASÍLIA;OBSTETRÍCIA E GINECOLOGIA R4 (2º CONCURSO);1;Nayara Sampaio
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SANTA MARIA;ORTOPEDIA E TRAUMATOLOGIA;1;Nivaldo Alves De Oliveira Junior
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SANTA MARIA;ORTOPEDIA E TRAUMATOLOGIA;2;Fernando Carvalho Teixeira
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SANTA MARIA;ORTOPEDIA E TRAUMATOLOGIA;3;David Carvalho Resende
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL REGIONAL DE SANTA MARIA;ORTOPEDIA E TRAUMATOLOGIA;4;Bruno Germano Vieira Paiva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL SÃO VICENTE DE PAULO;PSIQUIATRIA;1;Fernanda Bizinoto Freire
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL SÃO VICENTE DE PAULO;PSIQUIATRIA;2;Wladmir Barros Silva
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL SÃO VICENTE DE PAULO;PSIQUIATRIA;3;Fernanda Figueiredo Antunes
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL SÃO VICENTE DE PAULO;PSIQUIATRIA;4;Mauricio Erwin Puhler Resende
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL SÃO VICENTE DE PAULO;PSIQUIATRIA;5;Bruna Alves Caixeta
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL SÃO VICENTE DE PAULO;PSIQUIATRIA;6;Luis Fernando Monteiro Dos Reis
+DISTRITO FEDERAL;SES DF - secretaria de estado de saúde do distrito federal;HOSPITAL SÃO VICENTE DE PAULO;PSIQUIATRIA;7;Lucas Benjamin De Souza Abreu
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;ANESTESIOLOGIA;1;Felipe Rocha Silva
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;ANESTESIOLOGIA;2;Jonatha Cocchiarale Diniz
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;PEDIATRIA;1;Angelica Bruschi Cappellesso
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;PEDIATRIA;2;Barbara Luiza Andrade Moreira
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;PEDIATRIA;3;Joao Paulo Silva Cezar
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;PEDIATRIA;4;Marcus Vinicius De Almeida Ramos Filho
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;PEDIATRIA;5;Natalia Queiroz Uchoa
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;PEDIATRIA;6;Rama De Oliveira Cardoso Celani
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;PEDIATRIA;7;Yuri Matheus Becker Bauer
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;DERMATOLOGIA;1;Carolina Inka Sampaio Gressler
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;DERMATOLOGIA;2;Eduardo Botelho Silva Mauad
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;DERMATOLOGIA;3;Lais Bastos Nogueira
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CIRURGIA GERAL;1.
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CIRURGIA GERAL;2;Bruno Rodrigues De Oliveira
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CIRURGIA GERAL;3;Leonardo Augusto Lima Farias
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CIRURGIA GERAL;4;Thais Faria Dos Santos
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CLÍNICA MÉDICA;1;Ana Teresa Pereira Vieira
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CLÍNICA MÉDICA;2;Fabricio Sanches Lecornec Dias
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CLÍNICA MÉDICA;3.
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CLÍNICA MÉDICA;4.
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CLÍNICA MÉDICA;5;Isaac Felipe Leite Braz
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CLÍNICA MÉDICA;6;Lays Silva Ribeiro
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CLÍNICA MÉDICA;7;Luciana Nunes Assis Daameche
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CLÍNICA MÉDICA;8.
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;MEDICINA DE FAMÍLIA E COMUNIDADE;1.
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;MEDICINA DE FAMÍLIA E COMUNIDADE;2;Juliana Moraes Dias
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;MEDICINA DE FAMÍLIA E COMUNIDADE;3;Luigia Peixoto Salvador
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;OBSTETRÍCIA E GINECOLOGIA;1.
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;OBSTETRÍCIA E GINECOLOGIA;2;Jessica Meneses Othon Sidou
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;OBSTETRÍCIA E GINECOLOGIA;3;Katia Crys Moura Ogliari
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;OFTALMOLOGIA;1;Leonardo Vaz Rodrigues
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;OFTALMOLOGIA;2;Lourival De Paiva Grillo Junior
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;OTORRINOLARINGOLOGIA;1;Aline Almeida Liberato
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;PATOLOGIA;1;Bruno Peres Azevedo
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;PATOLOGIA;2;Lucas De Medeiros Reis
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Aline Dos Santos
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Fernanda Ataide Caldeira
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;3.
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;4;Leomar Benicio Maia Segundo
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;5;Vinicius Martins Vilela
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CANCEROLOGIA CLÍNICA;1;Fernanda Davila Sampaio Tolentino
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CANCEROLOGIA CLÍNICA;2;Marcela Camilo Nascimento
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CARDIOLOGIA;1;Lucas Araujo Barbosa
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CARDIOLOGIA;2;Luciana De Paula Matias
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CARDIOLOGIA;3;Lucila De Jesus Almeida
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CARDIOLOGIA;4;Miguel Franca Costa
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CARDIOLOGIA;5;Rafaella Pestana Guimaraes
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CARDIOLOGIA;6;Sakr Youssef Khouri Neto
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CARDIOLOGIA;7;Samuel Mariani Passos Da Silva
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CARDIOLOGIA;8.
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;CIRURGIA GERAL (PROGRAMA AVANÇADO);1;Adriano Pamplona Torres
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;ENDOCRINOLOGIA;1;Brenda Barros Leal
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;ENDOCRINOLOGIA;2.
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;GASTROENTEROLOGIA;1;Fernanda Barros Viana
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;GASTROENTEROLOGIA;2.
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;GERIATRIA;1;Mariana Moreira Gacez Doria
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;GERIATRIA;2;Marilia Terra Vieira
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;MASTOLOGIA;1;Daniela Omar De Souza
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;NEFROLOGIA;1;Gustavo De Souza Siqueira
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;NEFROLOGIA;2;Morganna Sousa E Silva
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;NEFROLOGIA;3;Paula Cristina Da Silva Lima
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;PNEUMOLOGIA;1;Filipe Emanuel Fonseca Menezes
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;PNEUMOLOGIA;2;Marcella Paranhos Rodrigues
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;REUMATOLOGIA;1;Isabela De Sousa Russo
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;REUMATOLOGIA;2;Tassiane Raquel Cunha Martins
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;UROLOGIA;1;Lucas Viana Faisano
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;ENDOCRINOLOGIA PEDIÁTRICA;1;Caroline De Oliveira Matsuura
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;ENDOCRINOLOGIA PEDIÁTRICA;2;Thaise Barnabe Rodrigues
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;GASTROENTEROLOGIA PEDIÁTRICA;1;Natascha Santana De Araujo
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;NEUROLOGIA PEDIÁTRICA;1;Juliana Pastana Ramos
+DISTRITO FEDERAL;UNB - Hospital Universitário de Brasília;HOSPITAL UNIVERSITÁRIO DE BRASÍLIA;NEUROLOGIA PEDIÁTRICA;2;Tamiris Carneiro Mariano
+DISTRITO FEDERAL;HSL DF - Hospital Santa Lúcia;HOSPITAL SANTA LÚCIA;CANCEROLOGIA CLÍNICA;1;Marcos Dumont Bonfim Santos
+DISTRITO FEDERAL;HSL DF - Hospital Santa Lúcia;HOSPITAL SANTA LÚCIA;CANCEROLOGIA CLÍNICA;2;Eduardo Nasser Vilela
+DISTRITO FEDERAL;HOB DF - Hospital Oftalmológico de Brasília;HOSPITAL OFTALMOLÓGICO DE BRASÍLIA;OFTALMOLOGIA;1;Vitor Paiva Pires
+DISTRITO FEDERAL;HOB DF - Hospital Oftalmológico de Brasília;HOSPITAL OFTALMOLÓGICO DE BRASÍLIA;OFTALMOLOGIA;2;Frederico Romano Barbosa
+DISTRITO FEDERAL;HOB DF - Hospital Oftalmológico de Brasília;HOSPITAL OFTALMOLÓGICO DE BRASÍLIA;OFTALMOLOGIA;3;Maressa Rachel Kiselar Aguilera
+DISTRITO FEDERAL;HOB DF - Hospital Oftalmológico de Brasília;HOSPITAL OFTALMOLÓGICO DE BRASÍLIA;OFTALMOLOGIA;4;Rodrigo Cunha Ferreira
+DISTRITO FEDERAL;HOB DF - Hospital Oftalmológico de Brasília;HOSPITAL OFTALMOLÓGICO DE BRASÍLIA;OFTALMOLOGIA;5.
+DISTRITO FEDERAL;HOB DF - Hospital Oftalmológico de Brasília;HOSPITAL OFTALMOLÓGICO DE BRASÍLIA;OFTALMOLOGIA;6;Luis Alves De Pinho Segundo
+DISTRITO FEDERAL;HOB DF - Hospital Oftalmológico de Brasília;HOSPITAL OFTALMOLÓGICO DE BRASÍLIA;OFTALMOLOGIA;7;Tiago Caetano Rodrigues
+DISTRITO FEDERAL;HOB DF - Hospital Oftalmológico de Brasília;HOSPITAL OFTALMOLÓGICO DE BRASÍLIA;OFTALMOLOGIA;8;Giuliano Prediger Dobri

@@ -1,0 +1,329 @@
+Estado;Instituição;Hospital;Curso;Colocação;Nome_Aprovado
+GOIÁS;IHOA - Instituto e Hospital Oftalmológico de Anápolis;INSTITUTO E HOSPITAL OFTALMOLÓGICO DE ANÁPOLIS;OFTALMOLOGIA;1;Bruna Angelina Alves De Souza
+GOIÁS;IHOA - Instituto e Hospital Oftalmológico de Anápolis;INSTITUTO E HOSPITAL OFTALMOLÓGICO DE ANÁPOLIS;OFTALMOLOGIA;2;Rodrigo Jorge Amorim
+GOIÁS;IHOA - Instituto e Hospital Oftalmológico de Anápolis;INSTITUTO E HOSPITAL OFTALMOLÓGICO DE ANÁPOLIS;OFTALMOLOGIA;3;Mirna De Melo Dias
+GOIÁS;HUGOL - Hospital de Urgências Governador Otávio Lage;HOSPITAL DE URGÊNCIAS GOVERNADOR OTÁVIO LAGE;CIRURGIA GERAL;;Lucas Silva Barros
+GOIÁS;HUGOL - Hospital de Urgências Governador Otávio Lage;HOSPITAL DE URGÊNCIAS GOVERNADOR OTÁVIO LAGE;CIRURGIA GERAL;;Douglas Ferrari De Oliveira Figueiredo
+GOIÁS;HUGOL - Hospital de Urgências Governador Otávio Lage;HOSPITAL DE URGÊNCIAS GOVERNADOR OTÁVIO LAGE;CIRURGIA GERAL;;Bruno Quintino Domingos
+GOIÁS;HUGOL - Hospital de Urgências Governador Otávio Lage;HOSPITAL DE URGÊNCIAS GOVERNADOR OTÁVIO LAGE;CIRURGIA GERAL;;Murilo Frota
+GOIÁS;HUGOL - Hospital de Urgências Governador Otávio Lage;HOSPITAL DE URGÊNCIAS GOVERNADOR OTÁVIO LAGE;CLÍNICA MÉDICA;;Wellington Couto Nascimento
+GOIÁS;HUGOL - Hospital de Urgências Governador Otávio Lage;HOSPITAL DE URGÊNCIAS GOVERNADOR OTÁVIO LAGE;CLÍNICA MÉDICA;;Carlos Eduardo Lins Franca Piau
+GOIÁS;HUGOL - Hospital de Urgências Governador Otávio Lage;HOSPITAL DE URGÊNCIAS GOVERNADOR OTÁVIO LAGE;CLÍNICA MÉDICA;;Lessandra Silva Bazi
+GOIÁS;HUGOL - Hospital de Urgências Governador Otávio Lage;HOSPITAL DE URGÊNCIAS GOVERNADOR OTÁVIO LAGE;CLÍNICA MÉDICA;;Flavia Silva Kroeff De Souza
+GOIÁS;HUGOL - Hospital de Urgências Governador Otávio Lage;HOSPITAL DE URGÊNCIAS GOVERNADOR OTÁVIO LAGE;CLÍNICA MÉDICA;;Luhan Chaveiro Martins
+GOIÁS;HUGOL - Hospital de Urgências Governador Otávio Lage;HOSPITAL DE URGÊNCIAS GOVERNADOR OTÁVIO LAGE;ORTOPEDIA E TRAUMATOLOGIA;;Jonatas De Oliveira Soares
+GOIÁS;HUGOL - Hospital de Urgências Governador Otávio Lage;HOSPITAL DE URGÊNCIAS GOVERNADOR OTÁVIO LAGE;ORTOPEDIA E TRAUMATOLOGIA;;Felipe Carvalho Miranda De Lima
+GOIÁS;HUGOL - Hospital de Urgências Governador Otávio Lage;HOSPITAL DE URGÊNCIAS GOVERNADOR OTÁVIO LAGE;ORTOPEDIA E TRAUMATOLOGIA;;Nivaldo Alves De Oliveira Junior
+GOIÁS;HMDI - Hospital e Maternidade Dona Iris;HOSPITAL E MATERNIDADE DONA IRIS;PEDIATRIA;1;Claudimar Américo De Melo Júnior
+GOIÁS;HMDI - Hospital e Maternidade Dona Iris;HOSPITAL E MATERNIDADE DONA IRIS;PEDIATRIA;2;Joice Keviner Gomes Dos Santos
+GOIÁS;HMDI - Hospital e Maternidade Dona Iris;HOSPITAL E MATERNIDADE DONA IRIS;PEDIATRIA;3;Mariana Cristina Teixeira De Castro
+GOIÁS;HMDI - Hospital e Maternidade Dona Iris;HOSPITAL E MATERNIDADE DONA IRIS;PEDIATRIA;4;Tayná Gontijo De Carvalho
+GOIÁS;HMDI - Hospital e Maternidade Dona Iris;HOSPITAL E MATERNIDADE DONA IRIS;PEDIATRIA;5;Felipe Beraldo Alves
+GOIÁS;HMDI - Hospital e Maternidade Dona Iris;HOSPITAL E MATERNIDADE DONA IRIS;PEDIATRIA;6;Lorena Luquetti Pontes
+GOIÁS;HMDI - Hospital e Maternidade Dona Iris;HOSPITAL E MATERNIDADE DONA IRIS;GINECOLOGIA E OBSTETRÍCIA;1;Lara Dias Cavalcante
+GOIÁS;HMDI - Hospital e Maternidade Dona Iris;HOSPITAL E MATERNIDADE DONA IRIS;GINECOLOGIA E OBSTETRÍCIA;2.
+GOIÁS;HMDI - Hospital e Maternidade Dona Iris;HOSPITAL E MATERNIDADE DONA IRIS;GINECOLOGIA E OBSTETRÍCIA;3;Mariana Carvalho De Lima
+GOIÁS;HMDI - Hospital e Maternidade Dona Iris;HOSPITAL E MATERNIDADE DONA IRIS;GINECOLOGIA E OBSTETRÍCIA;4;Gabriella De Oliveira Ferreira
+GOIÁS;HMDI - Hospital e Maternidade Dona Iris;HOSPITAL E MATERNIDADE DONA IRIS;GINECOLOGIA E OBSTETRÍCIA;5;Leticia Luiza Alves Santos
+GOIÁS;HMDI - Hospital e Maternidade Dona Iris;HOSPITAL E MATERNIDADE DONA IRIS;GINECOLOGIA E OBSTETRÍCIA;6;Lara Wanderley Paes Barbosa
+GOIÁS;HMDI - Hospital e Maternidade Dona Iris;HOSPITAL E MATERNIDADE DONA IRIS;GINECOLOGIA E OBSTETRÍCIA;7;Jaqueline Soares De Freitas
+GOIÁS;HMDI - Hospital e Maternidade Dona Iris;HOSPITAL E MATERNIDADE DONA IRIS;MASTOLOGIA;1;Marilha Gabriela Martins Pontes
+GOIÁS;HMDI - Hospital e Maternidade Dona Iris;HOSPITAL E MATERNIDADE DONA IRIS;NEONATOLOGIA;1;Lorena Cabral De Castro
+GOIÁS;HMDI - Hospital e Maternidade Dona Iris;HOSPITAL E MATERNIDADE DONA IRIS;NEONATOLOGIA;2;Priscila Alves Pereira
+GOIÁS;HMDI - Hospital e Maternidade Dona Iris;HOSPITAL E MATERNIDADE DONA IRIS;NEONATOLOGIA;3;Simone Carrijo Santos
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ANESTESIOLOGIA;1;Priscila Felix Oliveira
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ANESTESIOLOGIA;2;Murilo Neves De Queiroz
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ANESTESIOLOGIA;3;Kaolan Morais Pereira
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ANESTESIOLOGIA;4;Fernando Urzedo Da Rocha
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ANESTESIOLOGIA;5;Heryka Fernanda Silva Barbosa
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ANESTESIOLOGIA;6;Felipe Rocha Silva
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ANESTESIOLOGIA;7;Aldo Roberto Ferrini Filho
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ANESTESIOLOGIA;8;Roberta Martins Carlos Alves
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ANESTESIOLOGIA;9;Renan Cabral Cognette
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ANESTESIOLOGIA;10;Daniel Rodrigues Viana
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CLÍNICA MÉDICA;1;Natália Uchôa Andrade
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CLÍNICA MÉDICA;2;Jackeline Alves Félix De Freitas
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CLÍNICA MÉDICA;3;Guylherme Saraiva
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CLÍNICA MÉDICA;4;Amanda Bueno Carvalho
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CLÍNICA MÉDICA;5;Bárbara Norberto De Souza Costa
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CLÍNICA MÉDICA;6;Juliana Botelho Carvalho
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CLÍNICA MÉDICA;7;Luiz Augusto Alves Reis
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CLÍNICA MÉDICA;8;Marília Adriano Mekdessi
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CLÍNICA MÉDICA;9;Brunna De Sousa Silva
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CLÍNICA MÉDICA;10;Mariana Cabral Silva
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CLÍNICA MÉDICA;11.
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CLÍNICA MÉDICA;12;Eduardo Pereira Borges
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CLÍNICA MÉDICA;13;Haytham Loaiy Ibrahim Karajah
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CLÍNICA MÉDICA;14;Amanda Vanessa Demarchi
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CLÍNICA MÉDICA;15;Laís Naziozeno Santos
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CLÍNICA MÉDICA;16;Mariana Camponogara
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CLÍNICA MÉDICA;17;Renata Moreira Marques Passos
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CLÍNICA MÉDICA;18;Camila Dutra Pimenta
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CLÍNICA MÉDICA;19;Vinícius Gomes Ribeiro Borges
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CIRURGIA GERAL;1;Gustavo Santana De Lima
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CIRURGIA GERAL;2;Marcelo Cozac Moura
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CIRURGIA GERAL;3;Bruna Baioni Sandre
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CIRURGIA GERAL;4;Diogo Hummel Höhl
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CIRURGIA GERAL;5;Rodrigo Cunha Ferreira
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CIRURGIA GERAL;6;Thaís Rodrigues Magalhães
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CIRURGIA GERAL;7;Gabriel Costa Monteiro
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CIRURGIA GERAL;8;Thalita Galdino De Oliveira
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CIRURGIA GERAL;9;Tiago Gusmão Pimentel
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CIRURGIA GERAL;10;Bruno Alves Correia Lima
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CIRURGIA GERAL;11;Samuel De Souza Ferreira
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;DERMATOLOGIA;1;Ana Carolina Vicente Araújo
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;DERMATOLOGIA;2;Ana Flávia Moura Mendes
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;GINECOLOGIA E OBSTETRÍCIA;1;Julyana Gomes De Oliveira
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;GINECOLOGIA E OBSTETRÍCIA;2;Brenda Battestin
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;GINECOLOGIA E OBSTETRÍCIA;3;Bruna Vicente De Oliveira
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;GINECOLOGIA E OBSTETRÍCIA;4;Ludmilla Rebouças Nunes Do Nascimento
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;GINECOLOGIA E OBSTETRÍCIA;5;Sarah Hasimyan Ferreira
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;INFECTOLOGIA;1;Romulo Pereira Dos Santos
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;INFECTOLOGIA;2.
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;INFECTOLOGIA;3;Luisa De Oliveira Pereira
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;MEDICINA FÍSICA E REABILITAÇÃO;1;Rickella Aparecida Alves Moreira
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;MEDICINA FÍSICA E REABILITAÇÃO;2.
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;MEDICINA FÍSICA E REABILITAÇÃO;3;Leandro Monteiro Maemura
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;MEDICINA FÍSICA E REABILITAÇÃO;4;Alexandra Pereira De Castro Ribeiro
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;MEDICINA FÍSICA E REABILITAÇÃO;5;Tiago Vieira Fernandes
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;NEUROLOGIA;1;Andreia Vidica Marinho
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;NEUROLOGIA;2;Bruna Cristina Perius
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;NEUROLOGIA;3;Iron Dangoni Filho
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;NEUROLOGIA;4;Isabela Louise Caldeira Silva
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ORTOPEDIA E TRAUMATOLOGIA;1;Gabriel Fonseca De Oliveira Costa
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ORTOPEDIA E TRAUMATOLOGIA;2;Aryell Assis Dos Santos Faria
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ORTOPEDIA E TRAUMATOLOGIA;3;Raphael Cabral De Almeida
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ORTOPEDIA E TRAUMATOLOGIA;4;Ramirez Nunes Garcia
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ORTOPEDIA E TRAUMATOLOGIA;5;Gustavo Teixeira Leao
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ORTOPEDIA E TRAUMATOLOGIA;6;Renan Correia Arcanjo
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ORTOPEDIA E TRAUMATOLOGIA;7;Marcos Daniel Xavier De Oliveira Santos
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;OTORRINOLARINGOLOGIA;1;Sarah Vidal Da Silva
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;OTORRINOLARINGOLOGIA;2;Laurice Barbosa Freitas
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;OTORRINOLARINGOLOGIA;3;Jhessica Lima Garcia
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;PEDIATRIA;1;Priscilla Meira Lima
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;PEDIATRIA;2;Kamile Eller Gusmão
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;PEDIATRIA;3;Isabella Valadares De Oliveira
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;PEDIATRIA;4;Esther De Paiva Mota
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;PEDIATRIA;5.
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;PEDIATRIA;6;Gabriela Cristina Ferreira Borges
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;PEDIATRIA;7;Renata De Paula Mendonça
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;PEDIATRIA;8;Nágila Alencar Afyoni
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;PEDIATRIA;9;Renan Guimarães Santana
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;PEDIATRIA;10;Letícia Lopes Dantas
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;PSIQUIATRIA;1;Leonardo Miranda Ribeiro
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;PSIQUIATRIA;2;Filipe Vidica Teodoro Barcelos
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;PSIQUIATRIA;3;Gabriel Ibiapina Do Monte Ruben Siqueira
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Nathalya Ducarmo Jordão
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;2;Victor Falcão Pereira Costa
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;3;Bárbara Atanasia Domingues
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;4;Danilo Fleury Di Souza Lopes
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;5;Renato Freire De Castro
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CARDIOLOGIA;1;Natália De Melo Pereira
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CARDIOLOGIA;2.
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CARDIOLOGIA;3;Marina Maia Siqueira
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CARDIOLOGIA;4;Giovana Gurian Batista Pofahl
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ENDOCRINOLOGIA;1;Guilherme Borges De Andrade
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ENDOCRINOLOGIA;2;Fernanda Barra Franco
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;GASTROENTEROLOGIA;1;Ingrid Steltenpool Torminn Borges
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;GASTROENTEROLOGIA;2;Isadora Abrão Silva
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;GERIATRIA;1;Isabela Jaco Carrijo
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;GERIATRIA;2.
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;NEFROLOGIA;1;Paula Cristina Da Silva Lima
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;NEFROLOGIA;2;Thiago Xavier Belem Miguel
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;PNEUMOLOGIA;1;João Felipe Gomide De Paula Souza
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;PNEUMOLOGIA;2;Marielly Christina Dos Santos
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;REUMATOLOGIA;1;Yara De Paula Duarte
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CIRURGIA PLÁSTICA;1;Sergio Antonio Saldanha Rodrigues Filho
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CIRURGIA PLÁSTICA;2.
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CIRURGIA VASCULAR;1;Victor Hugo Oliveira Ponciano
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;COLOPROCTOLOGIA;1;Pedro Ivo Calegari
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CIRURGIA DO APARELHO DIGESTIVO;1;Sandro Batista De Andrade Júnior
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;CIRURGIA DO APARELHO DIGESTIVO;2;Diogo Nesso De Campos
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;UROLOGIA;1;Tayro De Lemos Amancio Barbosa Dantas
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;UROLOGIA;2;Luis Kleber Fernandes De Lima
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;INFECTOLOGIA PEDIÁTRICA;1;Jéssica Fernandes Nominato
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;MEDICINA INTENSIVA PEDIÁTRICA;1;Wallan De Deus Caixeta Matos
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;MEDICINA INTENSIVA PEDIÁTRICA;2;Thaynara Leonel Bueno
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;NEONATOLOGIA;1.
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;NEONATOLOGIA;2;Ariane Vieira Quirino
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;NEONATOLOGIA;3;Ludmilla Tavares Ferreira
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;MEDICINA INTENSIVA;1;Samuel Mariani Passos Da Silva
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;MEDICINA INTENSIVA;2;Raissa Almeida Hemerly
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;MEDICINA INTENSIVA;3;Amanda Carrijo Santos
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ULTRASSONOGRAFIA EM GINECOLOGIA E OBSTETRÍCIA;1;Max Aurelio Silva Santos
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;ULTRASSONOGRAFIA EM GINECOLOGIA E OBSTETRÍCIA;2;Helenara Abadia Ferreira Alexandria
+GOIÁS;SES GO - Secretaria de Estado da Saúde de Goiás;SECRETARIA DE ESTADO DA SAÚDE DE GOIÁS;NEUROFISIOLOGIA CLÍNICA;1;Lays Aparecida Evangelista
+GOIÁS;MMAC - Maternidade Municipal Aristina Cândida;MATERNIDADE MUNICIPAL ARISTINA CÂNDIDA;GINECOLOGIA E OBSTETRÍCIA;1;Rafael Mazon Corandin
+GOIÁS;MMAC - Maternidade Municipal Aristina Cândida;MATERNIDADE MUNICIPAL ARISTINA CÂNDIDA;GINECOLOGIA E OBSTETRÍCIA;2.
+GOIÁS;MMAC - Maternidade Municipal Aristina Cândida;MATERNIDADE MUNICIPAL ARISTINA CÂNDIDA;GINECOLOGIA E OBSTETRÍCIA;3;Rafaela Dutra Silva
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;OFTALMOLOGIA;;Lucas Zago Ribeiro
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;OFTALMOLOGIA;;Victor Falcão Pereira Costa
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;OFTALMOLOGIA;;Luiz Arthur Franco Beniz
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;OFTALMOLOGIA;;Rodrigo Cunha Ferreira
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;OFTALMOLOGIA;;Hugo Mendes Silva
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;OFTALMOLOGIA;;Déborah Capel Modesto
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;OBSTETRÍCIA E GINECOLOGIA;;Julyana Gomes De Oliveira
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;OBSTETRÍCIA E GINECOLOGIA;;Bruna Vicente De Oliveira
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;OBSTETRÍCIA E GINECOLOGIA;;Sarah Hasimyan Ferreira
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;OBSTETRÍCIA E GINECOLOGIA;;Nathália Dell Eugênio Costa
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;OBSTETRÍCIA E GINECOLOGIA;;Luísa Maranhão Silva
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;OBSTETRÍCIA E GINECOLOGIA;;Marina Tomaz Esper
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;PEDIATRIA;;Gabriela Cristina Ferreira Borges
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;PEDIATRIA;;Esther De Paiva Mota
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;PEDIATRIA;;Jéssica Fagundes Rangel
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;PEDIATRIA;;Denise Mendonça Borges
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;PEDIATRIA;;Carolina Rassi Da Cruz
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;PEDIATRIA;;Paula Regina Ribeiro Novaes
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;PEDIATRIA;;Mariana Almeida De Castro
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;PEDIATRIA;;Nágila Alencar Afyoni
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;PEDIATRIA;;Vanessa Farias Franco
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;PSIQUIATRIA;;Fernanda Bizinoto Freire
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;PSIQUIATRIA;;Carolina Oliveira De Jesus
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;;Nathalya Ducarmo Jordão
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;;Bárbara Atanasia Domingues
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;;Mariana Miranda Da Silva
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;;Marcela Faria E Silva Costa
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;ANESTESIOLOGIA;;Kaolan Morais Pereira
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;ANESTESIOLOGIA;;Camila Palma Borba Dos Santos
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;ANESTESIOLOGIA;;Isabela Mello Vieira Motta
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CIRURGIA GERAL;;Gabriel Costa Monteiro
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CIRURGIA GERAL;;Samuel De Souza Ferreira
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CIRURGIA GERAL;;Kamila De Bessa Penteado
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CLÍNICA MÉDICA;;Guylherme Saraiva
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CLÍNICA MÉDICA;;Camila Dutra Pimenta
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CLÍNICA MÉDICA;;Natália Uchôa Andrade
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CLÍNICA MÉDICA;;Daniel De Magalhaes Freitas
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CLÍNICA MÉDICA;;Elisa Cardoso Bernardes
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CLÍNICA MÉDICA;;Augusto Rodrigues De Araujo Neto
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CLÍNICA MÉDICA;;Jackeline Alves Félix De Freitas
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CLÍNICA MÉDICA;;Luiz Augusto Alves Reis
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CLÍNICA MÉDICA;;Amanda Bueno Carvalho
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CLÍNICA MÉDICA;;Amanda Laíza Dos Reis Mota
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CLÍNICA MÉDICA;;Daniela Teodoro Rezende
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;DERMATOLOGIA;;Nayara Rubia De Araujo
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;DERMATOLOGIA;;Marcela Barbosa Souza
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;DERMATOLOGIA;;Carolina Inka Sampaio Gressler
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;INFECTOLOGIA;;Luciana Barbosa Leite
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;INFECTOLOGIA;;Larissa Silva De Saboya
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;NEUROLOGIA;;Saullo Jose Silva Rolindo
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;NEUROLOGIA;;Isabela Louise Caldeira Silva
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;NEUROCIRURGIA;;Lissa Carrilho Goulart
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;ORTOPEDIA E TRAUMATOLOGIA;;Gabriel Fonseca De Oliveira Costa
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;ORTOPEDIA E TRAUMATOLOGIA;;Gabriel Joao Francisco Souza
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;ORTOPEDIA E TRAUMATOLOGIA;;Luiz Gustavo Nunes Silva
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;OTORRINOLARINGOLOGIA;;Sarah Vidal Da Silva
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;OTORRINOLARINGOLOGIA;;Raul Calaça Da Costa Pedrosa
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;PATOLOGIA;;Isadora Lopes Pessoa
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;PATOLOGIA;;Victor De Paula Coelho
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CARDIOLOGIA;;Natália De Melo Pereira
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CARDIOLOGIA;;Valdinei Antonio Seabra
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;ENDOCRINOLOGIA;;Guilherme Borges De Andrade
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;ENDOCRINOLOGIA;;Raíssa Carneiro Rezende
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;GASTROENTEROLOGIA;;Ingrid Steltenpool Torminn Borges
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;GASTROENTEROLOGIA;;Pedro Henrique Teles Prado
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;HEMATOLOGIA E HEMOTERAPIA;;Natália Mirelle Carrijo Dos Santos
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;HEMATOLOGIA E HEMOTERAPIA;;Walter Assunção Gonçalves
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;NEFROLOGIA;;Mariana Barreto Marini
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;NEFROLOGIA;;Thiago Xavier Belem Miguel
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;REUMATOLOGIA;;Yara De Paula Duarte
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;REUMATOLOGIA;;Tassiane Raquel Cunha Martins
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CANCEROLOGIA CLÍNICA;;Carolina Borges Basilio
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CIRURGIA DO APARELHO DIGESTIVO;;Bruno Marques Chaves
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CIRURGIA DO APARELHO DIGESTIVO;;Mayara Dias Alencar
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CIRURGIA PLÁSTICA;;Marília Gabriela Xavier Pereira Peixoto
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CIRURGIA VASCULAR;;Victor Hugo Oliveira Ponciano
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;UROLOGIA;;Luis Kleber Fernandes De Lima
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;MASTOLOGIA;;Priscila Dias Watanabe
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;NEONATOLOGIA;;Cristiane Souza De Oliveira
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;NEONATOLOGIA;;Anália Da Silva Moura
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;PNEUMOLOGIA PEDIÁTRICA;;Thalma Tibúrcio Venâncio
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;PNEUMOLOGIA PEDIÁTRICA;;Drielli Noemia De Castro Rezende
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;CIRURGIA DA MÃO;;Wilson Huang
+GOIÁS;HCG - Hospital das Clínicas de Goiás;HOSPITAL DAS CLÍNICAS DE GOIÁS;MEDICINA INTENSIVA;;Amanda Carrijo Santos
+GOIÁS;HAJ - Hospital Araújo Jorge;HOSPITAL ARAÚJO JORGE;RADIOTERAPIA;;Naira Dos Santos Gutierrez
+GOIÁS;HAJ - Hospital Araújo Jorge;HOSPITAL ARAÚJO JORGE;RADIOTERAPIA;;Gabriela Bernardes Machado De Jesus
+GOIÁS;HAJ - Hospital Araújo Jorge;HOSPITAL ARAÚJO JORGE;RADIOTERAPIA;;Mattheus Humberto Do Vale
+GOIÁS;HAJ - Hospital Araújo Jorge;HOSPITAL ARAÚJO JORGE;CIRURGIA DE CABEÇA E PESCOÇO;;Daniel Henrique Porto Almeida
+GOIÁS;HAJ - Hospital Araújo Jorge;HOSPITAL ARAÚJO JORGE;CANCEROLOGIA CLÍNICA;;Marcela Camilo Nascimento
+GOIÁS;HAJ - Hospital Araújo Jorge;HOSPITAL ARAÚJO JORGE;CANCEROLOGIA CLÍNICA (2º CONCURSO);;Paolla Souza Alves Pereira
+GOIÁS;HAJ - Hospital Araújo Jorge;HOSPITAL ARAÚJO JORGE;CANCEROLOGIA CIRÚRGICA (2º CONCURSO);;Guilherme Vilela Tappro
+GOIÁS;HAJ - Hospital Araújo Jorge;HOSPITAL ARAÚJO JORGE;RADIOTERAPIA (2º CONCURSO);;Sylvia Sousa Pires
+GOIÁS;IO - Instituto Ortopédico de Goiânia;INSTITUTO ORTOPÉDICO DE GOIÂNIA;ORTOPEDIA E TRAUMATOLOGIA;1;Nivea Ribeiro Xavier Pesconi
+GOIÁS;IO - Instituto Ortopédico de Goiânia;INSTITUTO ORTOPÉDICO DE GOIÂNIA;ORTOPEDIA E TRAUMATOLOGIA;2;Paulo Marcos Do Nascimento
+GOIÁS;IO - Instituto Ortopédico de Goiânia;INSTITUTO ORTOPÉDICO DE GOIÂNIA;ORTOPEDIA E TRAUMATOLOGIA;3;Túlio Romano Troncoso Chaves
+GOIÁS;IOG - Instituto de Olhos de Goiânia;INSTITUTO DE OLHOS DE GOIÂNIA;OFTALMOLOGIA;1;Hugo Mendes Silva
+GOIÁS;IOG - Instituto de Olhos de Goiânia;INSTITUTO DE OLHOS DE GOIÂNIA;OFTALMOLOGIA;2;Nicolau Zacharias Abrahao Filho
+GOIÁS;IOG - Instituto de Olhos de Goiânia;INSTITUTO DE OLHOS DE GOIÂNIA;OFTALMOLOGIA;3;Vinicius Gomes Ribeiro Borges
+GOIÁS;PAX - PAX Clínica Psiquiátrica / Instituto de Neurociências;PAX CLÍNICA PSIQUIÁTRICA – INSTITUTO DE NEUROCIÊNCIAS;PSIQUIATRIA;1;Fernanda Bizinoto Freire
+GOIÁS;PAX - PAX Clínica Psiquiátrica / Instituto de Neurociências;PAX CLÍNICA PSIQUIÁTRICA – INSTITUTO DE NEUROCIÊNCIAS;PSIQUIATRIA;2;Thiago Queiroz Brandão
+GOIÁS;PAX - PAX Clínica Psiquiátrica / Instituto de Neurociências;PAX CLÍNICA PSIQUIÁTRICA – INSTITUTO DE NEUROCIÊNCIAS;PSIQUIATRIA;3;Raissa Sonoda Pinheiro
+GOIÁS;PAX - PAX Clínica Psiquiátrica / Instituto de Neurociências;PAX CLÍNICA PSIQUIÁTRICA – INSTITUTO DE NEUROCIÊNCIAS;PSIQUIATRIA;4;Lisa Pena Bueno
+GOIÁS;PAX - PAX Clínica Psiquiátrica / Instituto de Neurociências;PAX CLÍNICA PSIQUIÁTRICA – INSTITUTO DE NEUROCIÊNCIAS;PSIQUIATRIA;5;Lucas Barcelos Lima Leite
+GOIÁS;PAX - PAX Clínica Psiquiátrica / Instituto de Neurociências;PAX CLÍNICA PSIQUIÁTRICA – INSTITUTO DE NEUROCIÊNCIAS;PSIQUIATRIA;6;Angelica Bruschi Cappellesso
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;ANESTESIOLOGIA;1;Murilo Carlos Da Silva Santana
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;ANESTESIOLOGIA;2;Mateus Alves Barros Rocha
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;PEDIATRIA;1;Aretha Hermano Mascarenhas Luz
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;PEDIATRIA;2;Carolina Gomes Machado
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;CARDIOLOGIA;1;Claudio Do Rego Luna Junior
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;CARDIOLOGIA;2;Lenita Vieira Braga
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;CARDIOLOGIA;3;Gustavo Henrique Bregagnollo
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;CARDIOLOGIA;4;Fernando Guimarães Bastos
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;CIRURGIA GERAL;1;Bruno Henrique De Sousa Barbosa
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;CIRURGIA GERAL;2;Bruno Baiocchi Pinto
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;GINECOLOGIA E OBSTETRÍCIA;1;Rafaela Dutra Silva
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;GINECOLOGIA E OBSTETRÍCIA;2;Jéssica Monike Silva Geraldo
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;CLÍNICA MÉDICA;1;Lessandra Silva Bazi
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;CLÍNICA MÉDICA;2.
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;CLÍNICA MÉDICA;3;Roberta Policena Peres
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;CLÍNICA MÉDICA;4;Maria Eugênia Lulini Cintra
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;CLÍNICA MÉDICA;5;Ana Paula Moreira Reis
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;CLÍNICA MÉDICA;6;Mauro Roberto Veras Bezerra Filho
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;CLÍNICA MÉDICA;7;Camilla Garcez Costa
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;CLÍNICA MÉDICA;8;Viviane Batista De Magalhães Pereira
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;MEDICINA DE FAMÍLIA E COMUNIDADE (CERES);1;Larissa Gomes Da Silveira
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;ORTOPEDIA E TRAUMATOLOGIA;1;Rafael Dos Santos Oliveira
+GOIÁS;UEVA - Centro Universitário de Anápolis;CENTRO UNIVERSITÁRIO DE ANÁPOLIS;ORTOPEDIA E TRAUMATOLOGIA;2.
+GOIÁS;UNIRV - Universidade de Rio Verde;UNIVERSIDADE DO RIO VERDE;CIRURGIA GERAL;1;Amanda Dominience Menezes
+GOIÁS;UNIRV - Universidade de Rio Verde;UNIVERSIDADE DO RIO VERDE;CIRURGIA GERAL;2;Arthur Barroso Vidal Vilarinho
+GOIÁS;HOG - Hospital Ortopédico de Goiânia;HOSPITAL ORTOPÉDICO DE GOIÂNIA;ORTOPEDIA E TRAUMATOLOGIA;1;Ramirez Nunes Garcia
+GOIÁS;HOG - Hospital Ortopédico de Goiânia;HOSPITAL ORTOPÉDICO DE GOIÂNIA;ORTOPEDIA E TRAUMATOLOGIA;2.
+GOIÁS;HOG - Hospital Ortopédico de Goiânia;HOSPITAL ORTOPÉDICO DE GOIÂNIA;ORTOPEDIA E TRAUMATOLOGIA;3;Renan Correia Arcanjo
+GOIÁS;HOG - Hospital Ortopédico de Goiânia;HOSPITAL ORTOPÉDICO DE GOIÂNIA;ORTOPEDIA E TRAUMATOLOGIA;4;Nivaldo Alves De Oliveira Junior
+GOIÁS;FUBOG - Fundação Banco de Olhos de Goiás;FUNDAÇÃO BANCO DE OLHOS DE GOIÁS;OFTALMOLOGIA;1;Victor Falcao Pereira Costa
+GOIÁS;FUBOG - Fundação Banco de Olhos de Goiás;FUNDAÇÃO BANCO DE OLHOS DE GOIÁS;OFTALMOLOGIA;2;Renan Margas De Siqueira
+GOIÁS;FUBOG - Fundação Banco de Olhos de Goiás;FUNDAÇÃO BANCO DE OLHOS DE GOIÁS;OFTALMOLOGIA;3;Lucas Zago Ribeiro
+GOIÁS;FUBOG - Fundação Banco de Olhos de Goiás;FUNDAÇÃO BANCO DE OLHOS DE GOIÁS;OFTALMOLOGIA;4;Frederico Romano Barbosa
+GOIÁS;FUBOG - Fundação Banco de Olhos de Goiás;FUNDAÇÃO BANCO DE OLHOS DE GOIÁS;OFTALMOLOGIA;5;Luiz Arthur Franco Beniz
+GOIÁS;FUBOG - Fundação Banco de Olhos de Goiás;FUNDAÇÃO BANCO DE OLHOS DE GOIÁS;OFTALMOLOGIA;6;Luan Garcez Santana
+GOIÁS;HOA - Hospital de Olhos de Aparecida;HOSPITAL DE OLHOS DE APARECIDA;OFTALMOLOGIA;1;Deborah Capel Modesto
+GOIÁS;HOA - Hospital de Olhos de Aparecida;HOSPITAL DE OLHOS DE APARECIDA;OFTALMOLOGIA;2;Rodrigo Cunha Ferreira
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;CLÍNICA MÉDICA;1;Beatriz Cristina Barros
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;CLÍNICA MÉDICA;2;Alan Breno Ferreira Rebelo
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;CLÍNICA MÉDICA;3;Douglas Nelson Felix De Souza Barbosa
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;CLÍNICA MÉDICA;4;Sibelle Alves De Sousa
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;CLÍNICA MÉDICA;5;Deusdete Caio Rocha Gomes
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;CLÍNICA MÉDICA;6;Larissa Cristina Clementino Lara
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;CLÍNICA MÉDICA;7;Laura Luzia Araujo Oliveira
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;CLÍNICA MÉDICA;8;Taynara Barros Alves
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;ANESTESIOLOGIA;1;Alice Romero
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;ANESTESIOLOGIA;2;Diego Batista Aguiar
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;ANESTESIOLOGIA;3;Jackelyne Vilela Santos
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;CARDIOLOGIA;1;Victor Emanuel Santos
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;CARDIOLOGIA;2;Pericles Boechat De Oliveira Junior
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;CARDIOLOGIA;3;Guilherme Junior Neves Dias
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;CARDIOLOGIA;4;Maisa Tereza Rodrigues
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;CIRURGIA CARDIOVASCULAR;1;Thalita Galdino De Oliveira
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;CIRURGIA DO APARELHO DIGESTIVO;1;Ricardo Duarte Marciano
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;CIRURGIA DO APARELHO DIGESTIVO;2;Gabriela Miranda Santana
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;CIRURGIA GERAL;1;Bruno Henrique De Sousa Barbosa
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;CIRURGIA GERAL;2;Danyllo Figueiredo Alvarenga
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;CIRURGIA GERAL;3;Amanda Rincon Godinho
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;CIRURGIA PLÁSTICA;1;Rodrigo Rocha Machado
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;CIRURGIA VASCULAR;1;Weniskley Mendes De Castro
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;MEDICINA DE FAMÍLIA E COMUNIDADE;1;Evelyn De Ramos Tavares
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;MEDICINA DE FAMÍLIA E COMUNIDADE;2;Jose Victor Rabelo Rodrigues
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;MEDICINA DE FAMÍLIA E COMUNIDADE;3.
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;MEDICINA DE FAMÍLIA E COMUNIDADE;4;Daniella Campos Ferreira
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;RADIOLOGIA E DIAGNÓSTICO POR IMAGEM;1;Nilo Borges Guimaraes
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;UROLOGIA;1;Joao Ernesto Petrillo Leao
+GOIÁS;SCMGO - Santa Casa de Misericórdia de Goiânia;SANTA CASA DE MISERICÓRDIA DE GOIÂNIA;UROLOGIA;2;Luis Kleber Fernandes De Lima
