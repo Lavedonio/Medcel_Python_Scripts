@@ -494,6 +494,8 @@ def coletar_aprovados_instituicao(confirmar_dados=True, notificar=False, abrir_d
 
 
 def file_handling(ano_text, estado_text, instituicao_text_sigla):
+    instituicao_text_sigla = instituicao_text_sigla.replace("/", "-")
+
     file_path = os.path.join("Arquivos_CSV", estado_text, instituicao_text_sigla)
 
     logging.debug("file_path = {}".format(file_path))
@@ -509,8 +511,6 @@ def file_handling(ano_text, estado_text, instituicao_text_sigla):
     else:
         print("| |-Criando novo arquivo aprovados_medgrupo_%s_%s_%s.csv..." % (ano_text, estado_text, instituicao_text_sigla))
         file_name = "aprovados_medgrupo_%s_%s_%s.csv" % (ano_text, estado_text, instituicao_text_sigla)
-
-    file_name = file_name.replace("/", "-")
 
     logging.info("file_name = {}".format(file_name))
     logging.debug("return {}".format(os.path.join(os.getcwd(), file_path, file_name)))
