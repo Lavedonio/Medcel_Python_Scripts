@@ -20,6 +20,9 @@ logging.config.dictConfig({
 
 
 def notify(title, text):
+    ''' >> I/O:
+        str, str -> void
+    '''
     if platform.system() == "Darwin":
         os.system("""
                   osascript -e 'display notification "{}" with title "{}"'
@@ -346,6 +349,36 @@ def coletar_aprovados_instituicao_DEPRICATED():
 
 
 def coletar_aprovados_instituicao(confirmar_dados=True, notificar=False, abrir_driver=True, driver=None, coletar_todos_aprovados=False):
+    ''' >> I/O:
+        opt(bool), opt(bool), opt(bool), opt(bool), opt(bool) -> driver, bool
+
+        >> Parâmetros:
+        - confirmar_dados (optional): Se ativado, a cada instituição a ser varrida, pergunta ao usuário se o ano, estado e instituição
+            analisados estão corretos e, se não, deixa o usuário modificá-los. Ativado pela opção debug da função main.
+
+        - notificar (optional): Se ativado, lança uma notificação ao final da varredura da instituição (apenas para MacOS).
+            Ativado pela opção notificar da função main.
+
+        - abrir_driver (optional): Se ativado, cria um novo driver para coleta de dados.
+            Não ativo se função de coletar instituição for chamada pela função de coletar estado.
+
+        - driver (optional): Se a função for chamada pela função de coletar estado, então ele recebe o driver criado naquela função.
+
+        - coletar_todos_aprovados (optional): Se ativado, coleta todos os nomes da lista, mesmo que não marcados como aprovados.
+            Ativado pela opção opcao_coleta da função main.
+
+        >> Retorno:
+        - driver: retorna driver do navegador rodando no momento.
+
+        - erros_referencia: booleano dizendo se houve ou não algum erro de referência ao se coletar os dados da instituição.
+
+        >> Descrição:
+            Coleta todos os aprovados de uma determinada instituição, de todos os hospitais e cursos à ela pertencente.
+            Retorna o driver, ou para ser encerrado na execução principal, ou para ser ignorado pela função de coleta de estado;
+        além de retornar um booleano dizendo se houve erro de referência ocorrido na varredura da instituição.
+    '''
+
+    # Driver Setup. Só cria um novo driver se não houver outro ativo
     logging.debug("abrir_driver = {}".format(abrir_driver))
     if abrir_driver:
         logging.info("Inicializando driver.")
@@ -361,12 +394,16 @@ def coletar_aprovados_instituicao(confirmar_dados=True, notificar=False, abrir_d
 
         logging.info("Navegador aberto e site carregado.")
 
+        # Pausa a execução e aguarda a seleção do ano, do estado e do instituição no navegador, até que se dê enter
         logging.info("Aguardando seleção do ano, estado e instituição.")
         input("Selecione no navegador o ano, o estado e instituição desejados. Pressione enter para continuar...")
         logging.info("Ano, estado e instituição selecionados.")
 
+    # Retira o ano e o estado da página do site
     ano_text = driver.find_element_by_xpath("//ul[@class='aprovacoes__selecao-ano']/li[@class='pointer active']").text
     estado_text = driver.find_element_by_xpath("//h2[@class='estado-instituicao__titulo disable-select']").text
+
+    # Retira a instituição da página do site formata em sigla + nome
     instituicao_text = driver.find_element_by_xpath("//h2[@class='lista-aprovados__titulo']").text
     instituicao_text_sigla, *_ = instituicao_text.split(" - ")
     instituicao_text_nome = instituicao_text.split("\n")[1]
@@ -377,6 +414,8 @@ def coletar_aprovados_instituicao(confirmar_dados=True, notificar=False, abrir_d
     logging.info("instituicao_text = %s" % (instituicao_text))
     logging.debug("instituicao_text_sigla = %s" % (instituicao_text_sigla))
 
+    # Confirmação dos dados de ano, estado e instituição retirados da página
+    # Somente ocorre se a opção de confirmar dados estiver ativo
     logging.debug("confirmar_dados = {}".format(confirmar_dados))
     if confirmar_dados:
         logging.info("Confirmando dados.")
@@ -388,6 +427,7 @@ def coletar_aprovados_instituicao(confirmar_dados=True, notificar=False, abrir_d
         print("S/N? ", end="")
         modificar = input("")
 
+        # Default é não modificar; modifica apenas se explicitamente digitar "N" ou "n" (dados não corretos)
         if modificar.lower() == "n":
             logging.info("Usuário pede para modificar ano e/ou estado.")
 
@@ -404,35 +444,58 @@ def coletar_aprovados_instituicao(confirmar_dados=True, notificar=False, abrir_d
 
         print("")
 
+    # A partir do ano, estado e sigla da instituição, cria-se um path da forma:
+    # ./Arquivos_CSV/estado_text/instituicao_text_sigla
     file_fullname = file_handling(ano_text, estado_text, instituicao_text_sigla)
-
     logging.info("file_fullname = {}".format(file_fullname))
 
+    # Cria arquivo CSV do ano e já escreve os cabeçalhos na primeira linha
     with open(file_fullname, "w+") as file:
         logging.debug("Arquivo aberto.")
-
         file.write("Estado;Instituição;Hospital;Curso;Colocação;Nome_Aprovado\n")
 
+        # Pega todos os blocos de código que contém os aprovados, divididos em hospitais.
+        # Geralmente contém toda a estrutura de hospital, curso e aprovados, mas alguns vem vazios
+        # (má programação do site) e, como não se sabe qual deles virá quebrado, é necessário listar e testar todos.
         infos_por_instituicao = driver.find_elements_by_xpath("//div[@class='content-lista-aprovados__container']")
         logging.debug("len(infos_por_instituicao) = {}".format(len(infos_por_instituicao)))
 
+        # Por default, não há erros de referência
         erro_referencia = False
+
+        # Passa por todos os blocos de aprovados por hospital
         for infos_por_hospital in infos_por_instituicao:
+
+            # Como pode ser que seja um bloco de informações vazio, o método find_element_by_xpath
+            # pode falhar, então esse bloco try/except serve para tratar esse erros previsíveis.
+            # É muito importante o bloco de try/except esteja dentro do for, para que não se perca
+            # as informações de uma instituição caso o primeiro bloco esteja com defeito.
             try:
+                # Retira o hospital de um dos blocos de aprovados por hospital
                 hospital = infos_por_hospital.find_element_by_xpath(".//div[@class='content-lista-aprovados__hospital']")
                 logging.info("---Hospital: {}".format(hospital.text))
 
+                # Retira a lista contendo todos os cursos e aprovados de um dos blocos de aprovados por hospital
                 all_cursos_aprovados = infos_por_hospital.find_elements_by_xpath(".//div[not(contains(@class, 'content-lista-aprovados__info'))]")
                 logging.info("Cursos encontrados.")
                 logging.debug("len(infos_por_instituicao) = {}".format(len(infos_por_instituicao)))
 
+                # Imprime nome do hospital que foi encontrado no bloco (para conferência do usuário)
                 print("| |---Hospital: %s" % (hospital.text))
 
+                # Contagem do número de cursos por hospital para salvar no log
                 num_cursos = 0
+
+                # Passa por todos os cursos dentro do bloco de hospital
                 for cursos_aprovados in all_cursos_aprovados[1:]:
+
+                    # Retira o curso de um dos blocos de hospital da instituição
                     curso = cursos_aprovados.find_element_by_xpath(".//h4[@class='content-lista-aprovados__titulo']")
                     logging.debug("curso.text = {}".format(curso.text))
 
+                    # Se opção coletar_todos_aprovados estiver ativa, ele não restringe a coleta dos aprovados
+                    # apenas aos nomes marcados como tais, e sim coleta todos os nomes de alunos que aparecer.
+                    # Isso serve caso todos os aprovados não estejam marcados como tais por falha do site.
                     if coletar_todos_aprovados:
                         all_aprovados_curso = cursos_aprovados.find_elements_by_xpath(".//li/span")
                         logging.debug("Coletando todos os nomes.")
@@ -440,56 +503,103 @@ def coletar_aprovados_instituicao(confirmar_dados=True, notificar=False, abrir_d
                         all_aprovados_curso = cursos_aprovados.find_elements_by_xpath(".//li/span[@class='destaque']")
                         logging.debug("Coletando apenas os marcados como aprovados")
 
+                    # Soma 1 na contagem do número de cursos por hospital para salvar no log
                     num_cursos += 1
 
+                    # Valor default é falso, pois os aprovados estão sempre antes dos suplentes (na lista e na vida real)
                     suplentes = False
+
+                    # Contagem do número de aprovados por curso para salvar no log
                     num_aprovados = 0
+
+                    # Passa por todos os cursos dentro do bloco de hospital
                     for aprovado in all_aprovados_curso:
+
+                        # Se os próximos nomes forem de suplentes, ignora todos até o final da lista do curso
                         if not suplentes:
+
+                            # Se a palavra "Suplente" aparecer significa que os nomes em seguida até o final do curso não são de aprovados.
+                            # Ele não deixa setar essa condição se a opção de coletar_todos_aprovados estiver ativa.
                             if "suplente" in aprovado.text.lower() and not coletar_todos_aprovados:
                                 suplentes = True
                                 logging.debug("Suplente encontrado, pulando restante dos nomes no curso.")
+
+                            # Na lista de aprovados existe também a palavra MEDGRUPO, que deve ser ignorada ao coletar os valores/
                             elif "medgrupo" in aprovado.text.lower():
                                 pass
+
+                            # Impede um erro de out of range no bloco if/elif/else no else a seguir
                             elif len(aprovado.text) == 0:
                                 logging.warning("aprovado.text é uma string vazia.")
+
+                            # Escreve no arquivo a combinação total de todas as informações.
                             else:
+                                # Comando de log abaixo pode gerar um arquivo de log muito poluído.
+                                # Edite por sua conta e risco de ter um log ilegível.
                                 # logging.debug("aprovado.text = {}".format(aprovado.text))
+
+                                # Se o nome do aprovado começar com um . então ele não possui uma classificação.
+                                # Substitui-se então o ponto por ; para equiparar ao número de colunas correto.
                                 if aprovado.text[0] == ".":
                                     file.write("%s;%s;%s;%s;%s\n" % (estado_text, instituicao_text, hospital.text, curso.text, aprovado.text.replace(". ", ";", 1)))
+
+                                # Se o primeiro número for um dígito, significa que há classificação.
+                                # Esta é então separada do nome por um ; (efetivamente colocando em colunas diferentes)
                                 elif aprovado.text[0].isdigit():
                                     file.write("%s;%s;%s;%s;%s\n" % (estado_text, instituicao_text, hospital.text, curso.text, aprovado.text.replace(". ", ";", 1)))
+
+                                # Se nenhuma correspondência comum bater, assume-se então que há apenas o nome.
+                                # Adiciona-se então o ; para equiparar ao número de colunas correto.
                                 else:
                                     file.write("%s;%s;%s;%s;;%s\n" % (estado_text, instituicao_text, hospital.text, curso.text, aprovado.text))
 
+                                # Soma 1 na contagem do número de cursos por hospital para salvar no log
                                 num_aprovados += 1
 
+                    # loga o número total de aprovados ao final da leitura de cada curso
                     logging.info("-- {} aprovados registrados no curso {}".format(num_aprovados, curso.text))
+
+                # loga o número total de cursos ao final da leitura de um dos hospitais
                 logging.info("---- {} cursos registrados no hospital {}".format(num_cursos, hospital.text))
 
+            # Tratamento do erro: StaleElementReferenceException
+            # Geralmente causado por uma peração do DOM (Document Object Model) acontecendo
+            # na página no momento, tornando o elemento inacessível.
+            # https://stackoverflow.com/questions/12967541/how-to-avoid-staleelementreferenceexception-in-selenium
             except StaleElementReferenceException:
                 erro_referencia = True
                 print("\nStaleElementReferenceException occured; line not written on file. Aborting...\n")
                 logging.error("StaleElementReferenceException")
-                logging.warning("Pulando restante dos dados da instituição.")
+                logging.warning("Pulando restante dos dados do hospital.")
 
+            # Tratamento do erro: NoSuchElementException
+            # Elemento da página (ou parte dela) não encontrado ao tentar ser acessado.
+            # Causado pelo método find_elements_by_xpath
             except NoSuchElementException:
                 erro_referencia = True
                 print("\nNoSuchElementException; Indo para próximo hospital\n")
                 logging.error("NoSuchElementException")
                 logging.warning("Pulando restante dos dados do hospital.")
 
+            # Tratamento de erro desconhecido.
+            # Driver é finalizado e exceção levantada.
             except Exception as e:
                 logging.exception("Erro inesperado ocorrido.")
                 driver.quit()
                 raise e
 
+    # Se opção de notificar estiver ativa, notifica ao final da execução de varredura da instituição
+    # que a varredura deste foi concluída e se possui erro.
     if notificar:
         if erro_referencia:
             notify("Instituição concluída (com erros)", "Retirada de dados da instituição {} concluída com erro de referência. Verifique arquivo gerado.".format(instituicao_text_sigla))
         else:
             notify("Instituição concluída", "Retirada de dados da instituição {} concluída sem erros".format(instituicao_text))
+
     logging.info("Fim da leitura da instituição.")
+
+    # Por fim, retorna o driver para que possa ser finalizado na rotina principal de execução do programa
+    # e o booleado informando se houve erro na varredura da instituição, sendo este último só utilizado se for chamado pelas funções coletar_aprovados_ano() ou coletar_aprovados_estado()
     return driver, erro_referencia
 
 
@@ -582,6 +692,7 @@ def coletar_aprovados_estado(confirmar_dados=True, notificar=False, abrir_driver
         além de retornar um dicionário contendo todos os erros de referência ocorridos na varredura do estado.
     '''
 
+    # Driver Setup. Só cria um novo driver se não houver outro ativo
     if abrir_driver:
         my_url = "https://site.medgrupo.com.br/#/aprovacoes"
 
@@ -594,16 +705,20 @@ def coletar_aprovados_estado(confirmar_dados=True, notificar=False, abrir_driver
         driver.get(my_url)
         logging.info("Navegador aberto e site carregado.")
 
+        # Pausa a execução e aguarda a seleção do ano e do estado no navegador, até que se dê enter
         logging.info("Aguardando seleção do ano e estado.")
         input("Selecione no navegador o ano e o estado desejados. Pressione enter para continuar...")
         logging.info("Ano e estado selecionados.")
 
+    # Retira o ano e o estado da página do site
     ano_text = driver.find_element_by_xpath("//ul[@class='aprovacoes__selecao-ano']/li[@class='pointer active']").text
     estado_text = driver.find_element_by_xpath("//h2[@class='estado-instituicao__titulo disable-select']").text
 
     logging.info("ano_text = %s" % (ano_text))
     logging.info("estado_text = %s" % (estado_text))
 
+    # Confirmação dos dados retirados da página 5 linhas de código atrás
+    # Somente ocorre se a opção de confirmar dados estiver ativo
     logging.debug("confirmar_dados = {}".format(confirmar_dados))
     if confirmar_dados:
         logging.info("Confirmando dados.")
@@ -614,6 +729,7 @@ def coletar_aprovados_estado(confirmar_dados=True, notificar=False, abrir_driver
         print("S/N? ", end="")
         modificar = input("")
 
+        # Default é não modificar; modifica apenas se explicitamente digitar "N" ou "n" (dados não corretos)
         if modificar.lower() == "n":
             logging.info("Usuário pede para modificar ano e/ou estado.")
 
@@ -626,49 +742,86 @@ def coletar_aprovados_estado(confirmar_dados=True, notificar=False, abrir_driver
 
         print("")
 
+    # Retira a lista de todas as instituições de um respectivo estado da página do site
     all_instituicoes = driver.find_elements_by_xpath("//ul[@class='estado-instituicao__lista disable-select']/li")
     logging.debug("Lista de instituições adquirida")
 
     instituicoes_erros_referencia = []
 
+    # Faz a varredura de todas as instituições da lista
     logging.debug("len(all_instituicoes) = {}".format(len(all_instituicoes)))
     for instituicao in all_instituicoes:
+        # Clica na instituição da vez na lista
         instituicao.click()
 
+        # Imprime nome da instituição que foi encontrada na página (para conferência do usuário)
         print("|")
         print("|---Instituição: %s" % (instituicao.text.replace("\n", " - ")))
         logging.info("Instituição selecionada: %s" % (instituicao.text.replace("\n", " - ")))
 
+        # ATENÇÃO: PARTE MAIS IMPORTANTE DO CÓDIGO
+        # Um simples comando de pausa da execução do código por 1 segundo não parece tão relevante assim,
+        # mas este é um caso de que como uma linha de código faz toda a diferença.
+        # Geralmente os próprios comandos do webdriver funcionam muito bem, pois esperam a página terminar
+        # de carregar para executar os comandos. Isso não acontece nesse caso específico, pois esse site é
+        # extremamente dependente de JavaScript.
+        # Ao mudar de instituição, não é ativado o carregamento da página no navegador (por conta de todas
+        # as informações estarem já carregadas no front). Isso não ativa o trigger da funcionalidade
+        # biblioteca Selenium, fazendo com que o restante do código do Scrapper seja executando antes que
+        # o JavaScript da página termine de carregar as informações. Isso causa todo tipo de erro nas linhas
+        # de código seguintes e na função coletar_aprovados_intituicao(), como ausência de tags
+        # (StaleElementReferenceException e/ou NoSuchElementException), index out of range nas listas (IndexError),
+        # entre outros.
+        # Para corrigir esse problema, então, deve-se dar um tempo para que o JavaScript termine de carregar
+        # a página. Para isso que serve esta pequena, mas tão importante, linha de código.
         time.sleep(1)
 
+        # Se enable_skipping estiver ativado, pergunta se deseja pular o estado
         skip = ""
         if enable_skipping:
             skip = input("Pular instituição? S/N? ")
             logging.debug("skip = {}".format(skip))
 
+        # Default é não pular; pula apenas se explicitamente digitar "S" ou "s"
         if skip.lower() != "s":
+            # Executa a varredura da instituição selecionada, passando os parâmetros da função de estado para a de instituição
+            # e recebe a informação de erro de referência, que pode ter acontecido ao tentar coletar os dados da instituição
             _, erro_referencia = coletar_aprovados_instituicao(confirmar_dados=confirmar_dados, abrir_driver=False, driver=driver)
 
+            # Se houve erro de referência, adiciona na lista de erros para posterior tratamento
+            # Troca as múltiplas linhas por - para melhorar a legibilidade do log.
             if erro_referencia:
                 instituicoes_erros_referencia.append(instituicao.text.replace("\n", " - "))
+
+        # Se pulou, é colocado no log e passa para o próximo
         else:
             logging.info("Pulou estado {}".format(estado_text))
 
+    # Se opção de notificar estiver ativa, notifica ao final da execução de varredura do estado
+    # que a varredura deste foi concluída, se possui erros e, se possui, quantos são.
     if notificar:
         if len(instituicoes_erros_referencia) > 0:
             notify("Estado concluído (com erros)", "Retirada de dados do Estado {} concluído com {} erros de referência. Verifique arquivos gerados.".format(estado_text, len(instituicoes_erros_referencia)))
         else:
             notify("Estado concluído", "Retirada de dados do Estado {} concluído sem erros de referência.".format(estado_text))
 
+    # Após a varredura de todas as instituições do estado, verifica se houveram erros na execução
+    # Se houve algum erro, todos os estados com erro são referenciados no log, seguido por cada instituição que deu erro de cada estado
     if len(instituicoes_erros_referencia) > 0:
         logging.warning("------ {} erros de referência ao coletar as instituições. Instituições afetadas:".format(len(instituicoes_erros_referencia)))
         for erro_referencia in instituicoes_erros_referencia:
             logging.warning(">>> {}".format(erro_referencia))
+
+    # Se não houve nenhum erro, é colocado no log essa informação
     else:
         logging.info("------ {} erros de referência ao coletar as instituições.".format(len(instituicoes_erros_referencia)))
 
+    # Os erros das instituições do estado são colocadas em um dicionário para ser avaliado posteriormente,
+    # caso a função de coletar_aprovados_estado() tenha sido executada a partir da coletar_aprovados_ano()
     estado_erros_referencia = {estado_text: instituicoes_erros_referencia}
 
+    # Por fim, retorna o driver para que possa ser finalizado na rotina principal de execução do programa
+    # e o dicionário com os erros de referência do estado, sendo este último só utilizado se for chamado pela função coletar_aprovados_ano()
     return driver, estado_erros_referencia
 
 
@@ -733,6 +886,7 @@ def coletar_aprovados_ano(confirmar_dados=True, notificar=False, enable_skipping
         print("S/N? ", end="")
         modificar = input("")
 
+        # Default é não modificar; modifica apenas se explicitamente digitar "N" ou "n" (dados não corretos)
         if modificar.lower() == "n":
             logging.info("Usuário pede para modificar ano e/ou estado.")
 
