@@ -65,8 +65,9 @@ def file_handling(ano_text, estado_text, instituicao_text_sigla):
         função coletar_aprovados_instituicao(), onde é chamado.
     '''
 
-    # Troca as / por - para evitar problemas na criação de paths absolutos que podem causar erros de execução
+    # Troca / e \n por - para evitar problemas na criação de paths absolutos que podem causar erros de execução
     instituicao_text_sigla = instituicao_text_sigla.replace("/", "-")
+    instituicao_text_sigla = instituicao_text_sigla.replace("\n", "-")
 
     # Nome do path a ser criado
     file_path = os.path.join("Arquivos_CSV", estado_text, instituicao_text_sigla)
