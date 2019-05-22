@@ -10,9 +10,11 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import StaleElementReferenceException, NoSuchElementException
 
+# Configuração básica do logger. Utiliza o root logger, portanto é necessário modificação caso este arquivo seja usado como módulo
 logging.basicConfig(filename='web_scrapper.log', level=logging.DEBUG,
     format='%(asctime)s:%(levelname)s:%(funcName)s:%(message)s')
 
+# Desabilita logs dos módulos importados
 logging.config.dictConfig({
     'version': 1,
     'disable_existing_loggers': True,
@@ -65,9 +67,9 @@ def file_handling(ano_text, estado_text, instituicao_text_sigla):
         função coletar_aprovados_instituicao(), onde é chamado.
     '''
 
-    # Troca / e \n por - para evitar problemas na criação de paths absolutos que podem causar erros de execução
+    # Troca "/" por "-" e "\n" por " " para evitar problemas na criação de paths absolutos que podem causar erros de execução
     instituicao_text_sigla = instituicao_text_sigla.replace("/", "-")
-    instituicao_text_sigla = instituicao_text_sigla.replace("\n", "-")
+    instituicao_text_sigla = instituicao_text_sigla.replace("\n", " ")
 
     # Nome do path a ser criado
     file_path = os.path.join("Arquivos_CSV", estado_text, instituicao_text_sigla)
@@ -1098,7 +1100,7 @@ def help():
 
 
 if __name__ == '__main__':
-    # Checando se algum dos comandos for de help
+    # Checando caso algum dos comandos seja de help
     # https://stackoverflow.com/questions/740287/how-to-check-if-one-of-the-following-items-is-in-a-list
     if [x for x in sys.argv if x.lower() in ["-h", "--help"]]:
         help()
