@@ -32,7 +32,7 @@ Type `python3 web_scrapper_medgrupo.py -h` or `python3 web_scrapper_medgrupo.py 
 
 It's also possible to use without command line attributes. In that case just type:
 `python3 web_scrapper_medgrupo.py`
-
+___
 
 ## 2. Excel_Macro_Autorun
 Windows based program to automatically run Excel Macros on system startup.
